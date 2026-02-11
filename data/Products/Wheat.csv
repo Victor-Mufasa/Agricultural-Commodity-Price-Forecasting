@@ -1,0 +1,3001 @@
+Commodity,Classification,Grade,Sex,Market,Wholesale,Retail,Supply Volume,County,Date
+Wheat,-,-,-,Bondeni,61.11/Kg,66.67/Kg,500,Trans-Nzoia,2026-02-10
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,1260,Meru,2026-02-10
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-02-10
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,300,Trans-Nzoia,2026-02-10
+Wheat,-,-,-,Kutus,80.00/Kg,100.00/Kg,,Kirinyaga,2026-02-09
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-02-09
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,500,Trans-Nzoia,2026-02-09
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2026-02-08
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-02-06
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-02-05
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-02-04
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,990,Meru,2026-02-03
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-02-03
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-02-02
+Wheat,-,-,-,Kibuye, - ,65.00/Kg,,Kisumu,2026-02-01
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-30
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,400,Trans-Nzoia,2026-01-30
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-29
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,400,Trans-Nzoia,2026-01-29
+Wheat,-,-,-,Kitale Municipality Market,61.11/Kg,68.89/Kg,300,Trans-Nzoia,2026-01-28
+Wheat,-,-,-,Makutano Kirinyaga,85.00/Kg,100.00/Kg,250,Kirinyaga,2026-01-28
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-28
+Wheat,-,-,-,Bondeni,135.00/Kg,160.00/Kg,300,Trans-Nzoia,2026-01-27
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,900,Meru,2026-01-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-27
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,160.00/Kg,400,Trans-Nzoia,2026-01-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-26
+Wheat,-,-,-,Kibuye, - ,65.00/Kg,,Kisumu,2026-01-25
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-23
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2026-01-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-22
+Wheat,-,-,-,Kitale Municipality Market,61.11/Kg,66.67/Kg,500,Trans-Nzoia,2026-01-22
+Wheat,-,-,-,Bondeni,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2026-01-20
+Wheat,-,-,-,Maua,86.67/Kg,100.00/Kg,1350,Meru,2026-01-20
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,120.00/Kg,300,Trans-Nzoia,2026-01-20
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-19
+Wheat,-,-,-,Maua,86.67/Kg,100.00/Kg,900,Meru,2026-01-15
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2026-01-15
+Wheat,-,-,-,Kutus,87.00/Kg,100.00/Kg,,Kirinyaga,2026-01-12
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2026-01-11
+Wheat,-,-,-,Maua,86.67/Kg,100.00/Kg,1500,Meru,2026-01-06
+Wheat,-,-,-,Kutus,85.00/Kg,200.00/Kg,,Kirinyaga,2026-01-05
+Wheat,-,-,-,Maua,86.67/Kg,100.00/Kg,1080,Meru,2025-12-30
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2025-12-28
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1350,Meru,2025-12-24
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2025-12-18
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1350,Meru,2025-12-16
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-16
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-15
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2025-12-14
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-11
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-10
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1620,Meru,2025-12-09
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-09
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-08
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2025-12-07
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-05
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-04
+Wheat,-,-,-,Mulot,83.33/Kg,100.00/Kg,540,Bomet,2025-12-03
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-03
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,800,Meru,2025-12-02
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-02
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-12-01
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,110.00/Kg,500,Trans-Nzoia,2025-12-01
+Wheat,-,-,-,Kibuye, - ,80.00/Kg,,Kisumu,2025-11-30
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-11-28
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-28
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-11-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-27
+Wheat,-,-,-,Kitale Municipality Market,68.89/Kg,83.33/Kg,500,Trans-Nzoia,2025-11-27
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-11-26
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-26
+Wheat,-,-,-,Bondeni,90.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-11-25
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-25
+Wheat,-,-,-,Kutus,75.00/Kg,90.00/Kg,,Kirinyaga,2025-11-24
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-11-24
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-24
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,400,Trans-Nzoia,2025-11-24
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2025-11-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-21
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,500,Trans-Nzoia,2025-11-20
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-20
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-19
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-11-19
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,120.00/Kg,300,Trans-Nzoia,2025-11-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-17
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2025-11-16
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-14
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-13
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,81.11/Kg,500,Trans-Nzoia,2025-11-13
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-12
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,450,Meru,2025-11-11
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-11-11
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-11
+Wheat,-,-,-,Bondeni,66.67/Kg,77.78/Kg,300,Trans-Nzoia,2025-11-11
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-10
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,81.11/Kg,500,Trans-Nzoia,2025-11-10
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-07
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-06
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,400,Trans-Nzoia,2025-11-06
+Wheat,-,-,-,Taveta Retail Market,80.00/Kg,100.00/Kg,100,Taita-Taveta,2025-11-05
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-05
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-11-04
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-11-04
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-04
+Wheat,-,-,-,Bondeni,85.00/Kg,110.00/Kg,400,Trans-Nzoia,2025-11-04
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-11-03
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,400,Trans-Nzoia,2025-11-03
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2025-11-02
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-31
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-10-31
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,500,Trans-Nzoia,2025-10-30
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-30
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-29
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,300,Trans-Nzoia,2025-10-29
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-10-28
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-28
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-10-28
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-10-28
+Wheat,-,-,-,Bondeni,85.00/Kg,110.00/Kg,400,Trans-Nzoia,2025-10-28
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-10-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-27
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,115.00/Kg,500,Trans-Nzoia,2025-10-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-24
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-23
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-10-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-22
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2025-10-21
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-21
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,400,Trans-Nzoia,2025-10-16
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-16
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,110.00/Kg,200,Trans-Nzoia,2025-10-15
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-15
+Wheat,-,-,-,Bondeni,85.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-10-14
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,810,Meru,2025-10-14
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-14
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-10-14
+Wheat,-,-,-,Kangemi Market, - ,65.00/Kg,,Nairobi,2025-10-14
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-13
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-10-13
+Wheat,-,-,-,Makutano Embu,75.00/Kg,100.00/Kg,,Embu,2025-10-11
+Wheat,-,-,-,Makutano Kirinyaga,75.00/Kg,100.00/Kg,850,Kirinyaga,2025-10-11
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-10-10
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-09
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-10-09
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-08
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-10-08
+Wheat,-,-,-,Bondeni,85.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-10-07
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1350,Meru,2025-10-07
+Wheat,-,-,-,Kawangware,71.43/Kg,90.00/Kg,,Nairobi,2025-10-07
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-07
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-10-07
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-06
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-10-06
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,83.33/Kg,400,Trans-Nzoia,2025-10-06
+Wheat,-,-,-,Makutano Kirinyaga,70.00/Kg,90.00/Kg,480,Kirinyaga,2025-10-04
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-03
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-10-03
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-02
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,500,Trans-Nzoia,2025-10-02
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-10-01
+Wheat,-,-,-,Bondeni,85.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-09-30
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-09-30
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-09-30
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-30
+Wheat,-,-,-,Kutus,85.00/Kg,100.00/Kg,,Kirinyaga,2025-09-29
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-29
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-09-29
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-26
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-25
+Wheat,-,-,-,Makutano Embu,75.00/Kg,95.00/Kg,,Embu,2025-09-24
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-24
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-09-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-22
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-09-22
+Wheat,-,-,-,Makutano Embu,75.00/Kg,95.00/Kg,,Embu,2025-09-20
+Wheat,-,-,-,Makutano Kirinyaga,75.00/Kg,95.00/Kg,650,Kirinyaga,2025-09-19
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-19
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,110.00/Kg,200,Trans-Nzoia,2025-09-19
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-18
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-09-18
+Wheat,-,-,-,Kagio,40.00/Kg,50.00/Kg,1000,Kirinyaga,2025-09-17
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-17
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-09-17
+Wheat,-,-,-,Bondeni,85.00/Kg,110.00/Kg,200,Trans-Nzoia,2025-09-16
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-16
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-09-16
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-09-16
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-09-16
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-09-15
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-09-15
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-15
+Wheat,-,-,-,Makutano Kirinyaga,70.00/Kg,85.00/Kg,700,Kirinyaga,2025-09-13
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-12
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-09-12
+Wheat,-,-,-,Kitale Municipality Market,63.33/Kg,83.33/Kg,400,Trans-Nzoia,2025-09-11
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-11
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-09-11
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-09-10
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-09-10
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-10
+Wheat,-,-,-,Bondeni,63.33/Kg,75.56/Kg,300,Trans-Nzoia,2025-09-09
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,450,Meru,2025-09-09
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-09
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-09-09
+Wheat,-,-,-,Kutus,90.00/Kg,100.00/Kg,,Kirinyaga,2025-09-08
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-08
+Wheat,-,-,-,Kitale Municipality Market,60.00/Kg,83.33/Kg,400,Trans-Nzoia,2025-09-08
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2025-09-07
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-05
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-09-05
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-04
+Wheat,-,-,-,Kitale Municipality Market,74.44/Kg,83.33/Kg,,Trans-Nzoia,2025-09-04
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-09-03
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-03
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-09-03
+Wheat,-,-,-,Bondeni,66.67/Kg,83.33/Kg,300,Trans-Nzoia,2025-09-02
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-09-02
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-09-02
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-02
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-09-01
+Wheat,-,-,-,Makutano Kirinyaga,65.00/Kg,85.00/Kg,350,Kirinyaga,2025-08-30
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-08-29
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-29
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-08-29
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,120.00/Kg,500,Trans-Nzoia,2025-08-28
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-28
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-27
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,120.00/Kg,300,Trans-Nzoia,2025-08-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-26
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-25
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-25
+Wheat,-,-,-,Taveta Retail Market,100.00/Kg,150.00/Kg,75,Taita-Taveta,2025-08-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-22
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,120.00/Kg,300,Trans-Nzoia,2025-08-22
+Wheat,-,-,-,Kutus,88.00/Kg,100.00/Kg,,Kirinyaga,2025-08-21
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,83.33/Kg,400,Trans-Nzoia,2025-08-21
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-21
+Wheat,-,-,-,Taveta Retail Market,100.00/Kg,150.00/Kg,100,Taita-Taveta,2025-08-20
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-20
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,200,Trans-Nzoia,2025-08-20
+Wheat,-,-,-,Bondeni,85.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-08-19
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,630,Meru,2025-08-19
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-19
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,120.00/Kg,200,Trans-Nzoia,2025-08-19
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-19
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-18
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,120.00/Kg,200,Trans-Nzoia,2025-08-18
+Wheat,-,-,-,Taveta Retail Market,100.00/Kg,150.00/Kg,50,Taita-Taveta,2025-08-16
+Wheat,-,-,-,Makutano Embu,80.00/Kg,100.00/Kg,,Embu,2025-08-16
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2025-08-15
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-15
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-14
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,400,Trans-Nzoia,2025-08-14
+Wheat,-,-,-,Makutano Kirinyaga,80.00/Kg,100.00/Kg,290,Kirinyaga,2025-08-13
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-08-13
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-13
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-13
+Wheat,-,-,-,Bondeni,90.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-08-12
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-12
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-12
+Wheat,-,-,-,Kitale Municipality Market,95.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-08-12
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-11
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-11
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2025-08-10
+Wheat,-,-,-,Makutano Kirinyaga,80.00/Kg,100.00/Kg,600,Kirinyaga,2025-08-09
+Wheat,-,-,-,Katito, - ,95.00/Kg,2800,Kisumu,2025-08-07
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-08-06
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-06
+Wheat,-,-,-,Taveta Retail Market,80.00/Kg,100.00/Kg,100,Taita-Taveta,2025-08-06
+Wheat,-,-,-,Nyamakima,75.00/Kg,7500.00/Kg,,Nairobi,2025-08-05
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-05
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,450,Meru,2025-08-05
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-04
+Wheat,-,-,-,Taveta Retail Market,100.00/Kg,150.00/Kg,100,Taita-Taveta,2025-08-04
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-08-01
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-08-01
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-08-01
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-31
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-31
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,83.33/Kg,400,Trans-Nzoia,2025-07-31
+Wheat,-,-,-,Makutano Kirinyaga,85.00/Kg,100.00/Kg,370,Kirinyaga,2025-07-30
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-30
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-30
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-30
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,125.00/Kg,200,Trans-Nzoia,2025-07-30
+Wheat,-,-,-,Bondeni,90.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-07-29
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,720,Meru,2025-07-29
+Wheat,-,-,-,Kawangware,77.78/Kg,70.00/Kg,,Nairobi,2025-07-29
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-29
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-29
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-29
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-07-29
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-28
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-28
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-28
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,120.00/Kg,400,Trans-Nzoia,2025-07-28
+Wheat,-,-,-,Kibuye, - ,100.00/Kg,,Kisumu,2025-07-27
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-25
+Wheat,-,-,-,Kitale Municipality Market,60.00/Kg,80.00/Kg,200,Trans-Nzoia,2025-07-25
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-25
+Wheat,-,-,-,Maua,70.00/Kg,100.00/Kg,500,Meru,2025-07-24
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,120.00/Kg,400,Trans-Nzoia,2025-07-24
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-24
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-24
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-24
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-23
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-22
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-22
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-22
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-21
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-21
+Wheat,-,-,-,Kibuye, - ,90.00/Kg,,Kisumu,2025-07-20
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-18
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,120.00/Kg,300,Trans-Nzoia,2025-07-18
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-17
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,125.00/Kg,400,Trans-Nzoia,2025-07-17
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-17
+Wheat,-,-,-,Nyamakima,80.00/Kg,80.00/Kg,,Nairobi,2025-07-16
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-16
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-07-16
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Maua,72.22/Kg,80.00/Kg,540,Meru,2025-07-15
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Bondeni,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-15
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-14
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-14
+Wheat,-,-,-,Kibuye, - ,100.00/Kg,,Kisumu,2025-07-13
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-11
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-11
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,110.00/Kg,200,Trans-Nzoia,2025-07-11
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-10
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-10
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,400,Trans-Nzoia,2025-07-10
+Wheat,-,-,-,Gikomba,72.22/Kg,100.00/Kg,,Nairobi,2025-07-10
+Wheat,-,-,-,Makutano Kirinyaga,90.00/Kg,100.00/Kg,1300,Kirinyaga,2025-07-09
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-09
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-09
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-09
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,110.00/Kg,300,Trans-Nzoia,2025-07-08
+Wheat,-,-,-,Nyamakima,83.33/Kg,75.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Nyamakima,83.33/Kg,75.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Nyamakima,83.33/Kg,75.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Nyamakima,83.33/Kg,75.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Nyamakima,83.33/Kg,75.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Nyamakima,83.33/Kg,75.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Maua,72.22/Kg,80.00/Kg,450,Meru,2025-07-08
+Wheat,-,-,-,Bondeni,66.67/Kg,77.78/Kg,400,Trans-Nzoia,2025-07-08
+Wheat,-,-,-,Kangemi Market,71.11/Kg,80.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-08
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2025-07-06
+Wheat,-,-,-,Makutano Kirinyaga,80.00/Kg,100.00/Kg,1900,Kirinyaga,2025-07-05
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-04
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-07-04
+Wheat,-,-,-,Maua,65.00/Kg,80.00/Kg,450,Meru,2025-07-03
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-03
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-03
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-07-03
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-02
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-02
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-02
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-07-02
+Wheat,-,-,-,Bondeni,90.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-07-01
+Wheat,-,-,-,Nyamakima,75.00/Kg,75.00/Kg,,Nairobi,2025-07-01
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-07-01
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-07-01
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-07-01
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-06-30
+Wheat,-,-,-,Bura market,90.00/Kg,120.00/Kg,800,Tana-River,2025-06-30
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-30
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-30
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2025-06-29
+Wheat,-,-,-,Makutano Kirinyaga,80.00/Kg,100.00/Kg,900,Kirinyaga,2025-06-28
+Wheat,-,-,-,Maua,66.67/Kg,100.00/Kg,2700,Meru,2025-06-27
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-27
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,115.00/Kg,200,Trans-Nzoia,2025-06-27
+Wheat,-,-,-,Kutus,85.00/Kg,90.00/Kg,,Kirinyaga,2025-06-26
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,83.33/Kg,400,Trans-Nzoia,2025-06-26
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,200,Trans-Nzoia,2025-06-25
+Wheat,-,-,-,Kitale Municipality Market,72.22/Kg,91.11/Kg,200,Trans-Nzoia,2025-06-24
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-24
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-24
+Wheat,-,-,-,Bondeni,100.00/Kg,120.00/Kg,400,Trans-Nzoia,2025-06-24
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-23
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,400,Trans-Nzoia,2025-06-23
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2025-06-22
+Wheat,-,-,-,Bura market,70.00/Kg,100.00/Kg,900,Tana-River,2025-06-21
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-20
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-20
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,200,Trans-Nzoia,2025-06-20
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,115.00/Kg,400,Trans-Nzoia,2025-06-19
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-18
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-18
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-18
+Wheat,-,-,-,Bura market,90.00/Kg,120.00/Kg,1800,Tana-River,2025-06-18
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-06-18
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,200,Makueni,2025-06-17
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-17
+Wheat,-,-,-,Bura market,70.00/Kg,100.00/Kg,1800,Tana-River,2025-06-16
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-16
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-16
+Wheat,-,-,-,Kibuye, - ,60.00/Kg,,Kisumu,2025-06-15
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2025-06-13
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-13
+Wheat,-,-,-,Kitale Municipality Market,200.00/Kg,230.00/Kg,200,Trans-Nzoia,2025-06-13
+Wheat,-,-,-,Kutus,85.00/Kg,90.00/Kg,,Kirinyaga,2025-06-12
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-12
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,80.00/Kg,400,Trans-Nzoia,2025-06-12
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-11
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,100.00/Kg,300,Trans-Nzoia,2025-06-11
+Wheat,-,-,-,Makutano Kirinyaga,100.00/Kg,120.00/Kg,1500,Kirinyaga,2025-06-11
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,300,Makueni,2025-06-10
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,300,Trans-Nzoia,2025-06-10
+Wheat,-,-,-,Maua,66.67/Kg,100.00/Kg,1800,Meru,2025-06-10
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-10
+Wheat,-,-,-,Bondeni,100.00/Kg,125.00/Kg,400,Trans-Nzoia,2025-06-10
+Wheat,-,-,-,Kutus,85.00/Kg,90.00/Kg,,Kirinyaga,2025-06-09
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2025-06-09
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-09
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-09
+Wheat,-,-,-,Bura market,90.00/Kg,120.00/Kg,1800,Tana-River,2025-06-07
+Wheat,-,-,-,Makutano Kirinyaga,80.00/Kg,100.00/Kg,850,Kirinyaga,2025-06-06
+Wheat,-,-,-,Nyamakima, - ,100.00/Kg,,Nairobi,2025-06-05
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-06-05
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-05
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,400,Trans-Nzoia,2025-06-05
+Wheat,-,-,-,Bura market,90.00/Kg,120.00/Kg,1800,Tana-River,2025-06-04
+Wheat,-,-,-,Nyamakima, - ,100.00/Kg,,Nairobi,2025-06-04
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-04
+Wheat,-,-,-,Makutano Kirinyaga,70.00/Kg,90.00/Kg,800,Kirinyaga,2025-06-04
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,200,Trans-Nzoia,2025-06-04
+Wheat,-,-,-,Bondeni,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-06-03
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,300,Makueni,2025-06-03
+Wheat,-,-,-,Maua,66.67/Kg,100.00/Kg,1800,Meru,2025-06-03
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-06-03
+Wheat,-,-,-,Kawangware,70.00/Kg,90.00/Kg,,Nairobi,2025-06-03
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2000,Uasin-Gishu,2025-06-03
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-06-03
+Wheat,-,-,-,Kutus,80.00/Kg,90.00/Kg,,Kirinyaga,2025-06-02
+Wheat,-,-,-,Bura market,70.00/Kg,100.00/Kg,1800,Tana-River,2025-06-02
+Wheat,-,-,-,Kibuye, - ,65.00/Kg,,Kisumu,2025-06-01
+Wheat,-,-,-,Bura market,90.00/Kg,120.00/Kg,900,Tana-River,2025-05-31
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-30
+Wheat,-,-,-,Kawangware,70.00/Kg,90.00/Kg,,Nairobi,2025-05-30
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,200,Trans-Nzoia,2025-05-30
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,120.00/Kg,400,Trans-Nzoia,2025-05-29
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-29
+Wheat,-,-,-,Bura market,90.00/Kg,120.00/Kg,900,Tana-River,2025-05-28
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-28
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,150,Trans-Nzoia,2025-05-28
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2025-05-27
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,250,Makueni,2025-05-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-27
+Wheat,-,-,-,Kawangware,77.78/Kg,90.00/Kg,,Nairobi,2025-05-27
+Wheat,-,-,-,Bondeni,100.00/Kg,115.00/Kg,300,Trans-Nzoia,2025-05-27
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-26
+Wheat,-,-,-,Bura market,100.00/Kg,130.00/Kg,1800,Tana-River,2025-05-26
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,400,Trans-Nzoia,2025-05-26
+Wheat,-,-,-,Kibuye, - ,60.00/Kg,,Kisumu,2025-05-25
+Wheat,-,-,-,Bura market,80.00/Kg,100.00/Kg,1800,Tana-River,2025-05-24
+Wheat,-,-,-,Makutano Kirinyaga,80.00/Kg,100.00/Kg,1900,Kirinyaga,2025-05-24
+Wheat,-,-,-,Kawangware,70.00/Kg,80.00/Kg,,Nairobi,2025-05-23
+Wheat,-,-,-,Nyamakima, - ,100.00/Kg,,Nairobi,2025-05-23
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-23
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2025-05-23
+Wheat,-,-,-,Kutus,90.00/Kg,100.00/Kg,,Kirinyaga,2025-05-22
+Wheat,-,-,-,Nyamakima, - ,100.00/Kg,,Nairobi,2025-05-22
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-22
+Wheat,-,-,-,Kawangware,70.00/Kg,80.00/Kg,,Nairobi,2025-05-22
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,400,Trans-Nzoia,2025-05-22
+Wheat,-,-,-,Bura market,95.56/Kg,120.00/Kg,1800,Tana-River,2025-05-21
+Wheat,-,-,-,Kawangware,70.00/Kg,80.00/Kg,,Nairobi,2025-05-21
+Wheat,-,-,-,Nyamakima, - ,100.00/Kg,,Nairobi,2025-05-21
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-21
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-05-21
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,350,Makueni,2025-05-20
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-05-20
+Wheat,-,-,-,Bondeni,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2025-05-20
+Wheat,-,-,-,Nyamakima, - ,100.00/Kg,,Nairobi,2025-05-20
+Wheat,-,-,-,Kawangware,70.00/Kg,80.00/Kg,,Nairobi,2025-05-20
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2025-05-20
+Wheat,-,-,-,Kutus,90.00/Kg,100.00/Kg,,Kirinyaga,2025-05-19
+Wheat,-,-,-,Bura market,94.44/Kg,120.00/Kg,900,Tana-River,2025-05-19
+Wheat,-,-,-,Kangemi Market,72.22/Kg, - ,,Nairobi,2025-05-19
+Wheat,-,-,-,Kibuye, - ,60.00/Kg,,Kisumu,2025-05-18
+Wheat,-,-,-,Bura market,84.00/Kg,120.00/Kg,900,Tana-River,2025-05-17
+Wheat,-,-,-,Kagio,100.00/Kg,125.00/Kg,,Kirinyaga,2025-05-16
+Wheat,-,-,-,Bondeni,100.00/Kg,125.00/Kg,400,Trans-Nzoia,2025-05-15
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2024-10-09
+Wheat,-,-,-,Bondeni,66.67/Kg,88.89/Kg,300,Trans-Nzoia,2024-10-08
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1980,Meru,2024-10-08
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-10-08
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-10-07
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-10-04
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-10-03
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-10-02
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,2160,Meru,2024-10-01
+Wheat,-,-,-,Kathonzweni,70.00/Kg,90.00/Kg,320,Makueni,2024-10-01
+Wheat,-,-,-,Bondeni,66.67/Kg,88.89/Kg,300,Trans-Nzoia,2024-10-01
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-30
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-09-29
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-27
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1980,Meru,2024-09-26
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-26
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-25
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-24
+Wheat,-,-,-,Bondeni,66.67/Kg,88.89/Kg,300,Trans-Nzoia,2024-09-24
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-09-23
+Wheat,-,-,-,Gikomba, - ,90.00/Kg,,Nairobi,2024-09-23
+Wheat,-,-,-,Kibuye, - ,90.00/Kg,,Kisumu,2024-09-22
+Wheat,-,-,-,Kutus,90.00/Kg,100.00/Kg,0,Kirinyaga,2024-09-19
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-18
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-17
+Wheat,-,-,-,Kathonzweni,70.00/Kg,90.00/Kg,200,Makueni,2024-09-17
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,2000,Nandi,2024-09-17
+Wheat,-,-,-,Bondeni,66.67/Kg,88.89/Kg,300,Trans-Nzoia,2024-09-17
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2024-09-15
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-13
+Wheat,-,-,-,Gikomba,60.00/Kg,100.00/Kg,,Nairobi,2024-09-12
+Wheat,-,-,-,Kalundu,100.00/Kg,100.00/Kg,,Kitui,2024-09-12
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-11
+Wheat,-,-,-,Kathonzweni,70.00/Kg,90.00/Kg,180,Makueni,2024-09-10
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1980,Meru,2024-09-10
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-09-10
+Wheat,-,-,-,Bondeni,66.67/Kg,88.89/Kg,300,Trans-Nzoia,2024-09-10
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-09-09
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,6300,Kisumu,2024-09-08
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1500,Nandi,2024-09-07
+Wheat,-,-,-,Kabati - Muranga,66.67/Kg,77.78/Kg,,Muranga,2024-09-06
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-09-06
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-09-05
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-09-04
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2024-09-03
+Wheat,-,-,-,Kapsabet Market,100.00/Kg,100.00/Kg,1000,Nandi,2024-09-03
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-09-03
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-09-02
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-09-01
+Wheat,-,-,-,Kapsabet Market,100.00/Kg,100.00/Kg,2500,Nandi,2024-08-31
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2000,Uasin-Gishu,2024-08-30
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,200,Makueni,2024-08-27
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1980,Meru,2024-08-27
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1980,Meru,2024-08-27
+Wheat,-,-,-,Kapsabet Market,100.00/Kg,100.00/Kg,2000,Nandi,2024-08-27
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-27
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2024-08-27
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-26
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-08-26
+Wheat,-,-,-,Kibuye, - ,60.00/Kg,2160,Kisumu,2024-08-25
+Wheat,-,-,-,Kapsabet Market,100.00/Kg,100.00/Kg,1000,Nandi,2024-08-24
+Wheat,-,-,-,Taveta Retail Market,100.00/Kg,120.00/Kg,2000,Taita-Taveta,2024-08-21
+Wheat,-,-,-,Mukuyu Market, - ,180.00/Kg,,Muranga,2024-08-21
+Wheat,-,-,-,Kapsabet Market,2.00/Kg,100.00/Kg,2000,Nandi,2024-08-20
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2024-08-20
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-20
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-19
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2024-08-18
+Wheat,-,-,-,Kibiok,90.00/Kg,200.00/Kg,500,Nandi,2024-08-18
+Wheat,-,-,-,Gikomba, - ,200.00/Kg,,Nairobi,2024-08-15
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-14
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-08-13
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-13
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-12
+Wheat,-,-,-,Kibuye, - ,90.00/Kg,,Kisumu,2024-08-11
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-09
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,3000,Nairobi,2024-08-08
+Wheat,-,-,-,Kiria-ini Market,85.00/Kg,85.00/Kg,900,Muranga,2024-08-07
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-07
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1440,Meru,2024-08-06
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,150,Makueni,2024-08-06
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,270,Uasin-Gishu,2024-08-06
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,360,Trans-Nzoia,2024-08-05
+Wheat,-,-,-,Gikomba,60.00/Kg,100.00/Kg,,Nairobi,2024-08-05
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-08-04
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2000,Uasin-Gishu,2024-08-02
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-08-02
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5400,Uasin-Gishu,2024-08-01
+Wheat,-,-,-,Kitale Municipality Market,66.67/Kg,88.89/Kg,360,Trans-Nzoia,2024-07-31
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-31
+Wheat,-,-,-,Eldoret Main,40.00/Kg,50.00/Kg,2000,Uasin-Gishu,2024-07-31
+Wheat,-,-,-,Gikomba,60.00/Kg,100.00/Kg,,Nairobi,2024-07-30
+Wheat,-,-,-,Bondeni,66.67/Kg,88.89/Kg,300,Trans-Nzoia,2024-07-30
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,4500,Uasin-Gishu,2024-07-29
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-29
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-07-29
+Wheat,-,-,-,Khayega,127.27/Kg,136.36/Kg,90,Kakamega,2024-07-28
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2024-07-27
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-26
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,360,Trans-Nzoia,2024-07-25
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2024-07-25
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-24
+Wheat,-,-,-,Kangemi Market,57.78/Kg,65.00/Kg,,Nairobi,2024-07-24
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2024-07-23
+Wheat,-,-,-,Gikomba,60.00/Kg,100.00/Kg,,Nairobi,2024-07-22
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-07-22
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,270,Nyamira,2024-07-21
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1800,Nandi,2024-07-20
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-19
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-18
+Wheat,-,-,-,Chepterit Market - Nandi,100.00/Kg,125.00/Kg,3200,Nandi,2024-07-17
+Wheat,-,-,-,Mukuyu Market,60.00/Kg,70.00/Kg,,Muranga,2024-07-17
+Wheat,-,-,-,Gikomba,60.00/Kg,100.00/Kg,,Nairobi,2024-07-17
+Wheat,-,-,-,Kangemi Market,57.78/Kg,65.00/Kg,,Nairobi,2024-07-17
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2024-07-16
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2024-07-16
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1500,Nandi,2024-07-16
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,270,Makueni,2024-07-16
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-16
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-15
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,250,Nyamira,2024-07-14
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-07-14
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1000,Nandi,2024-07-13
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,360,Trans-Nzoia,2024-07-11
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-07-11
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2024-07-11
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-07-10
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,200,Makueni,2024-07-09
+Wheat,-,-,-,Kapsabet Market,63.33/Kg,80.00/Kg,2000,Nandi,2024-07-09
+Wheat,-,-,-,Kangemi Market,57.78/Kg, - ,,Nairobi,2024-07-09
+Wheat,-,-,-,Kangemi Market,64.44/Kg, - ,,Nairobi,2024-07-08
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-07-08
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-07-07
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2024-07-04
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2024-07-03
+Wheat,-,-,-,Kapsabet Market,200.00/Kg,80.00/Kg,1800,Nandi,2024-07-02
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,400,Makueni,2024-07-02
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2024-07-02
+Wheat,-,-,-,Kimumu - Bahati,90.00/Kg,100.00/Kg,300,Uasin-Gishu,2024-07-02
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-07-01
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-07-01
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-06-30
+Wheat,-,-,-,Kangemi Market,62.22/Kg, - ,,Nairobi,2024-06-28
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-28
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2024-06-27
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,360,Trans-Nzoia,2024-06-26
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-26
+Wheat,-,-,-,Kapsabet Market,57.00/Kg,80.00/Kg,1800,Nandi,2024-06-25
+Wheat,-,-,-,Gikomba,66.00/Kg,220.00/Kg,,Nairobi,2024-06-25
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-24
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2024-06-24
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1200,Nandi,2024-06-22
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-21
+Wheat,-,-,-,Kimumu - Bahati,90.00/Kg,100.00/Kg,800,Uasin-Gishu,2024-06-20
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,360,Trans-Nzoia,2024-06-20
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,360,Trans-Nzoia,2024-06-20
+Wheat,-,-,-,Kangemi Market,55.56/Kg, - ,,Nairobi,2024-06-20
+Wheat,-,-,-,Gikomba,66.67/Kg,110.00/Kg,,Nairobi,2024-06-20
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-19
+Wheat,-,-,-,Bondeni,150.00/Kg,175.00/Kg,300,Trans-Nzoia,2024-06-18
+Wheat,-,-,-,Kangemi Market,62.22/Kg, - ,,Nairobi,2024-06-18
+Wheat,-,-,-,Kapsabet Market,63.33/Kg,80.00/Kg,1500,Nandi,2024-06-18
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-18
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2024-06-17
+Wheat,-,-,-,Gikomba,6.00/Kg,110.00/Kg,,Nairobi,2024-06-14
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-13
+Wheat,-,-,-,Kawangware, - ,95.00/Kg,,Nairobi,2024-06-13
+Wheat,-,-,-,Kibuye, - ,90.00/Kg,,Kisumu,2024-06-12
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-12
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1800,Nandi,2024-06-11
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-11
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,1200,Uasin-Gishu,2024-06-10
+Wheat,-,-,-,Kapsabet Market,63.33/Kg,80.00/Kg,1000,Nandi,2024-06-08
+Wheat,-,-,-,Gikomba,60.00/Kg,110.00/Kg,,Nairobi,2024-06-07
+Wheat,-,-,-,Gikomba,60.00/Kg,100.00/Kg,,Nairobi,2024-06-06
+Wheat,-,-,-,Gikomba, - ,150.00/Kg,,Nairobi,2024-06-05
+Wheat,-,-,-,Kimumu - Bahati,90.00/Kg,100.00/Kg,700,Uasin-Gishu,2024-06-05
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1800,Nandi,2024-06-04
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2024-06-04
+Wheat,-,-,-,Kathonzweni,70.00/Kg,90.00/Kg,500,Makueni,2024-06-04
+Wheat,-,-,-,Kimumu - Bahati,100.00/Kg,125.00/Kg,600,Uasin-Gishu,2024-06-04
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2024-06-04
+Wheat,-,-,-,Gikomba, - ,150.00/Kg,,Nairobi,2024-06-04
+Wheat,-,-,-,Kangemi Market, - ,75.00/Kg,,Nairobi,2024-06-04
+Wheat,-,-,-,Gikomba, - ,150.00/Kg,,Nairobi,2024-06-03
+Wheat,-,-,-,Kibuye, - ,90.00/Kg,,Kisumu,2024-06-03
+Wheat,-,-,-,Kibuye, - ,90.00/Kg,,Kisumu,2024-06-03
+Wheat,-,-,-,Kapsabet Market,6.00/Kg,60.00/Kg,1800,Nandi,2024-06-01
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-05-31
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1350,Meru,2024-05-30
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-05-30
+Wheat,-,-,-,Gikomba,64.44/Kg,100.00/Kg,,Nairobi,2024-05-29
+Wheat,-,-,-,Mukuyu Market, - ,35.00/Kg,,Muranga,2024-05-29
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,2500,Uasin-Gishu,2024-05-29
+Wheat,-,-,-,Kapsabet Market,63.33/Kg,100.00/Kg,6000,Nandi,2024-05-28
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,320,Makueni,2024-05-28
+Wheat,-,-,-,Gikomba,58.00/Kg,100.00/Kg,,Nairobi,2024-05-28
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2024-05-28
+Wheat,-,-,-,Kiria-ini Market,85.00/Kg,85.00/Kg,900,Muranga,2024-05-28
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,360,Trans-Nzoia,2024-05-27
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-05-27
+Wheat,-,-,-,Kibuye, - ,100.00/Kg,,Kisumu,2024-05-27
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-05-23
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-05-23
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-05-22
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-05-22
+Wheat,-,-,-,Kathonzweni,60.00/Kg,70.00/Kg,270,Makueni,2024-05-21
+Wheat,-,-,-,Kapsabet Market,63.33/Kg,80.00/Kg,600,Nandi,2024-05-21
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,200,Trans-Nzoia,2024-05-21
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1080,Meru,2024-05-21
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,630,Nakuru,2024-05-14
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1000,Nandi,2024-05-14
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,180,Trans-Nzoia,2024-05-13
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-05-13
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-05-13
+Wheat,-,-,-,Gikomba,58.00/Kg,100.00/Kg,,Nairobi,2024-05-13
+Wheat,-,-,-,Kibuye, - ,160.00/Kg,,Kisumu,2024-05-12
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,180,Nyamira,2024-05-12
+Wheat,-,-,-,Kapsabet Market,60.00/Kg,80.00/Kg,1500,Nandi,2024-05-11
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-05-08
+Wheat,-,-,-,Kawangware,79.00/Kg,90.00/Kg,,Nairobi,2024-05-08
+Wheat,-,-,-,Kathonzweni,70.00/Kg,90.00/Kg,380,Makueni,2024-05-07
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,990,Nakuru,2024-05-07
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-05-06
+Wheat,-,-,-,Kawangware,79.00/Kg,90.00/Kg,,Nairobi,2024-05-06
+Wheat,-,-,-,Kawangware, - ,75.00/Kg,,Nairobi,2024-05-05
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-05-04
+Wheat,-,-,-,Kiria-ini Market,85.00/Kg,85.00/Kg,900,Muranga,2024-05-03
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,1800,Nakuru,2024-05-03
+Wheat,-,-,-,Kawangware, - ,95.00/Kg,,Nairobi,2024-05-03
+Wheat,-,-,-,Kawangware, - ,95.00/Kg,,Nairobi,2024-05-02
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1350,Meru,2024-04-30
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-30
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-29
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-26
+Wheat,-,-,-,Kiria-ini Market,170.00/Kg,85.00/Kg,900,Muranga,2024-04-26
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-24
+Wheat,-,-,-,Mukuyu Market, - ,140.00/Kg,,Muranga,2024-04-24
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2024-04-23
+Wheat,-,-,-,Kathonzweni,70.00/Kg,80.00/Kg,200,Makueni,2024-04-23
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-23
+Wheat,-,-,-,Kabiyet Market,250.00/Kg,300.00/Kg,2000,Nandi,2024-04-23
+Wheat,-,-,-,Kiria-ini Market,85.00/Kg,85.00/Kg,900,Muranga,2024-04-23
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-22
+Wheat,-,-,-,Gikomba,70.00/Kg,100.00/Kg,,Nairobi,2024-04-22
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-19
+Wheat,-,-,-,Kangemi Market, - ,70.00/Kg,,Nairobi,2024-04-19
+Wheat,-,-,-,Kiria-ini Market,170.00/Kg,170.00/Kg,900,Muranga,2024-04-18
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-04-18
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-18
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-04-18
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-04-18
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-17
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-04-17
+Wheat,-,-,-,Maralal livestock market,90.00/Kg,120.00/Kg,50,Samburu,2024-04-17
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,570,Trans-Nzoia,2024-04-16
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,2160,Meru,2024-04-16
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-04-16
+Wheat,-,-,-,Kabiyet Market,250.00/Kg,300.00/Kg,100,Nandi,2024-04-16
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,270,Trans-Nzoia,2024-04-16
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-15
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-04-15
+Wheat,-,-,-,Kapsabet Market,80.00/Kg,92.00/Kg,1500,Nandi,2024-04-13
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-12
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,270,Trans-Nzoia,2024-04-11
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-04-11
+Wheat,-,-,-,Karatina,66.67/Kg,100.00/Kg,450,Nyeri,2024-04-11
+Wheat,-,-,-,Maua,777.78/Kg,100.00/Kg,2430,Meru,2024-04-09
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-04-09
+Wheat,-,-,-,Kawangware,80.56/Kg,90.00/Kg,,Nairobi,2024-04-09
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-04-08
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-04-08
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,430,Nyamira,2024-04-07
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-04-05
+Wheat,-,-,-,Kitale Municipality Market,150.00/Kg,175.00/Kg,270,Trans-Nzoia,2024-04-04
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-04-04
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2024-04-04
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-04-03
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-04-03
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-04-03
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-04-02
+Wheat,-,-,-,Kabiyet Market,200.00/Kg,300.00/Kg,200,Nandi,2024-04-02
+Wheat,-,-,-,Kabiyet Market,250.00/Kg,300.00/Kg,1000,Nandi,2024-03-29
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-03-28
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-03-27
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-03-27
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-03-26
+Wheat,-,-,-,Karatina,66.67/Kg,100.00/Kg,4500,Nyeri,2024-03-26
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,120.00/Kg,8000,Nandi,2024-03-26
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2024-03-26
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-03-25
+Wheat,-,-,-,Kawangware,79.00/Kg,90.00/Kg,,Nairobi,2024-03-22
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,1080,Nakuru,2024-03-21
+Wheat,-,-,-,Kutus,81.45/Kg,90.50/Kg,0,Kirinyaga,2024-03-21
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-03-21
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-20
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1440,Meru,2024-03-19
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2024-03-19
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-18
+Wheat,-,-,-,Kibiok,75.00/Kg,80.00/Kg,500,Nandi,2024-03-17
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,450,Nyamira,2024-03-17
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-15
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-14
+Wheat,-,-,-,Kawangware,79.00/Kg,90.00/Kg,,Nairobi,2024-03-14
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-13
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,3600,Uasin-Gishu,2024-03-12
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-12
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2024-03-12
+Wheat,-,-,-,Gikomba, - ,90.00/Kg,,Nairobi,2024-03-12
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-11
+Wheat,-,-,-,Kawangware,78.00/Kg,90.00/Kg,,Nairobi,2024-03-11
+Wheat,-,-,-,Kibiok,75.00/Kg,80.00/Kg,450,Nandi,2024-03-10
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,130.00/Kg,1000,Nandi,2024-03-08
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-08
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,80.00/Kg,250,Kisii,2024-03-08
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1980,Meru,2024-03-07
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-07
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-03-07
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,990,Nakuru,2024-03-06
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-05
+Wheat,-,-,-,Kabiyet Market,200.00/Kg,300.00/Kg,1000,Nandi,2024-03-05
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-04
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-03-04
+Wheat,-,-,-,Kibiok,75.00/Kg,80.00/Kg,600,Nandi,2024-03-03
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-03-01
+Wheat,-,-,-,Bungoma town,110.00/Kg,150.00/Kg,400,Bungoma,2024-03-01
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2500,Uasin-Gishu,2024-03-01
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,2430,Nakuru,2024-02-29
+Wheat,-,-,-,Karatina,66.67/Kg,100.00/Kg,450,Nyeri,2024-02-29
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-28
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,550,Uasin-Gishu,2024-02-28
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2024-02-28
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2024-02-27
+Wheat,-,-,-,Kawangware,81.00/Kg,90.00/Kg,,Nairobi,2024-02-27
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-26
+Wheat,-,-,-,Kawangware,79.00/Kg,90.00/Kg,,Nairobi,2024-02-26
+Wheat,-,-,-,Kibiok,150.00/Kg,160.00/Kg,400,Nandi,2024-02-25
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-23
+Wheat,-,-,-,Gakoromone,55.56/Kg,100.00/Kg,3000,Meru,2024-02-23
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-22
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-02-21
+Wheat,-,-,-,Maua,77.78/Kg,1000.00/Kg,900,Meru,2024-02-20
+Wheat,-,-,-,Gikomba, - ,115.00/Kg,,Nairobi,2024-02-20
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-02-20
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-20
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-02-20
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2024-02-20
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-19
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-16
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,80.00/Kg,,Kisii,2024-02-16
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-02-16
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-15
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1800,Meru,2024-02-15
+Wheat,-,-,-,Kawangware,79.00/Kg,90.00/Kg,,Nairobi,2024-02-15
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-14
+Wheat,-,-,-,Daraja Mbili,64.44/Kg,88.00/Kg,850,Kisii,2024-02-14
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,110.00/Kg,8000,Nandi,2024-02-13
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-13
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2024-02-13
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-12
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-02-12
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-09
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,120.00/Kg,5000,Nandi,2024-02-08
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-08
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2024-02-08
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-07
+Wheat,-,-,-,Gikomba, - ,115.00/Kg,,Nairobi,2024-02-07
+Wheat,-,-,-,Kawangware,81.00/Kg,90.00/Kg,,Nairobi,2024-02-06
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,3960,Nakuru,2024-02-06
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,240,Trans-Nzoia,2024-02-06
+Wheat,-,-,-,Daraja Mbili,53.33/Kg,80.00/Kg,480,Kisii,2024-02-05
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-05
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-02-05
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2024-02-05
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-02
+Wheat,-,-,-,Kawangware,81.11/Kg,90.00/Kg,,Nairobi,2024-02-02
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-02-01
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-31
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2024-01-31
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-30
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,1350,Meru,2024-01-30
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-29
+Wheat,-,-,-,Othaya,66.67/Kg,135.00/Kg,2700,Nyeri,2024-01-29
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-26
+Wheat,-,-,-,Gikomba, - ,115.00/Kg,,Nairobi,2024-01-26
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-01-25
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-25
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-24
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-01-24
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-23
+Wheat,-,-,-,Kabiyet Market,208.33/Kg,110.00/Kg,35000,Nandi,2024-01-23
+Wheat,-,-,-,Bondeni,100.00/Kg,125.00/Kg,180,Trans-Nzoia,2024-01-23
+Wheat,-,-,-,Maua,77.78/Kg,80.00/Kg,2700,Meru,2024-01-23
+Wheat,-,-,-,Kawangware,81.00/Kg,90.00/Kg,,Nairobi,2024-01-23
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,125.00/Kg,300,Trans-Nzoia,2024-01-22
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-22
+Wheat,-,-,-,Othaya,66.67/Kg,135.00/Kg,3600,Nyeri,2024-01-22
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-01-20
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,350,Kisii,2024-01-19
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2024-01-19
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-18
+Wheat,-,-,-,Kawangware,81.11/Kg,90.00/Kg,,Nairobi,2024-01-18
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-17
+Wheat,-,-,-,Kawangware,81.11/Kg,90.00/Kg,,Nairobi,2024-01-17
+Wheat,-,-,-,Maua,77.78/Kg,80.00/Kg,900,Meru,2024-01-16
+Wheat,-,-,-,Nakuru Wakulima,65.00/Kg, - ,,Nakuru,2024-01-16
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-01-15
+Wheat,-,-,-,Kawangware,81.11/Kg,90.00/Kg,,Nairobi,2024-01-15
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2024-01-12
+Wheat,-,-,-,Kitale Municipality Market,110.00/Kg,135.00/Kg,270,Trans-Nzoia,2024-01-11
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2024-01-11
+Wheat,-,-,-,Maua,77.78/Kg,80.00/Kg,990,Meru,2024-01-11
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2024-01-11
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,110.00/Kg,3500,Nandi,2024-01-09
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2024-01-09
+Wheat,-,-,-,Kawangware, - ,90.00/Kg,,Nairobi,2024-01-09
+Wheat,-,-,-,Bondeni,100.00/Kg,125.00/Kg,180,Trans-Nzoia,2024-01-09
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2024-01-08
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2024-01-08
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2024-01-05
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2024-01-04
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,170,Trans-Nzoia,2024-01-03
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,170,Trans-Nzoia,2024-01-03
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2024-01-03
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2024-01-02
+Wheat,-,-,-,Kitale Municipality Market,110.00/Kg,135.00/Kg,170,Trans-Nzoia,2023-12-28
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-28
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,72.00/Kg,270,Kisii,2023-12-28
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-22
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-21
+Wheat,-,-,-,Miruka, - ,125.00/Kg,540,Nyamira,2023-12-20
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-20
+Wheat,-,-,-,Maua,777.78/Kg,80.00/Kg,1080,Meru,2023-12-19
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,110.00/Kg,20000,Nandi,2023-12-19
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-19
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-12-18
+Wheat,-,-,-,Bungoma town,76.63/Kg,114.94/Kg,350,Bungoma,2023-12-15
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-15
+Wheat,-,-,-,Maua,77.78/Kg,80.00/Kg,900,Meru,2023-12-14
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-14
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-13
+Wheat,-,-,-,Nakuru Wakulima,72.22/Kg, - ,,Nakuru,2023-12-11
+Wheat,-,-,-,Bungoma town,76.92/Kg,115.38/Kg,400,Bungoma,2023-12-08
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-08
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-12-07
+Wheat,-,-,-,Maua,77.78/Kg,80.00/Kg,900,Meru,2023-12-07
+Wheat,-,-,-,Kebirigo,90.00/Kg,100.00/Kg,90,Nyamira,2023-12-07
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-07
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-12-06
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-12-06
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,110.00/Kg,10000,Nandi,2023-12-05
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-12-05
+Wheat,-,-,-,Kapsabet Market,90.00/Kg,100.00/Kg,2000,Nandi,2023-12-05
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-12-04
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,630,Nyamira,2023-12-04
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-12-01
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-12-01
+Wheat,-,-,-,Daraja Mbili,90.00/Kg,110.00/Kg,70000,Kisii,2023-12-01
+Wheat,-,-,-,Maua,77.78/Kg,80.00/Kg,900,Meru,2023-11-30
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-30
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2023-11-29
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-11-29
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,110.00/Kg,7500,Nandi,2023-11-28
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,100.00/Kg,1500,Nandi,2023-11-28
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-28
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-27
+Wheat,-,-,-,Kangemi Market, - ,120.00/Kg,,Nairobi,2023-11-27
+Wheat,-,-,-,Naivasha Market,60.00/Kg,70.00/Kg,,Nakuru,2023-11-27
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-24
+Wheat,-,-,-,Bahati,50.00/Kg,50.00/Kg,50,Nakuru,2023-11-23
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-23
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-22
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,120.00/Kg,10000,Nandi,2023-11-21
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,1440,Meru,2023-11-21
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-21
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,100.00/Kg,1500,Nandi,2023-11-21
+Wheat,-,-,-,Bondeni,66.67/Kg,77.78/Kg,180,Trans-Nzoia,2023-11-21
+Wheat,-,-,-,Kangemi Market, - ,130.00/Kg,,Nairobi,2023-11-20
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-11-20
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-11-20
+Wheat,-,-,-,Kibiok,75.00/Kg,85.00/Kg,250,Nandi,2023-11-19
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,630,Nyamira,2023-11-19
+Wheat,-,-,-,Nakuru Top Market,50.00/Kg, - ,,Nakuru,2023-11-17
+Wheat,-,-,-,Kangemi Market, - ,130.00/Kg,,Nairobi,2023-11-17
+Wheat,-,-,-,Nakuru Top Market,50.00/Kg, - ,,Nakuru,2023-11-16
+Wheat,-,-,-,Kabiyet Market,110.00/Kg,120.00/Kg,5000,Nandi,2023-11-14
+Wheat,-,-,-,Kabiyet Market,110.00/Kg,120.00/Kg,5000,Nandi,2023-11-14
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-11-14
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,100.00/Kg,1000,Nandi,2023-11-14
+Wheat,-,-,-,Nakuru Top Market,70.00/Kg, - ,,Nakuru,2023-11-10
+Wheat,-,-,-,Nakuru Top Market,146.00/Kg, - ,,Nakuru,2023-11-10
+Wheat,-,-,-,Nakuru Top Market,70.00/Kg, - ,,Nakuru,2023-11-09
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,900,Meru,2023-11-09
+Wheat,-,-,-,Nakuru Top Market,70.00/Kg, - ,,Nakuru,2023-11-08
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-11-08
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,100.00/Kg,1000,Nandi,2023-11-07
+Wheat,-,-,-,Nakuru Top Market,57.78/Kg, - ,,Nakuru,2023-11-06
+Wheat,-,-,-,Nakuru Top Market, - ,140.00/Kg,,Nakuru,2023-11-06
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-11-06
+Wheat,-,-,-,Ikonge, - ,83.33/Kg,630,Nyamira,2023-11-05
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,100.00/Kg,1000,Nandi,2023-11-04
+Wheat,-,-,-,Nakuru Top Market,57.78/Kg, - ,,Nakuru,2023-11-03
+Wheat,-,-,-,Chuka,65.00/Kg,90.00/Kg,400,Tharaka-Nithi,2023-11-03
+Wheat,-,-,-,Kebirigo,125.00/Kg,140.00/Kg,90,Nyamira,2023-11-02
+Wheat,-,-,-,Kangemi Market, - ,120.00/Kg,,Nairobi,2023-11-02
+Wheat,-,-,-,Nakuru Top Market,57.78/Kg, - ,,Nakuru,2023-11-02
+Wheat,-,-,-,Nakuru Top Market,57.78/Kg, - ,,Nakuru,2023-11-01
+Wheat,-,-,-,Nakuru Top Market,57.78/Kg, - ,,Nakuru,2023-10-31
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,1080,Meru,2023-10-31
+Wheat,-,-,-,Bondeni,60.00/Kg,100.00/Kg,180,Trans-Nzoia,2023-10-31
+Wheat,-,-,-,Kitale Municipality Market,180.00/Kg,300.00/Kg,520,Trans-Nzoia,2023-10-30
+Wheat,-,-,-,Nakuru Top Market,600.00/Kg, - ,,Nakuru,2023-10-30
+Wheat,-,-,-,Kibiok,80.00/Kg,90.00/Kg,700,Nandi,2023-10-29
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2023-10-27
+Wheat,-,-,-,Kebirigo,115.00/Kg,125.00/Kg,1800,Nyamira,2023-10-26
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2023-10-26
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-25
+Wheat,-,-,-,Kabiyet Market,190.00/Kg,200.00/Kg,10000,Nandi,2023-10-24
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,100.00/Kg,1000,Nandi,2023-10-24
+Wheat,-,-,-,Bahati,90.00/Kg,90.00/Kg,90,Nakuru,2023-10-24
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg, - ,,Nakuru,2023-10-24
+Wheat,-,-,-,Maua,80.00/Kg,100.00/Kg,1000,Meru,2023-10-24
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-10-23
+Wheat,-,-,-,Othaya,61.11/Kg,90.00/Kg,4500,Nyeri,2023-10-23
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,630,Nyamira,2023-10-22
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-10-19
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-19
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-10-18
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-10-18
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-18
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,110.00/Kg,9000,Nandi,2023-10-17
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,1000,Meru,2023-10-17
+Wheat,-,-,-,Bondeni,100.00/Kg,120.00/Kg,500,Trans-Nzoia,2023-10-17
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-10-17
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-17
+Wheat,-,-,-,Nakuru Top Market,180.00/Kg, - ,,Nakuru,2023-10-16
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-10-16
+Wheat,-,-,-,Ikonge, - ,83.33/Kg,240,Nyamira,2023-10-15
+Wheat,-,-,-,Kibiok,75.00/Kg,85.00/Kg,300,Nandi,2023-10-15
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-10-13
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-12
+Wheat,-,-,-,Cheptiret - Uasin Gishu,40.00/Kg,50.00/Kg,3000,Uasin-Gishu,2023-10-12
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-10-11
+Wheat,-,-,-,Kapsabet Market,80.00/Kg,92.00/Kg,1200,Nandi,2023-10-11
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-10-11
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,110.00/Kg,4200,Nandi,2023-10-10
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-10-09
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-10-09
+Wheat,-,-,-,Ikonge, - ,83.33/Kg,930,Nyamira,2023-10-08
+Wheat,-,-,-,Kapsabet Market,0.05/Kg,92.00/Kg,2500,Nandi,2023-10-07
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-10-06
+Wheat,-,-,-,Eldoret Main,100.00/Kg,110.00/Kg,2000,Uasin-Gishu,2023-10-06
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-10-05
+Wheat,-,-,-,Kebirigo,115.00/Kg,125.00/Kg,90,Nyamira,2023-10-05
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-05
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-10-04
+Wheat,-,-,-,Nakuru Wakulima,150.00/Kg, - ,,Nakuru,2023-10-04
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-04
+Wheat,-,-,-,Cheptiret - Uasin Gishu,60.00/Kg,75.00/Kg,3000,Uasin-Gishu,2023-10-04
+Wheat,-,-,-,Kapsabet Market,80.00/Kg,92.00/Kg,1200,Nandi,2023-10-03
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-10-03
+Wheat,-,-,-,Kabiyet Market,100.00/Kg,115.00/Kg,7000,Nandi,2023-10-03
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-10-03
+Wheat,-,-,-,Maua,80.00/Kg,90.00/Kg,990,Meru,2023-10-03
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-10-03
+Wheat,-,-,-,Nakuru Wakulima,120.00/Kg, - ,,Nakuru,2023-10-03
+Wheat,-,-,-,Kibiok,100.00/Kg,110.00/Kg,300,Nandi,2023-10-01
+Wheat,-,-,-,Ikonge, - ,83.33/Kg,630,Nyamira,2023-10-01
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-29
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-09-29
+Wheat,-,-,-,Keroka,165.00/Kg,90.00/Kg,45000,Nyamira,2023-09-28
+Wheat,-,-,-,Nakuru Wakulima,170.00/Kg, - ,,Nakuru,2023-09-28
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-09-28
+Wheat,-,-,-,Cheptiret - Uasin Gishu,65.00/Kg,75.00/Kg,3000,Uasin-Gishu,2023-09-28
+Wheat,-,-,-,Nakuru Top Market,270.00/Kg, - ,,Nakuru,2023-09-27
+Wheat,-,-,-,Nakuru Wakulima,120.00/Kg, - ,,Nakuru,2023-09-27
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-09-27
+Wheat,-,-,-,Maua,83.33/Kg,90.00/Kg,900,Meru,2023-09-26
+Wheat,-,-,-,Kapsabet Market,80.00/Kg,100.00/Kg,750,Nandi,2023-09-26
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-09-26
+Wheat,-,-,-,Nakuru Wakulima,120.00/Kg, - ,,Nakuru,2023-09-26
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-09-26
+Wheat,-,-,-,Nakuru Wakulima,120.00/Kg, - ,,Nakuru,2023-09-25
+Wheat,-,-,-,Nakuru Top Market,120.00/Kg, - ,,Nakuru,2023-09-25
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-09-25
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,270,Nyamira,2023-09-24
+Wheat,-,-,-,Kapsabet Market,90.00/Kg,100.00/Kg,1200,Nandi,2023-09-23
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-09-22
+Wheat,-,-,-,Kitale Municipality Market,72.22/Kg,125.00/Kg,270,Trans-Nzoia,2023-09-21
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-09-21
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-09-20
+Wheat,-,-,-,Eldoret Main,100.00/Kg,110.00/Kg,2700,Uasin-Gishu,2023-09-20
+Wheat,-,-,-,Nakuru Top Market,70.00/Kg, - ,,Nakuru,2023-09-19
+Wheat,-,-,-,Maua,80.00/Kg,90.00/Kg,1080,Meru,2023-09-19
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-09-19
+Wheat,-,-,-,Bondeni,60.00/Kg,100.00/Kg,180,Trans-Nzoia,2023-09-19
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-09-19
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-18
+Wheat,-,-,-,Cheptiret - Uasin Gishu,60.00/Kg,75.00/Kg,3000,Uasin-Gishu,2023-09-18
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-09-18
+Wheat,-,-,-,Nakuru Wakulima,555.56/Kg, - ,,Nakuru,2023-09-15
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-14
+Wheat,-,-,-,Maua,83.33/Kg,90.00/Kg,1080,Meru,2023-09-14
+Wheat,-,-,-,Cheptiret - Uasin Gishu,65.00/Kg,75.00/Kg,3000,Uasin-Gishu,2023-09-14
+Wheat,-,-,-,Serem - Nandi,83.33/Kg,95.83/Kg,200,Nandi,2023-09-13
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-13
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-09-13
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-09-12
+Wheat,-,-,-,Kapsabet Market,92.00/Kg,100.00/Kg,3000,Nandi,2023-09-12
+Wheat,-,-,-,Kapsabet Market,80.00/Kg,96.00/Kg,3000,Nandi,2023-09-12
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-12
+Wheat,-,-,-,Kawangware, - ,95.00/Kg,,Nairobi,2023-09-12
+Wheat,-,-,-,Bondeni,60.00/Kg,100.00/Kg,180,Trans-Nzoia,2023-09-12
+Wheat,-,-,-,Gikomba, - ,110.00/Kg,,Nairobi,2023-09-12
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-11
+Wheat,-,-,-,Mpeketoni,120.00/Kg,150.00/Kg,240,Lamu,2023-09-09
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,1260,Nakuru,2023-09-08
+Wheat,-,-,-,Kawangware,80.00/Kg,95.00/Kg,,Nairobi,2023-09-08
+Wheat,-,-,-,Gikomba, - ,115.00/Kg,,Nairobi,2023-09-08
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-07
+Wheat,-,-,-,Kitale Municipality Market,72.22/Kg,125.00/Kg,180,Trans-Nzoia,2023-09-07
+Wheat,-,-,-,Kawangware,80.00/Kg,95.00/Kg,,Nairobi,2023-09-07
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-09-07
+Wheat,-,-,-,Gikomba, - ,115.00/Kg,,Nairobi,2023-09-07
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,2500,Laikipia,2023-09-06
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-06
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-09-06
+Wheat,-,-,-,Maua,80.00/Kg,90.00/Kg,900,Meru,2023-09-05
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-09-05
+Wheat,-,-,-,Kawangware,87.00/Kg,100.00/Kg,,Nairobi,2023-09-05
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-09-05
+Wheat,-,-,-,Chuka,65.00/Kg,100.00/Kg,400,Tharaka-Nithi,2023-09-05
+Wheat,-,-,-,Nakuru Wakulima,555.56/Kg, - ,,Nakuru,2023-09-04
+Wheat,-,-,-,Cheptiret - Uasin Gishu,55.00/Kg,60.00/Kg,3000,Uasin-Gishu,2023-09-04
+Wheat,-,-,-,Ikonge,75.00/Kg,83.33/Kg,450,Nyamira,2023-09-03
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,9900,Nakuru,2023-09-01
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,2700,Nakuru,2023-08-31
+Wheat,-,-,-,Maua,83.33/Kg,90.00/Kg,1100,Meru,2023-08-31
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2023-08-30
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,3000,Laikipia,2023-08-30
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-30
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-30
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-08-29
+Wheat,-,-,-,Naivasha Market,190.00/Kg,220.00/Kg,,Nakuru,2023-08-29
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-29
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-29
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-28
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,6000,Nyeri,2023-08-28
+Wheat,-,-,-,Cheptiret - Uasin Gishu,70.00/Kg,60.00/Kg,3000,Uasin-Gishu,2023-08-28
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,630,Nyamira,2023-08-27
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,2500,Laikipia,2023-08-26
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-25
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-25
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-25
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,2970,Nakuru,2023-08-24
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-24
+Wheat,-,-,-,Gikomba, - ,115.00/Kg,,Nairobi,2023-08-23
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,1800,Nakuru,2023-08-23
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-23
+Wheat,-,-,-,Maua,85.00/Kg,90.00/Kg,900,Meru,2023-08-22
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,2700,Nakuru,2023-08-22
+Wheat,-,-,-,Bondeni,60.00/Kg,100.00/Kg,180,Trans-Nzoia,2023-08-22
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,1800,Nyeri,2023-08-21
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-21
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-21
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-21
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2023-08-20
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,2880,Nakuru,2023-08-18
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,270,Trans-Nzoia,2023-08-18
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-18
+Wheat,-,-,-,Nyeri open air,68.89/Kg,90.00/Kg,,Nyeri,2023-08-17
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-17
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-17
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,80.00/Kg,3000,Uasin-Gishu,2023-08-17
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-16
+Wheat,-,-,-,Mowlem Market,87.50/Kg,100.00/Kg,3600,Trans-Nzoia,2023-08-16
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-16
+Wheat,-,-,-,Chaka,62.22/Kg,90.00/Kg,,Nyeri,2023-08-16
+Wheat,-,-,-,Gikomba,75.56/Kg,125.00/Kg,,Nairobi,2023-08-16
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-08-15
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-08-15
+Wheat,-,-,-,Bondeni,60.00/Kg,100.00/Kg,240,Trans-Nzoia,2023-08-15
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-08-15
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-15
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-08-14
+Wheat,-,-,-,Othaya,66.67/Kg,75.00/Kg,900,Nyeri,2023-08-14
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,85.00/Kg,3000,Laikipia,2023-08-12
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-12
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-11
+Wheat,-,-,-,Kawangware,83.00/Kg,90.00/Kg,,Nairobi,2023-08-11
+Wheat,-,-,-,Gikomba, - ,115.00/Kg,,Nairobi,2023-08-10
+Wheat,-,-,-,Kitale Municipality Market,25.00/Kg,35.00/Kg,270,Trans-Nzoia,2023-08-10
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-10
+Wheat,-,-,-,Cheptiret - Uasin Gishu,60.00/Kg,70.00/Kg,3000,Uasin-Gishu,2023-08-10
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,2700,Nakuru,2023-08-09
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-09
+Wheat,-,-,-,Naivasha Market,60.00/Kg,80.00/Kg,,Nakuru,2023-08-09
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-08
+Wheat,-,-,-,Kawangware,82.00/Kg,90.00/Kg,,Nairobi,2023-08-08
+Wheat,-,-,-,Bondeni,60.00/Kg,100.00/Kg,180,Trans-Nzoia,2023-08-08
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-07
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-07
+Wheat,-,-,-,Jamhuri Market,2.50/Kg,80.00/Kg,,Kiambu,2023-08-07
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,630,Nyamira,2023-08-06
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,6000.00/Kg,5000,Laikipia,2023-08-05
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-04
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-03
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,3500,Laikipia,2023-08-02
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,3500,Laikipia,2023-08-02
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-02
+Wheat,-,-,-,Chaka,64.44/Kg,80.00/Kg,,Nyeri,2023-08-02
+Wheat,-,-,-,Molo, - ,70.00/Kg,980,Nakuru,2023-08-02
+Wheat,-,-,-,Kawangware,81.11/Kg,90.00/Kg,,Nairobi,2023-08-02
+Wheat,-,-,-,Kajiado Market, - ,110.00/Kg,7500,Kajiado,2023-08-02
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-08-01
+Wheat,-,-,-,Maua,70.00/Kg,100.00/Kg,5400,Meru,2023-08-01
+Wheat,-,-,-,Cheptiret - Uasin Gishu,65.00/Kg,80.00/Kg,3000,Uasin-Gishu,2023-08-01
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-08-01
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-08-01
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2023-08-01
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-07-31
+Wheat,-,-,-,Othaya,66.67/Kg,90.00/Kg,900,Nyeri,2023-07-31
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-07-28
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,270,Trans-Nzoia,2023-07-28
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,70.00/Kg,10000,Laikipia,2023-07-28
+Wheat,-,-,-,Kawangware,80.00/Kg,90.00/Kg,,Nairobi,2023-07-28
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-07-27
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-07-27
+Wheat,-,-,-,Cheptiret - Uasin Gishu,80.00/Kg,85.00/Kg,3000,Uasin-Gishu,2023-07-27
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,3500,Laikipia,2023-07-26
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,3600,Nakuru,2023-07-26
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-07-26
+Wheat,-,-,-,Garissa Soko Mugdi,88.00/Kg,100.00/Kg,6000,Garissa,2023-07-26
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-07-25
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2023-07-25
+Wheat,-,-,-,Mois Bridge,80.00/Kg,100.00/Kg,300,Uasin-Gishu,2023-07-25
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-07-24
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-07-24
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,2700,Nyeri,2023-07-24
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,4000,Laikipia,2023-07-22
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,70.00/Kg,10000,Laikipia,2023-07-21
+Wheat,-,-,-,Bungoma town,125.00/Kg,150.00/Kg,700,Bungoma,2023-07-21
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,1800,Nakuru,2023-07-21
+Wheat,-,-,-,Molo, - ,100.00/Kg,270,Nakuru,2023-07-21
+Wheat,-,-,-,Molo, - ,90.00/Kg,360,Nakuru,2023-07-20
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2023-07-20
+Wheat,-,-,-,Nyeri open air,68.89/Kg,90.00/Kg,,Nyeri,2023-07-19
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,2500,Laikipia,2023-07-19
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,250,Lamu,2023-07-19
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-19
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-18
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-07-18
+Wheat,-,-,-,Gikomba, - ,125.00/Kg,,Nairobi,2023-07-18
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2023-07-18
+Wheat,-,-,-,Aram,95.83/Kg,100.00/Kg,3720,Siaya,2023-07-17
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,240,Trans-Nzoia,2023-07-17
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-17
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-17
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,85.00/Kg,2000,Uasin-Gishu,2023-07-17
+Wheat,-,-,-,Gikomba,71.11/Kg,100.00/Kg,,Nairobi,2023-07-17
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,900,Nyeri,2023-07-17
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-07-16
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-14
+Wheat,-,-,-,Bungoma town,125.00/Kg,150.00/Kg,800,Bungoma,2023-07-14
+Wheat,-,-,-,Kawangware,84.44/Kg,90.00/Kg,,Nairobi,2023-07-14
+Wheat,-,-,-,Kawangware,84.44/Kg,90.00/Kg,,Nairobi,2023-07-14
+Wheat,-,-,-,Kawangware,84.44/Kg,90.00/Kg,,Nairobi,2023-07-14
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-13
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-07-13
+Wheat,-,-,-,Nyeri open air,71.11/Kg,90.00/Kg,,Nyeri,2023-07-12
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,5000,Laikipia,2023-07-12
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2023-07-12
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-12
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,270,Trans-Nzoia,2023-07-12
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2023-07-12
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-11
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,240,Trans-Nzoia,2023-07-11
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2023-07-11
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,90.00/Kg,2000,Uasin-Gishu,2023-07-10
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2023-07-10
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-10
+Wheat,-,-,-,Gikomba, - ,120.00/Kg,,Nairobi,2023-07-10
+Wheat,-,-,-,Othaya,66.67/Kg,90.00/Kg,1800,Nyeri,2023-07-10
+Wheat,-,-,-,Ikonge, - ,83.33/Kg,930,Nyamira,2023-07-09
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,6000,Kwale,2023-07-08
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,230,Lamu,2023-07-08
+Wheat,-,-,-,Emali Market,60.00/Kg,72.00/Kg,10000,Makueni,2023-07-08
+Wheat,-,-,-,Bungoma town,90.91/Kg,144.63/Kg,850,Bungoma,2023-07-07
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-07
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,70.00/Kg,9000,Laikipia,2023-07-07
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-07-07
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-06
+Wheat,-,-,-,Gikomba, - ,120.00/Kg,,Nairobi,2023-07-06
+Wheat,-,-,-,Mois Bridge,85.00/Kg,100.00/Kg,400,Uasin-Gishu,2023-07-06
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,,Nakuru,2023-07-05
+Wheat,-,-,-,Siaya, - ,120.00/Kg,,Siaya,2023-07-05
+Wheat,-,-,-,Chaka,68.89/Kg,85.00/Kg,,Nyeri,2023-07-05
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,5400,Meru,2023-07-04
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,135,Lamu,2023-07-04
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg, - ,6300,Nakuru,2023-07-04
+Wheat,-,-,-,Kawangware,83.33/Kg,90.00/Kg,,Nairobi,2023-07-04
+Wheat,-,-,-,Bondeni,90.00/Kg,100.00/Kg,180,Trans-Nzoia,2023-07-04
+Wheat,-,-,-,Cheptiret - Uasin Gishu,80.00/Kg,85.00/Kg,2000,Uasin-Gishu,2023-07-04
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg, - ,,Nakuru,2023-07-03
+Wheat,-,-,-,Gikomba, - ,120.00/Kg,,Nairobi,2023-07-03
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-07-03
+Wheat,-,-,-,Ikonge, - ,83.33/Kg,930,Nyamira,2023-07-03
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2023-07-02
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2023-07-02
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-30
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-30
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,70.00/Kg,10000,Laikipia,2023-06-30
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg, - ,2520,Nakuru,2023-06-30
+Wheat,-,-,-,Bungoma town,91.67/Kg,145.83/Kg,700,Bungoma,2023-06-30
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-29
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-29
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,450,Nakuru,2023-06-29
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-06-28
+Wheat,-,-,-,Mois Bridge,80.00/Kg,110.00/Kg,300,Uasin-Gishu,2023-06-28
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,2500,Laikipia,2023-06-28
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-27
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-27
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,5400,Meru,2023-06-27
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-27
+Wheat,-,-,-,Cheptiret - Uasin Gishu,90.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-06-27
+Wheat,-,-,-,Bondeni,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2023-06-27
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-26
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-26
+Wheat,-,-,-,Othaya,72.22/Kg,120.00/Kg,1800,Nyeri,2023-06-26
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-26
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,150.00/Kg,200,Trans-Nzoia,2023-06-25
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2023-06-25
+Wheat,-,-,-,Mwatate,95.00/Kg,100.00/Kg,,Taita-Taveta,2023-06-24
+Wheat,-,-,-,Bungoma town,110.00/Kg,150.00/Kg,500,Bungoma,2023-06-23
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,65.00/Kg,10000,Laikipia,2023-06-23
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-23
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-23
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-23
+Wheat,-,-,-,Kawangware,83.33/Kg,90.00/Kg,,Nairobi,2023-06-23
+Wheat,-,-,-,Mois Bridge,80.00/Kg,100.00/Kg,300,Uasin-Gishu,2023-06-23
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-06-23
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-22
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,180,Trans-Nzoia,2023-06-22
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-22
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-22
+Wheat,-,-,-,Kawangware,83.33/Kg,90.00/Kg,90,Nairobi,2023-06-22
+Wheat,-,-,-,Nyeri open air,68.89/Kg,90.00/Kg,,Nyeri,2023-06-21
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,2800,Laikipia,2023-06-21
+Wheat,-,-,-,Cheptiret - Uasin Gishu,80.00/Kg,85.00/Kg,3000,Uasin-Gishu,2023-06-21
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-21
+Wheat,-,-,-,Chaka,61.11/Kg,80.00/Kg,,Nyeri,2023-06-21
+Wheat,-,-,-,Kawangware,83.33/Kg,90.00/Kg,,Nairobi,2023-06-21
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-06-20
+Wheat,-,-,-,Kawangware,83.33/Kg,90.00/Kg,,Nairobi,2023-06-20
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-20
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-20
+Wheat,-,-,-,Chuka,60.00/Kg,100.00/Kg,500,Tharaka-Nithi,2023-06-20
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,270,Trans-Nzoia,2023-06-19
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-19
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,900,Nyeri,2023-06-19
+Wheat,-,-,-,Gikomba, - ,100.00/Kg,,Nairobi,2023-06-19
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-06-19
+Wheat,-,-,-,Ikonge, - ,83.33/Kg,630,Nyamira,2023-06-18
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,150.00/Kg,50,Trans-Nzoia,2023-06-18
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-06-18
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-06-16
+Wheat,-,-,-,Bungoma town,125.00/Kg,150.00/Kg,650,Bungoma,2023-06-16
+Wheat,-,-,-,Kitale Municipality Market,115.00/Kg,125.00/Kg,180,Trans-Nzoia,2023-06-16
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-06-15
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-15
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-15
+Wheat,-,-,-,Gikomba,62.22/Kg,100.00/Kg,,Nairobi,2023-06-15
+Wheat,-,-,-,Nyeri open air,71.11/Kg,90.00/Kg,,Nyeri,2023-06-14
+Wheat,-,-,-,Kitale Municipality Market,75.00/Kg,100.00/Kg,360,Trans-Nzoia,2023-06-14
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,150,Lamu,2023-06-14
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,85.00/Kg,4500,Laikipia,2023-06-14
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-14
+Wheat,-,-,-,Chaka,61.11/Kg,80.00/Kg,,Nyeri,2023-06-14
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-06-13
+Wheat,-,-,-,Kitale Municipality Market,90.00/Kg,100.00/Kg,270,Trans-Nzoia,2023-06-13
+Wheat,-,-,-,Nakuru Top Market, - ,130.00/Kg,,Nakuru,2023-06-13
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4050,Meru,2023-06-13
+Wheat,-,-,-,Cheptiret - Uasin Gishu,100.00/Kg,110.00/Kg,3000,Uasin-Gishu,2023-06-13
+Wheat,-,-,-,Bondeni,85.00/Kg,100.00/Kg,270,Trans-Nzoia,2023-06-13
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,180,Trans-Nzoia,2023-06-12
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-06-12
+Wheat,-,-,-,Othaya,66.67/Kg,90.00/Kg,900,Nyeri,2023-06-12
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2023-06-12
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-06-12
+Wheat,-,-,-,Kiminini - Kitale,90.00/Kg,125.00/Kg,600,Trans-Nzoia,2023-06-11
+Wheat,-,-,-,Bungoma town,125.00/Kg,150.00/Kg,700,Bungoma,2023-06-09
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,65.00/Kg,10000,Laikipia,2023-06-09
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-06-09
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-06-09
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-08
+Wheat,-,-,-,Kitale Municipality Market,88.89/Kg,125.00/Kg,360,Trans-Nzoia,2023-06-08
+Wheat,-,-,-,Nyeri open air,71.11/Kg,90.00/Kg,,Nyeri,2023-06-07
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,2500,Laikipia,2023-06-07
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-07
+Wheat,-,-,-,Cheptiret - Uasin Gishu,100.00/Kg,110.00/Kg,3000,Uasin-Gishu,2023-06-07
+Wheat,-,-,-,Kilingili,91.67/Kg,105.00/Kg,4000,Vihiga,2023-06-07
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,135,Lamu,2023-06-07
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-06
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-06-06
+Wheat,-,-,-,Gikomba,120.00/Kg,100.00/Kg,,Nairobi,2023-06-06
+Wheat,-,-,-,Bondeni,110.00/Kg,125.00/Kg,180,Trans-Nzoia,2023-06-06
+Wheat,-,-,-,Kitale Municipality Market,115.00/Kg,125.00/Kg,180,Trans-Nzoia,2023-06-05
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,80.00/Kg,180,Baringo,2023-06-05
+Wheat,-,-,-,Limuru Rongai Market, - ,110.00/Kg,,Kiambu,2023-06-05
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-05
+Wheat,-,-,-,Othaya,66.67/Kg,90.00/Kg,1800,Nyeri,2023-06-05
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,90,Trans-Nzoia,2023-06-02
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-06-02
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-06-01
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,2500,Laikipia,2023-05-31
+Wheat,-,-,-,Elwak Market,112.50/Kg,140.00/Kg,2064,Mandera,2023-05-31
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-05-31
+Wheat,-,-,-,Cheptiret - Uasin Gishu,100.00/Kg,115.00/Kg,3000,Uasin-Gishu,2023-05-31
+Wheat,-,-,-,Nyeri open air,68.89/Kg,90.00/Kg,,Nyeri,2023-05-31
+Wheat,-,-,-,Chaka,66.67/Kg,85.00/Kg,,Nyeri,2023-05-31
+Wheat,-,-,-,Kitale Municipality Market,88.89/Kg,125.00/Kg,400,Trans-Nzoia,2023-05-30
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg, - ,,Nakuru,2023-05-30
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,65.00/Kg,10000,Laikipia,2023-05-30
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,6300,Meru,2023-05-30
+Wheat,-,-,-,Bondeni,88.89/Kg,125.00/Kg,300,Trans-Nzoia,2023-05-30
+Wheat,-,-,-,Mois Bridge,72.00/Kg,110.00/Kg,1000,Uasin-Gishu,2023-05-29
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-29
+Wheat,-,-,-,Othaya,66.67/Kg,90.00/Kg,2700,Nyeri,2023-05-29
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2023-05-28
+Wheat,-,-,-,Ikonge, - ,91.67/Kg,450,Nyamira,2023-05-28
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-05-28
+Wheat,-,-,-,Akala, - ,100.00/Kg,,Siaya,2023-05-27
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-26
+Wheat,-,-,-,Nyahururu Municipal Market,60.00/Kg,70.00/Kg,10000,Laikipia,2023-05-26
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-05-26
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2023-05-25
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,9900,Nakuru,2023-05-25
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,3000,Kwale,2023-05-24
+Wheat,-,-,-,Nyeri open air,66.67/Kg,90.00/Kg,,Nyeri,2023-05-24
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-24
+Wheat,-,-,-,Nanyuki Open Air Market,68.89/Kg,80.00/Kg,3500,Laikipia,2023-05-24
+Wheat,-,-,-,Chaka,66.67/Kg,90.00/Kg,,Nyeri,2023-05-24
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4050,Meru,2023-05-23
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-23
+Wheat,-,-,-,Bondeni,77.78/Kg,250.00/Kg,90,Trans-Nzoia,2023-05-23
+Wheat,-,-,-,Cheptiret - Uasin Gishu,90.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-05-23
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,180,Uasin-Gishu,2023-05-23
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-05-22
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-22
+Wheat,-,-,-,Mwangulu,90.00/Kg,105.00/Kg,600,Kwale,2023-05-22
+Wheat,-,-,-,Othaya,66.67/Kg,90.00/Kg,1800,Nyeri,2023-05-22
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,150.00/Kg,250,Trans-Nzoia,2023-05-21
+Wheat,-,-,-,Ikonge, - ,100.00/Kg,750,Nyamira,2023-05-21
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,110,Lamu,2023-05-20
+Wheat,-,-,-,Sega,80.00/Kg,100.00/Kg,300,Mombasa,2023-05-19
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-19
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-05-19
+Wheat,-,-,-,Nyahururu Municipal Market,61.11/Kg,65.00/Kg,10000,Laikipia,2023-05-19
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-05-19
+Wheat,-,-,-,Sega,80.00/Kg,100.00/Kg,500,Mombasa,2023-05-18
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-18
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,125,Lamu,2023-05-18
+Wheat,-,-,-,Nyeri open air,66.67/Kg,90.00/Kg,,Nyeri,2023-05-17
+Wheat,-,-,-,Nanyuki Open Air Market,63.33/Kg,80.00/Kg,3500,Laikipia,2023-05-17
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-17
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-05-17
+Wheat,-,-,-,Chaka,61.11/Kg,80.00/Kg,,Nyeri,2023-05-17
+Wheat,-,-,-,Mois Bridge,90.00/Kg,100.00/Kg,360,Uasin-Gishu,2023-05-17
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-05-16
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-05-16
+Wheat,-,-,-,Bondeni,88.89/Kg,130.00/Kg,90,Trans-Nzoia,2023-05-16
+Wheat,-,-,-,Sega,100.00/Kg,100.00/Kg,500,Mombasa,2023-05-15
+Wheat,-,-,-,Othaya,1.67/Kg,90.00/Kg,,Nyeri,2023-05-15
+Wheat,-,-,-,Kiminini - Kitale,77.78/Kg,125.00/Kg,180,Trans-Nzoia,2023-05-14
+Wheat,-,-,-,Mbale, - ,314.47/Kg,200,Vihiga,2023-05-13
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2023-05-13
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,75.00/Kg,2500,Laikipia,2023-05-13
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,140,Lamu,2023-05-13
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-12
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2550,Uasin-Gishu,2023-05-12
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,5400,Meru,2023-05-11
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,90.00/Kg,3000,Uasin-Gishu,2023-05-11
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-11
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2023-05-10
+Wheat,-,-,-,Serem - Nandi,83.33/Kg,91.67/Kg,270,Nandi,2023-05-10
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-10
+Wheat,-,-,-,Nyeri open air,66.67/Kg,90.00/Kg,,Nyeri,2023-05-10
+Wheat,-,-,-,Kajiado Market,104.00/Kg, - ,7000,Kajiado,2023-05-10
+Wheat,-,-,-,Kitale Municipality Market,250.00/Kg,300.00/Kg,200,Trans-Nzoia,2023-05-09
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-09
+Wheat,-,-,-,Bondeni,88.89/Kg,130.00/Kg,180,Trans-Nzoia,2023-05-09
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5400,Uasin-Gishu,2023-05-09
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-08
+Wheat,-,-,-,Ikonge,72.00/Kg,80.00/Kg,730,Nyamira,2023-05-07
+Wheat,-,-,-,Khayega,105.00/Kg,125.00/Kg,800,Kakamega,2023-05-07
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,5000,Kwale,2023-05-07
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,80,Lamu,2023-05-06
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-05
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-04
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,85.00/Kg,3000,Uasin-Gishu,2023-05-04
+Wheat,-,-,-,Kajiado Market,105.00/Kg, - ,7500,Kajiado,2023-05-03
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-05-03
+Wheat,-,-,-,Serem - Nandi,83.33/Kg,95.83/Kg,300,Nandi,2023-05-03
+Wheat,-,-,-,Mowlem Market,75.00/Kg,97.50/Kg,960,Trans-Nzoia,2023-05-03
+Wheat,-,-,-,Chaka,61.11/Kg,80.00/Kg,,Nyeri,2023-05-03
+Wheat,-,-,-,Nyeri open air,66.67/Kg,90.00/Kg,,Nyeri,2023-05-03
+Wheat,-,-,-,Bondeni,72.22/Kg,77.78/Kg,180,Trans-Nzoia,2023-05-02
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,3600,Meru,2023-05-02
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,720,Nakuru,2023-05-02
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-05-01
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,150.00/Kg,100,Trans-Nzoia,2023-04-30
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,800,Nyamira,2023-04-30
+Wheat,-,-,-,Nyahururu Municipal Market,55.56/Kg,60.00/Kg,1000,Laikipia,2023-04-28
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-28
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2023-04-27
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-27
+Wheat,-,-,-,Kitale Municipality Market,64.44/Kg,77.78/Kg,360,Trans-Nzoia,2023-04-27
+Wheat,-,-,-,Nyeri open air,66.67/Kg,90.00/Kg,,Nyeri,2023-04-26
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,90.00/Kg,4500,Laikipia,2023-04-26
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,180,Trans-Nzoia,2023-04-26
+Wheat,-,-,-,Sibanga,105.56/Kg,99.13/Kg,5500,Trans-Nzoia,2023-04-26
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-26
+Wheat,-,-,-,Serem - Nandi,83.33/Kg,91.67/Kg,200,Nandi,2023-04-26
+Wheat,-,-,-,Kajiado Market,104.50/Kg, - ,7000,Kajiado,2023-04-26
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2023-04-26
+Wheat,-,-,-,Chaka,61.11/Kg,80.00/Kg,,Nyeri,2023-04-26
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,4500,Meru,2023-04-25
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-25
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-04-24
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-24
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-04-24
+Wheat,-,-,-,Mbale, - ,285.71/Kg,200,Vihiga,2023-04-23
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg, - ,1530,Nakuru,2023-04-20
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,180,Lamu,2023-04-20
+Wheat,-,-,-,Mbale, - ,280.90/Kg,400,Vihiga,2023-04-20
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-04-19
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,85.00/Kg,3000,Uasin-Gishu,2023-04-19
+Wheat,-,-,-,Chaka,60.00/Kg,75.00/Kg,,Nyeri,2023-04-19
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg, - ,,Nakuru,2023-04-19
+Wheat,-,-,-,Serem - Nandi,76.00/Kg,84.00/Kg,300,Nandi,2023-04-19
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,900,Meru,2023-04-18
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg, - ,,Nakuru,2023-04-18
+Wheat,-,-,-,Bondeni,65.56/Kg,77.78/Kg,180,Trans-Nzoia,2023-04-18
+Wheat,-,-,-,Majengo Vihiga, - ,303.95/Kg,300,Vihiga,2023-04-17
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-17
+Wheat,-,-,-,Kangemi Market,66.67/Kg, - ,,Nairobi,2023-04-17
+Wheat,-,-,-,Ikonge, - ,100.00/Kg,800,Nyamira,2023-04-16
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,80,Lamu,2023-04-15
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,630,Nakuru,2023-04-13
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-04-13
+Wheat,-,-,-,Serem - Nandi,79.17/Kg,83.33/Kg,120,Nandi,2023-04-12
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,80.00/Kg,3500,Laikipia,2023-04-12
+Wheat,-,-,-,Chaka,62.22/Kg,75.00/Kg,,Nyeri,2023-04-12
+Wheat,-,-,-,Mbale, - ,271.00/Kg,200,Vihiga,2023-04-11
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,630,Meru,2023-04-11
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg, - ,,Nakuru,2023-04-11
+Wheat,-,-,-,Bondeni,88.89/Kg,130.00/Kg,400,Trans-Nzoia,2023-04-11
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-04-11
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-04-10
+Wheat,-,-,-,Mwangulu,90.00/Kg,100.00/Kg,1650,Kwale,2023-04-10
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,2100,Nyeri,2023-04-10
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5400,Uasin-Gishu,2023-04-10
+Wheat,-,-,-,Mbale, - ,269.54/Kg,200,Vihiga,2023-04-09
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,140.00/Kg,200,Trans-Nzoia,2023-04-09
+Wheat,-,-,-,Khayega,112.50/Kg,127.50/Kg,380,Kakamega,2023-04-09
+Wheat,-,-,-,Mbale, - ,264.55/Kg,180,Vihiga,2023-04-08
+Wheat,-,-,-,Molo,110.00/Kg,120.00/Kg,3200,Nakuru,2023-04-08
+Wheat,-,-,-,Serem - Vihiga, - ,113.64/Kg,300,Vihiga,2023-04-08
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,90.00/Kg,4500,Laikipia,2023-04-08
+Wheat,-,-,-,Molo,110.00/Kg,120.00/Kg,3000,Nakuru,2023-04-06
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,540,Meru,2023-04-06
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-04-05
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-05
+Wheat,-,-,-,Chaka,61.11/Kg,90.00/Kg,,Nyeri,2023-04-05
+Wheat,-,-,-,Bondeni,88.89/Kg,125.00/Kg,200,Trans-Nzoia,2023-04-04
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-04
+Wheat,-,-,-,Kitale Municipality Market,200.00/Kg,250.00/Kg,200,Trans-Nzoia,2023-04-04
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2023-04-04
+Wheat,-,-,-,Molo,120.00/Kg,140.00/Kg,5340,Nakuru,2023-04-04
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-04-04
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-04-03
+Wheat,-,-,-,Othaya,64.44/Kg,85.00/Kg,1800,Nyeri,2023-04-03
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,830,Nyamira,2023-04-02
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,100,Trans-Nzoia,2023-04-02
+Wheat,-,-,-,Molo, - ,120.00/Kg,5200,Nakuru,2023-04-01
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,130,Lamu,2023-03-31
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-31
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5400,Uasin-Gishu,2023-03-31
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,4000,Kwale,2023-03-31
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-03-30
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-30
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2023-03-30
+Wheat,-,-,-,Serem - Vihiga, - ,113.64/Kg,300,Vihiga,2023-03-29
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,80.00/Kg,3500,Laikipia,2023-03-29
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-29
+Wheat,-,-,-,Embu Town,88.89/Kg,125.00/Kg,1100,Embu,2023-03-29
+Wheat,-,-,-,Chaka,58.89/Kg,80.00/Kg,,Nyeri,2023-03-29
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-28
+Wheat,-,-,-,Bondeni,88.89/Kg,130.00/Kg,90,Trans-Nzoia,2023-03-28
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-03-27
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-27
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2023-03-27
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,280,Nyamira,2023-03-26
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,150.00/Kg,300,Trans-Nzoia,2023-03-26
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,80.00/Kg,4000,Laikipia,2023-03-25
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2023-03-25
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-03-24
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-24
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-03-23
+Wheat,-,-,-,Bondeni,88.89/Kg,125.00/Kg,360,Trans-Nzoia,2023-03-23
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-03-23
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-03-22
+Wheat,-,-,-,Chaka,61.11/Kg,90.00/Kg,,Nyeri,2023-03-22
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-22
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,4000,Kwale,2023-03-22
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,720,Nakuru,2023-03-21
+Wheat,-,-,-,Bondeni,88.89/Kg,125.00/Kg,400,Trans-Nzoia,2023-03-21
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5400,Uasin-Gishu,2023-03-20
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-20
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,100.00/Kg,6000,Uasin-Gishu,2023-03-20
+Wheat,-,-,-,Ikonge, - ,80.00/Kg,280,Nyamira,2023-03-19
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,80.00/Kg,4000,Laikipia,2023-03-18
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-17
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,6000,Kwale,2023-03-17
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-16
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,3000,Uasin-Gishu,2023-03-16
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,75.00/Kg,4000,Laikipia,2023-03-15
+Wheat,-,-,-,Chepterit Market - Nandi,62.50/Kg,66.67/Kg,90,Nandi,2023-03-15
+Wheat,-,-,-,Chaka,64.44/Kg,85.00/Kg,,Nyeri,2023-03-15
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2023-03-15
+Wheat,-,-,-,Eldoret Main,90.00/Kg,200.00/Kg,5400,Uasin-Gishu,2023-03-15
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,540,Meru,2023-03-14
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-14
+Wheat,-,-,-,Mois Bridge,90.00/Kg,100.00/Kg,100,Uasin-Gishu,2023-03-13
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-13
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,270,Trans-Nzoia,2023-03-13
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-03-12
+Wheat,-,-,-,Kasuku,70.00/Kg,100.00/Kg,90,Nyandarua,2023-03-12
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,180,Trans-Nzoia,2023-03-12
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,95,Lamu,2023-03-11
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-10
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-09
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-08
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-03-08
+Wheat,-,-,-,Nyeri open air,66.67/Kg,90.00/Kg,,Nyeri,2023-03-08
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,270,Uasin-Gishu,2023-03-08
+Wheat,-,-,-,Daraja Mbili,6.22/Kg,100.00/Kg,360,Kisii,2023-03-07
+Wheat,-,-,-,Daraja Mbili,95.00/Kg,105.00/Kg,80000,Kisii,2023-03-07
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,450,Meru,2023-03-07
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,90.00/Kg,3000,Uasin-Gishu,2023-03-07
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-07
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-06
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2023-03-06
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,180,Lamu,2023-03-04
+Wheat,-,-,-,Diani Market,110.00/Kg,130.00/Kg,3000,Kwale,2023-03-04
+Wheat,-,-,-,Kawangware,81.11/Kg,100.00/Kg,5000,Nairobi,2023-03-03
+Wheat,-,-,-,Kangemi Market, - ,75.00/Kg,,Nairobi,2023-03-03
+Wheat,-,-,-,Daraja Mbili,62.22/Kg,100.00/Kg,270,Kisii,2023-03-03
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,3000,Kwale,2023-03-03
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2023-03-02
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,540,Meru,2023-03-02
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-03-02
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-03-01
+Wheat,-,-,-,Cheptiret - Uasin Gishu,70.00/Kg,85.00/Kg,3000,Uasin-Gishu,2023-03-01
+Wheat,-,-,-,Chaka,61.11/Kg,85.00/Kg,,Nyeri,2023-03-01
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-03-01
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-02-28
+Wheat,-,-,-,Daraja Mbili,62.22/Kg,100.00/Kg,480,Kisii,2023-02-28
+Wheat,-,-,-,Karatina,66.67/Kg,100.00/Kg,1800,Nyeri,2023-02-28
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,35000,Turkana,2023-02-28
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2023-02-28
+Wheat,-,-,-,Makupa Majengo,55.00/Kg,70.00/Kg,180,Mombasa,2023-02-27
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-02-27
+Wheat,-,-,-,Kitale Municipality Market,64.44/Kg,77.78/Kg,500,Trans-Nzoia,2023-02-27
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,25000,Turkana,2023-02-27
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,100,Trans-Nzoia,2023-02-26
+Wheat,-,-,-,Daraja Mbili,62.22/Kg,100.00/Kg,720,Kisii,2023-02-26
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,7500,Turkana,2023-02-25
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-02-23
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,6000,Kwale,2023-02-23
+Wheat,-,-,-,Serem - Vihiga, - ,100.00/Kg,300,Vihiga,2023-02-22
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-02-22
+Wheat,-,-,-,Nanyuki Open Air Market,63.33/Kg,75.00/Kg,4000,Laikipia,2023-02-22
+Wheat,-,-,-,Chaka,61.11/Kg,85.00/Kg,,Nyeri,2023-02-22
+Wheat,-,-,-,Kangemi Market,61.78/Kg, - ,,Nairobi,2023-02-22
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,2000,Uasin-Gishu,2023-02-22
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2023-02-22
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,4000,Kwale,2023-02-22
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,900,Meru,2023-02-21
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-02-21
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-02-21
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,2500,Uasin-Gishu,2023-02-21
+Wheat,-,-,-,Daraja Mbili,64.44/Kg,112.00/Kg,40,Kisii,2023-02-21
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,10000,Turkana,2023-02-20
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2023-02-20
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg, - ,,Nakuru,2023-02-20
+Wheat,-,-,-,Kangemi Market,63.89/Kg, - ,,Nairobi,2023-02-20
+Wheat,-,-,-,Kitale Municipality Market,64.44/Kg,77.78/Kg,300,Trans-Nzoia,2023-02-20
+Wheat,-,-,-,Ikonge, - ,120.00/Kg,80,Nyamira,2023-02-19
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2023-02-19
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,20000,Turkana,2023-02-18
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,10000,Turkana,2023-02-17
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,900,Nakuru,2023-02-17
+Wheat,-,-,-,Marikiti, - ,100.00/Kg,,Mombasa,2023-02-16
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-02-16
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,10000,Turkana,2023-02-16
+Wheat,-,-,-,Kimumu,90.00/Kg,100.00/Kg,2500,Uasin-Gishu,2023-02-16
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,25000,Turkana,2023-02-16
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-02-15
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-02-15
+Wheat,-,-,-,Nanyuki Open Air Market,61.11/Kg,80.00/Kg,4500,Laikipia,2023-02-15
+Wheat,-,-,-,Chepterit Market - Nandi,56.25/Kg,56.25/Kg,90,Nandi,2023-02-15
+Wheat,-,-,-,Kajiado Market, - ,100.00/Kg,7000,Kajiado,2023-02-15
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,360,Meru,2023-02-14
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,25000,Turkana,2023-02-14
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-02-14
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,4000,Uasin-Gishu,2023-02-14
+Wheat,-,-,-,Kimumu,90.00/Kg,100.00/Kg,200,Uasin-Gishu,2023-02-14
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,3500,Kwale,2023-02-14
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,20000,Turkana,2023-02-13
+Wheat,-,-,-,Daraja Mbili,62.22/Kg,112.00/Kg,480,Kisii,2023-02-13
+Wheat,-,-,-,Mwangulu,100.00/Kg,110.00/Kg,2150,Kwale,2023-02-13
+Wheat,-,-,-,Eldama Ravine,70.00/Kg,80.00/Kg,280,Baringo,2023-02-13
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-02-13
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-02-13
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2023-02-12
+Wheat,-,-,-,Daraja Mbili,62.22/Kg,100.00/Kg,860,Kisii,2023-02-12
+Wheat,-,-,-,Serem - Vihiga, - ,95.65/Kg,300,Vihiga,2023-02-11
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,25000,Turkana,2023-02-11
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,25000,Turkana,2023-02-10
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-02-10
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,95,Lamu,2023-02-10
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5400,Uasin-Gishu,2023-02-10
+Wheat,-,-,-,Kimumu,90.00/Kg,100.00/Kg,2000,Uasin-Gishu,2023-02-10
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2023-02-10
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,,Nakuru,2023-02-09
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,20000,Turkana,2023-02-09
+Wheat,-,-,-,Eldama Ravine,70.00/Kg,85.00/Kg,300,Baringo,2023-02-09
+Wheat,-,-,-,Kangemi Market, - ,90.00/Kg,,Nairobi,2023-02-09
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,4000,Uasin-Gishu,2023-02-09
+Wheat,-,-,-,Marikiti, - ,70.00/Kg,,Mombasa,2023-02-09
+Wheat,-,-,-,Marikiti, - ,70.00/Kg,,Mombasa,2023-02-09
+Wheat,-,-,-,Marikiti, - ,70.00/Kg,,Mombasa,2023-02-09
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-02-08
+Wheat,-,-,-,Nakuru Wakulima,57.78/Kg, - ,4680,Nakuru,2023-02-08
+Wheat,-,-,-,Chepterit Market - Nandi,56.25/Kg,62.50/Kg,90,Nandi,2023-02-08
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,95.00/Kg,4000,Uasin-Gishu,2023-02-08
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,7000,Turkana,2023-02-08
+Wheat,-,-,-,Kajiado Market,100.00/Kg,95.83/Kg,5000,Kajiado,2023-02-08
+Wheat,-,-,-,Kimumu,75.00/Kg,100.00/Kg,600,Uasin-Gishu,2023-02-08
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,15000,Turkana,2023-02-07
+Wheat,-,-,-,Maua,83.33/Kg,100.00/Kg,450,Meru,2023-02-07
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-02-07
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,2500,Uasin-Gishu,2023-02-07
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,15000,Turkana,2023-02-07
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg, - ,,Nakuru,2023-02-06
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2023-02-06
+Wheat,-,-,-,Kasuku,50.00/Kg,65.00/Kg,50,Nyandarua,2023-02-05
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,150.00/Kg,200,Trans-Nzoia,2023-02-05
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,10000,Turkana,2023-02-05
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,15000,Turkana,2023-02-04
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,10000,Turkana,2023-02-03
+Wheat,-,-,-,Kangemi Market, - ,90.00/Kg,,Nairobi,2023-02-03
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2000,Uasin-Gishu,2023-02-02
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-02-01
+Wheat,-,-,-,Chepterit Market - Nandi,54.17/Kg,62.50/Kg,160,Nandi,2023-02-01
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,25000,Turkana,2023-02-01
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,85.00/Kg,3000,Uasin-Gishu,2023-02-01
+Wheat,-,-,-,Kajiado Market,104.50/Kg,100.00/Kg,7500,Kajiado,2023-02-01
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-02-01
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg, - ,,Nakuru,2023-01-31
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,25000,Turkana,2023-01-31
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2500,Uasin-Gishu,2023-01-31
+Wheat,-,-,-,Kangemi Market, - ,90.00/Kg,,Nairobi,2023-01-31
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-01-30
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,80.00/Kg,200,Baringo,2023-01-30
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-30
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,100,Trans-Nzoia,2023-01-29
+Wheat,-,-,-,Kimumu,75.00/Kg,100.00/Kg,1000,Uasin-Gishu,2023-01-28
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,175,Lamu,2023-01-28
+Wheat,-,-,-,Kagunduini,200.00/Kg,250.00/Kg,,Muranga,2023-01-27
+Wheat,-,-,-,Cheptiret - Uasin Gishu,85.00/Kg,90.00/Kg,3000,Uasin-Gishu,2023-01-27
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,2000,Uasin-Gishu,2023-01-27
+Wheat,-,-,-,Daraja Mbili,57.78/Kg,100.00/Kg,560,Kisii,2023-01-27
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-01-27
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-26
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-01-26
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,5600,Uasin-Gishu,2023-01-26
+Wheat,-,-,-,Kangemi Market, - ,90.00/Kg,,Nairobi,2023-01-26
+Wheat,-,-,-,Nyansiongo,111.11/Kg,116.67/Kg,90,Nyamira,2023-01-25
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-25
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-01-25
+Wheat,-,-,-,Embu Town,166.67/Kg,200.00/Kg,1000,Embu,2023-01-25
+Wheat,-,-,-,Daraja Mbili,61.11/Kg,100.00/Kg,360,Kisii,2023-01-24
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,5670,Nakuru,2023-01-24
+Wheat,-,-,-,Kerugoya,70.00/Kg,100.00/Kg,1000,Kirinyaga,2023-01-24
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,3000,Uasin-Gishu,2023-01-24
+Wheat,-,-,-,Makutano West Pokot,100.00/Kg,170.00/Kg,,West-Pokot,2023-01-23
+Wheat,-,-,-,Kagio,111.11/Kg,120.00/Kg,,Kirinyaga,2023-01-23
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-23
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-01-23
+Wheat,-,-,-,Kasuku,60.00/Kg,90.00/Kg,50,Nyandarua,2023-01-22
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,75.00/Kg,500,Trans-Nzoia,2023-01-22
+Wheat,-,-,-,Embu Town,88.89/Kg,125.00/Kg,1500,Embu,2023-01-21
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,240,Lamu,2023-01-21
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2023-01-20
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-20
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-01-19
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-19
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2023-01-19
+Wheat,-,-,-,Ugunja, - ,115.00/Kg,,Siaya,2023-01-19
+Wheat,-,-,-,Kajiado Market,100.00/Kg,100.00/Kg,7000,Kajiado,2023-01-19
+Wheat,-,-,-,Marikiti, - ,100.00/Kg,,Mombasa,2023-01-18
+Wheat,-,-,-,Nyeri open air,66.67/Kg,85.00/Kg,,Nyeri,2023-01-18
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-18
+Wheat,-,-,-,Chaka,61.11/Kg,80.00/Kg,,Nyeri,2023-01-18
+Wheat,-,-,-,Cheptiret - Uasin Gishu,90.00/Kg,100.00/Kg,5000,Uasin-Gishu,2023-01-18
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,110,Lamu,2023-01-18
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2500,Uasin-Gishu,2023-01-18
+Wheat,-,-,-,Kangemi Market,75.00/Kg,85.00/Kg,,Nairobi,2023-01-18
+Wheat,-,-,-,Marikiti, - ,100.00/Kg,,Mombasa,2023-01-17
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-17
+Wheat,-,-,-,Maua,88.89/Kg,120.00/Kg,900,Meru,2023-01-17
+Wheat,-,-,-,Kangemi Market, - ,80.00/Kg,,Nairobi,2023-01-17
+Wheat,-,-,-,Kangemi Market, - ,80.00/Kg,,Nairobi,2023-01-17
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5000,Uasin-Gishu,2023-01-17
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,80.00/Kg,90,Baringo,2023-01-16
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,18090,Nakuru,2023-01-16
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2023-01-15
+Wheat,-,-,-,Kiminini - Kitale,80.00/Kg,90.00/Kg,200,Trans-Nzoia,2023-01-15
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,4000,Laikipia,2023-01-14
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2023-01-14
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,2700,Nakuru,2023-01-13
+Wheat,-,-,-,Kerugoya,70.00/Kg,100.00/Kg,1000,Kirinyaga,2023-01-13
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5000,Uasin-Gishu,2023-01-13
+Wheat,-,-,-,Kangemi Market, - ,70.00/Kg,,Nairobi,2023-01-13
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,720,Meru,2023-01-12
+Wheat,-,-,-,Kitale Municipality Market,100.00/Kg,125.00/Kg,300,Trans-Nzoia,2023-01-12
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2023-01-12
+Wheat,-,-,-,Chaka,60.00/Kg,80.00/Kg,,Nyeri,2023-01-11
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,110,Lamu,2023-01-11
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2500,Uasin-Gishu,2023-01-11
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-10
+Wheat,-,-,-,Kerugoya,70.00/Kg,100.00/Kg,1500,Kirinyaga,2023-01-10
+Wheat,-,-,-,Kangemi Market, - ,80.00/Kg,,Nairobi,2023-01-10
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,3000,Kwale,2023-01-10
+Wheat,-,-,-,Daraja Mbili,64.44/Kg,100.00/Kg,450,Kisii,2023-01-10
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2023-01-09
+Wheat,-,-,-,Eldama Ravine,60.00/Kg,80.00/Kg,350,Baringo,2023-01-09
+Wheat,-,-,-,Kangemi Market, - ,90.00/Kg,,Nairobi,2023-01-09
+Wheat,-,-,-,Kibuye, - ,70.00/Kg,,Kisumu,2023-01-08
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,150.00/Kg,500,Trans-Nzoia,2023-01-08
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,140,Lamu,2023-01-07
+Wheat,-,-,-,Kerugoya,70.00/Kg,100.00/Kg,1000,Kirinyaga,2023-01-06
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5600,Uasin-Gishu,2023-01-06
+Wheat,-,-,-,Marikiti, - ,70.00/Kg,,Mombasa,2023-01-05
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,900,Meru,2023-01-05
+Wheat,-,-,-,Diani Market,100.00/Kg,120.00/Kg,3000,Kwale,2023-01-04
+Wheat,-,-,-,Chaka,61.11/Kg,85.00/Kg,,Nyeri,2023-01-04
+Wheat,-,-,-,Cheptiret - Uasin Gishu,90.00/Kg,100.00/Kg,2000,Uasin-Gishu,2023-01-04
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,130,Lamu,2023-01-04
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,2500,Uasin-Gishu,2023-01-04
+Wheat,-,-,-,Kangemi Market,75.00/Kg,100.00/Kg,,Nairobi,2023-01-04
+Wheat,-,-,-,Kerugoya,75.00/Kg,100.00/Kg,1500,Kirinyaga,2023-01-03
+Wheat,-,-,-,Kangemi Market,75.00/Kg,100.00/Kg,,Nairobi,2023-01-03
+Wheat,-,-,-,Kerugoya,75.00/Kg,100.00/Kg,1000,Kirinyaga,2022-12-30
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2022-12-29
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,2500,Kwale,2022-12-29
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2022-12-28
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2022-12-28
+Wheat,-,-,-,Cheptiret - Uasin Gishu,65.00/Kg,90.00/Kg,3000,Uasin-Gishu,2022-12-28
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,170,Lamu,2022-12-28
+Wheat,-,-,-,Kiminini - Kitale,100.00/Kg,125.00/Kg,200,Trans-Nzoia,2022-12-26
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,130,Lamu,2022-12-24
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,3500,Kwale,2022-12-24
+Wheat,-,-,-,Kerugoya,70.00/Kg,100.00/Kg,1000,Kirinyaga,2022-12-23
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,80.00/Kg,810,Machakos,2022-12-23
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-12-23
+Wheat,-,-,-,Kangemi Market,65.00/Kg,100.00/Kg,,Nairobi,2022-12-23
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,540,Meru,2022-12-22
+Wheat,-,-,-,Kutus,90.46/Kg,99.50/Kg,0,Kirinyaga,2022-12-22
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-12-22
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,6300,Uasin-Gishu,2022-12-22
+Wheat,-,-,-,Kangemi Market,75.00/Kg,100.00/Kg,,Nairobi,2022-12-22
+Wheat,-,-,-,Nyeri open air,66.67/Kg,80.00/Kg,,Nyeri,2022-12-21
+Wheat,-,-,-,Kajiado Market,100.00/Kg,187.50/Kg,7000,Kajiado,2022-12-21
+Wheat,-,-,-,Nyakoe,48.33/Kg,100.00/Kg,120,Kisii,2022-12-21
+Wheat,-,-,-,Chaka,63.33/Kg,90.00/Kg,1600,Nyeri,2022-12-21
+Wheat,-,-,-,Nakuru Wakulima,633.33/Kg,70.00/Kg,1350,Nakuru,2022-12-21
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,130,Lamu,2022-12-21
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,2000,Kwale,2022-12-21
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2022-12-20
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,720,Machakos,2022-12-20
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2022-12-20
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2022-12-19
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-12-19
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,5000,Uasin-Gishu,2022-12-19
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-12-19
+Wheat,-,-,-,Kasuku,61.11/Kg,70.00/Kg,90,Nyandarua,2022-12-18
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,90.00/Kg,3500,Laikipia,2022-12-17
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2022-12-17
+Wheat,-,-,-,Daraja Mbili,61.11/Kg,100.00/Kg,240,Kisii,2022-12-17
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-12-16
+Wheat,-,-,-,Machakos Main Market, - ,120.00/Kg,,Machakos,2022-12-16
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,65.00/Kg,,Nakuru,2022-12-16
+Wheat,-,-,-,Kerugoya,70.00/Kg,100.00/Kg,1000,Kirinyaga,2022-12-16
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-12-16
+Wheat,-,-,-,Kimumu,140.00/Kg,150.00/Kg,3500,Uasin-Gishu,2022-12-16
+Wheat,-,-,-,Nyakoe,62.22/Kg,80.00/Kg,180,Kisii,2022-12-16
+Wheat,-,-,-,Nakuru Wakulima,63.33/Kg,70.00/Kg,,Nakuru,2022-12-15
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,540,Meru,2022-12-15
+Wheat,-,-,-,Kajiado Market,100.00/Kg,200.00/Kg,7000,Kajiado,2022-12-14
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,5000,Uasin-Gishu,2022-12-14
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,9900,Nakuru,2022-12-14
+Wheat,-,-,-,Serem - Vihiga, - ,90.00/Kg,300,Vihiga,2022-12-14
+Wheat,-,-,-,Embu Town,77.78/Kg,110.00/Kg,1500,Embu,2022-12-14
+Wheat,-,-,-,Nyamakima,80.00/Kg,130.00/Kg,,Nairobi,2022-12-14
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,110,Lamu,2022-12-14
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,,Nakuru,2022-12-13
+Wheat,-,-,-,Kerugoya,75.00/Kg,100.00/Kg,1500,Kirinyaga,2022-12-13
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-12-13
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,560,Machakos,2022-12-13
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2022-12-13
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-12-12
+Wheat,-,-,-,Kangemi Market,65.00/Kg,100.00/Kg,,Nairobi,2022-12-12
+Wheat,-,-,-,Kasuku,77.78/Kg,90.00/Kg,90,Nyandarua,2022-12-11
+Wheat,-,-,-,Kiminini - Kitale,150.00/Kg,125.00/Kg,90,Trans-Nzoia,2022-12-11
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-12-09
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,,Nakuru,2022-12-09
+Wheat,-,-,-,Kangemi Market,70.00/Kg,80.00/Kg,,Nairobi,2022-12-09
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,3500,Kwale,2022-12-09
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,900,Meru,2022-12-08
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,2790,Nakuru,2022-12-08
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-12-08
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,80,Lamu,2022-12-08
+Wheat,-,-,-,Kangemi Market,68.00/Kg,80.00/Kg,,Nairobi,2022-12-08
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-12-07
+Wheat,-,-,-,Kajiado Market,100.00/Kg,100.00/Kg,5000,Kajiado,2022-12-07
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,6000,Uasin-Gishu,2022-12-07
+Wheat,-,-,-,Naivasha Market,80.00/Kg,100.00/Kg,,Nakuru,2022-12-06
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,720,Machakos,2022-12-06
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg,70.00/Kg,630,Nakuru,2022-12-06
+Wheat,-,-,-,Kangemi Market,84.44/Kg,100.00/Kg,,Nairobi,2022-12-06
+Wheat,-,-,-,Mois Bridge,66.67/Kg,100.00/Kg,300,Uasin-Gishu,2022-12-06
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg,65.00/Kg,2250,Nakuru,2022-12-05
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-12-05
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2500,Uasin-Gishu,2022-12-05
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,1.20/Kg,180,Trans-Nzoia,2022-12-04
+Wheat,-,-,-,Mulot,100.00/Kg,150.00/Kg,200,Bomet,2022-12-03
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,80,Lamu,2022-12-03
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-12-02
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,1530,Nakuru,2022-12-02
+Wheat,-,-,-,Kerugoya,75.00/Kg,100.00/Kg,1000,Kirinyaga,2022-12-02
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,2500,Kwale,2022-12-02
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-12-01
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,540,Meru,2022-12-01
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,,Nakuru,2022-12-01
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-12-01
+Wheat,-,-,-,Diani Market,110.00/Kg,130.00/Kg,3000,Kwale,2022-12-01
+Wheat,-,-,-,Nyakoe,60.00/Kg,100.00/Kg,240,Kisii,2022-11-30
+Wheat,-,-,-,Maralal livestock market,66.67/Kg,100.00/Kg,90,Samburu,2022-11-30
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg,70.00/Kg,,Nakuru,2022-11-30
+Wheat,-,-,-,Chaka,64.44/Kg,90.00/Kg,2260,Nyeri,2022-11-30
+Wheat,-,-,-,Embu Town,88.89/Kg,125.00/Kg,1000,Embu,2022-11-30
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-11-30
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,120,Lamu,2022-11-30
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-11-29
+Wheat,-,-,-,Daraja Mbili,61.11/Kg,100.00/Kg,250,Kisii,2022-11-29
+Wheat,-,-,-,Kerugoya,75.00/Kg,100.00/Kg,1000,Kirinyaga,2022-11-29
+Wheat,-,-,-,Cheptiret - Uasin Gishu,80.00/Kg,100.00/Kg,2000,Uasin-Gishu,2022-11-29
+Wheat,-,-,-,Kitale Municipality Market,125.00/Kg,150.00/Kg,300,Trans-Nzoia,2022-11-29
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,1800,Nakuru,2022-11-28
+Wheat,-,-,-,Eldoret Main,90.00/Kg,200.00/Kg,5000,Uasin-Gishu,2022-11-28
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,125,Lamu,2022-11-28
+Wheat,-,-,-,Garissa Soko Mugdi,90.00/Kg,100.00/Kg,3000,Garissa,2022-11-28
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,150.00/Kg,100,Trans-Nzoia,2022-11-27
+Wheat,-,-,-,Nanyuki Open Air Market,66.67/Kg,80.00/Kg,4000,Laikipia,2022-11-26
+Wheat,-,-,-,Embu Town,83.33/Kg,120.00/Kg,1500,Embu,2022-11-26
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2022-11-26
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-11-25
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,3000,Uasin-Gishu,2022-11-24
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,4200,Uasin-Gishu,2022-11-24
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2022-11-23
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2000,Uasin-Gishu,2022-11-23
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,4000,Kwale,2022-11-23
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-11-22
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,450,Meru,2022-11-22
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,2500,Uasin-Gishu,2022-11-22
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,250,Lamu,2022-11-21
+Wheat,-,-,-,Kangemi Market, - ,110.00/Kg,,Nairobi,2022-11-21
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2022-11-21
+Wheat,-,-,-,Kiminini - Kitale,125.00/Kg,150.00/Kg,100,Trans-Nzoia,2022-11-20
+Wheat,-,-,-,Nanyuki Open Air Market,72.22/Kg,80.00/Kg,4000,Laikipia,2022-11-19
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2022-11-19
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,120,Lamu,2022-11-19
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,720,Machakos,2022-11-18
+Wheat,-,-,-,Keumbu,100.00/Kg,110.00/Kg,1000,Kisii,2022-11-18
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2022-11-18
+Wheat,-,-,-,Maua,80.00/Kg,100.00/Kg,630,Meru,2022-11-17
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,1440,Nakuru,2022-11-17
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-11-17
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,,Nakuru,2022-11-16
+Wheat,-,-,-,Embu Town,70.00/Kg,90.00/Kg,8000,Embu,2022-11-16
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2022-11-16
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-11-16
+Wheat,-,-,-,Nyahururu Municipal Market,55.56/Kg,70.00/Kg,27000,Laikipia,2022-11-15
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,2970,Nakuru,2022-11-15
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-11-15
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,5600,Uasin-Gishu,2022-11-15
+Wheat,-,-,-,Diani Market,100.00/Kg,120.00/Kg,2500,Kwale,2022-11-15
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,260,Nakuru,2022-11-14
+Wheat,-,-,-,Kutus,86.21/Kg,94.83/Kg,0,Kirinyaga,2022-11-14
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-11-14
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2022-11-13
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,75,Lamu,2022-11-12
+Wheat,-,-,-,Diani Market,100.00/Kg,120.00/Kg,2500,Kwale,2022-11-12
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-11-11
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,,Nakuru,2022-11-11
+Wheat,-,-,-,Eldoret Main,85.00/Kg,110.00/Kg,5600,Uasin-Gishu,2022-11-11
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,3000,Kwale,2022-11-10
+Wheat,-,-,-,Maua,88.89/Kg,100.00/Kg,630,Meru,2022-11-10
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,4230,Nakuru,2022-11-10
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-11-10
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,,Nakuru,2022-11-09
+Wheat,-,-,-,Kangemi Market,58.00/Kg,100.00/Kg,,Nairobi,2022-11-09
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,120,Lamu,2022-11-09
+Wheat,-,-,-,Eldoret Main,75.00/Kg,85.00/Kg,5600,Uasin-Gishu,2022-11-09
+Wheat,-,-,-,Diani Market,100.00/Kg,120.00/Kg,3500,Kwale,2022-11-09
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-11-08
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,,Nakuru,2022-11-08
+Wheat,-,-,-,Cheptiret - Uasin Gishu,65.00/Kg,75.00/Kg,1000,Uasin-Gishu,2022-11-08
+Wheat,-,-,-,Diani Market,110.00/Kg,120.00/Kg,5000,Kwale,2022-11-08
+Wheat,-,-,-,Mois Bridge,57.78/Kg,140.00/Kg,150,Uasin-Gishu,2022-11-07
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,70.00/Kg,2160,Nakuru,2022-11-07
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,70.00/Kg,350,Baringo,2022-11-07
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-11-07
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2022-11-06
+Wheat,-,-,-,Kiminini - Kitale,115.00/Kg,150.00/Kg,100,Trans-Nzoia,2022-11-06
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,4000,Kwale,2022-11-05
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-11-04
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,,Nakuru,2022-11-04
+Wheat,-,-,-,Kimumu,125.00/Kg,150.00/Kg,2000,Uasin-Gishu,2022-11-04
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,2700,Uasin-Gishu,2022-11-04
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,4000,Kwale,2022-11-03
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2022-11-03
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,3500,Kwale,2022-11-02
+Wheat,-,-,-,Chaka,66.67/Kg,90.00/Kg,2140,Nyeri,2022-11-02
+Wheat,-,-,-,Nyahururu Municipal Market,57.78/Kg,70.00/Kg,9000,Laikipia,2022-11-01
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-11-01
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,450,Meru,2022-11-01
+Wheat,-,-,-,Voi Retail, - ,70.00/Kg,25,Taita-Taveta,2022-11-01
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,3000,Kwale,2022-11-01
+Wheat,-,-,-,Mouwarak Crops Market,61.11/Kg,70.00/Kg,90,Laikipia,2022-10-31
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,75.00/Kg,6750,Nakuru,2022-10-31
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-10-31
+Wheat,-,-,-,Kutus,72.22/Kg,87.80/Kg,450,Kirinyaga,2022-10-31
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-10-31
+Wheat,-,-,-,Nanyuki Open Air Market,55.56/Kg,80.00/Kg,4000,Laikipia,2022-10-29
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,120,Lamu,2022-10-29
+Wheat,-,-,-,Nyakoe,60.89/Kg,100.00/Kg,240,Kisii,2022-10-29
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,2500,Kwale,2022-10-28
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-10-28
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-10-27
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-10-27
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-10-27
+Wheat,-,-,-,Kajiado Market,100.00/Kg,200.00/Kg,7500,Kajiado,2022-10-26
+Wheat,-,-,-,Chaka,73.33/Kg,100.00/Kg,1190,Nyeri,2022-10-26
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-10-26
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2022-10-26
+Wheat,-,-,-,Nyahururu Municipal Market,60.00/Kg,70.00/Kg,4000,Laikipia,2022-10-25
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,720,Machakos,2022-10-25
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,720,Meru,2022-10-25
+Wheat,-,-,-,Takaba Market,54.17/Kg,120.00/Kg,,Mandera,2022-10-25
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg,70.00/Kg,297090,Nakuru,2022-10-25
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,280,Kisii,2022-10-25
+Wheat,-,-,-,Daraja Mbili,1050.00/Kg,115.00/Kg,60000,Kisii,2022-10-25
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,8000,Uasin-Gishu,2022-10-24
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg,70.00/Kg,1800,Nakuru,2022-10-24
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,80.00/Kg,300,Baringo,2022-10-24
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-10-24
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,85.00/Kg,2000,Uasin-Gishu,2022-10-24
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,75,Lamu,2022-10-22
+Wheat,-,-,-,Embu Town,105.56/Kg,125.00/Kg,1000,Embu,2022-10-22
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,810,Machakos,2022-10-21
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg,70.00/Kg,,Nakuru,2022-10-21
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,2500,Kwale,2022-10-21
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-10-20
+Wheat,-,-,-,Kajiado Market,100.00/Kg,191.67/Kg,5000,Kajiado,2022-10-19
+Wheat,-,-,-,Nanyuki Open Air Market,83.33/Kg,90.00/Kg,4000,Laikipia,2022-10-19
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg,70.00/Kg,,Nakuru,2022-10-19
+Wheat,-,-,-,Chaka,68.89/Kg,90.00/Kg,1480,Nyeri,2022-10-19
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,130,Lamu,2022-10-19
+Wheat,-,-,-,Nyahururu Municipal Market,55.56/Kg,60.00/Kg,20000,Laikipia,2022-10-18
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2022-10-18
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,720,Machakos,2022-10-18
+Wheat,-,-,-,Nakuru Wakulima,61.11/Kg,70.00/Kg,4500,Nakuru,2022-10-18
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,5000,Uasin-Gishu,2022-10-18
+Wheat,-,-,-,Kibuye, - ,100.00/Kg,,Kisumu,2022-10-17
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-10-17
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,3600,Nyeri,2022-10-17
+Wheat,-,-,-,Taveta Retail Market,140.00/Kg,160.00/Kg,180,Taita-Taveta,2022-10-15
+Wheat,-,-,-,Nanyuki Open Air Market,77.78/Kg,90.00/Kg,3800,Laikipia,2022-10-15
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,150,Lamu,2022-10-15
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,1500,Kwale,2022-10-15
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,810,Machakos,2022-10-14
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,12000,Uasin-Gishu,2022-10-14
+Wheat,-,-,-,Kangemi Market,75.00/Kg,100.00/Kg,,Nairobi,2022-10-14
+Wheat,-,-,-,Nyakoe,62.22/Kg,100.00/Kg,300,Kisii,2022-10-13
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg,70.00/Kg,,Nakuru,2022-10-13
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,200,Lamu,2022-10-13
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-10-13
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,6000,Uasin-Gishu,2022-10-13
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,1500,Kwale,2022-10-13
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg,70.00/Kg,2610,Nakuru,2022-10-12
+Wheat,-,-,-,Chaka,72.22/Kg,100.00/Kg,870,Nyeri,2022-10-12
+Wheat,-,-,-,Embu Town,83.33/Kg,125.00/Kg,800,Embu,2022-10-12
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-10-12
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,1500,Kwale,2022-10-12
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,900,Meru,2022-10-11
+Wheat,-,-,-,Nyahururu Municipal Market,58.89/Kg,70.00/Kg,9000,Laikipia,2022-10-11
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg,70.00/Kg,5670,Nakuru,2022-10-11
+Wheat,-,-,-,Cheptiret - Uasin Gishu,70.00/Kg,85.00/Kg,2000,Uasin-Gishu,2022-10-11
+Wheat,-,-,-,Othaya,66.67/Kg,100.00/Kg,2700,Nyeri,2022-10-10
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-10-10
+Wheat,-,-,-,Kibuye, - ,80.00/Kg,,Kisumu,2022-10-10
+Wheat,-,-,-,Nanyuki Open Air Market,78.89/Kg,90.00/Kg,3500,Laikipia,2022-10-08
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,140,Lamu,2022-10-08
+Wheat,-,-,-,Embu Town,75.00/Kg,85.00/Kg,1100,Embu,2022-10-08
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,720,Machakos,2022-10-07
+Wheat,-,-,-,Nyakoe,62.22/Kg,100.00/Kg,270,Kisii,2022-10-07
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,,Nakuru,2022-10-07
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,1500,Kwale,2022-10-07
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,900,Meru,2022-10-06
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,3150,Nakuru,2022-10-06
+Wheat,-,-,-,Eldama Ravine,60.00/Kg,70.00/Kg,180,Baringo,2022-10-06
+Wheat,-,-,-,Chaka,77.78/Kg,100.00/Kg,1150,Nyeri,2022-10-05
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,2970,Nakuru,2022-10-05
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,1000,Uasin-Gishu,2022-10-05
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,250,Lamu,2022-10-05
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,6300,Uasin-Gishu,2022-10-05
+Wheat,-,-,-,Mukuyu Market,88.89/Kg,100.00/Kg,,Muranga,2022-10-05
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,2000,Kwale,2022-10-05
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-10-04
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,45,Kisii,2022-10-04
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,75.00/Kg,90,Machakos,2022-10-04
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,2500,Kwale,2022-10-03
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,70.00/Kg,300,Baringo,2022-10-03
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-10-03
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2022-10-02
+Wheat,-,-,-,Kibiok,90.00/Kg,200.00/Kg,400,Nandi,2022-10-02
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,2000,Kwale,2022-10-01
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,810,Machakos,2022-09-30
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,130,Lamu,2022-09-30
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,2700,Nakuru,2022-09-30
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,3000,Kwale,2022-09-30
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,,Nakuru,2022-09-29
+Wheat,-,-,-,Chaka,72.22/Kg,100.00/Kg,1200,Nyeri,2022-09-28
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,6500,Uasin-Gishu,2022-09-28
+Wheat,-,-,-,Mukuyu Market,77.78/Kg,100.00/Kg,,Muranga,2022-09-28
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,2500,Kwale,2022-09-28
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,720,Machakos,2022-09-27
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,,Nakuru,2022-09-27
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,900,Meru,2022-09-27
+Wheat,-,-,-,Ololulung'a Market,68.00/Kg,72.00/Kg,90,Narok,2022-09-27
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-09-27
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,75.00/Kg,95,Machakos,2022-09-27
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,180,Lamu,2022-09-27
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,450,Kisii,2022-09-27
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,70.00/Kg,300,Baringo,2022-09-26
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,2700,Nakuru,2022-09-26
+Wheat,-,-,-,Ikonge, - ,120.00/Kg,250,Nyamira,2022-09-25
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,140,Lamu,2022-09-25
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,2500,Kwale,2022-09-24
+Wheat,-,-,-,Nanyuki Open Air Market,78.89/Kg,90.00/Kg,3500,Laikipia,2022-09-24
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,560,Machakos,2022-09-23
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,,Nakuru,2022-09-23
+Wheat,-,-,-,Kangemi Market,94.44/Kg,130.00/Kg,,Nairobi,2022-09-23
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-09-23
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,3000,Kwale,2022-09-23
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2022-09-22
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,,Nakuru,2022-09-22
+Wheat,-,-,-,Karatina,77.78/Kg, - ,1350,Nyeri,2022-09-22
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,6300,Uasin-Gishu,2022-09-22
+Wheat,-,-,-,Kangemi Market, - ,100.00/Kg,,Nairobi,2022-09-22
+Wheat,-,-,-,Chaka,77.78/Kg,100.00/Kg,1090,Nyeri,2022-09-21
+Wheat,-,-,-,Bura market,66.67/Kg,85.00/Kg,450,Tana-River,2022-09-21
+Wheat,-,-,-,Kitale Municipality Market,110.00/Kg,125.00/Kg,100,Trans-Nzoia,2022-09-21
+Wheat,-,-,-,Engineer,80.00/Kg,110.00/Kg,1800,Nyandarua,2022-09-21
+Wheat,-,-,-,Mukuyu Market,88.89/Kg,100.00/Kg,,Muranga,2022-09-21
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,80,Lamu,2022-09-21
+Wheat,-,-,-,Kibuye,66.67/Kg,75.00/Kg,,Kisumu,2022-09-20
+Wheat,-,-,-,Nyahururu Municipal Market,63.33/Kg,70.00/Kg,8000,Laikipia,2022-09-20
+Wheat,-,-,-,Kabiyet Market,60.00/Kg,120.00/Kg,2000,Nandi,2022-09-20
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-09-20
+Wheat,-,-,-,Athi River Open air Market,110.00/Kg,115.00/Kg,90,Machakos,2022-09-20
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,70.00/Kg,2880,Nakuru,2022-09-20
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,3500,Kwale,2022-09-20
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-09-19
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,70.00/Kg,350,Baringo,2022-09-19
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,140,Lamu,2022-09-19
+Wheat,-,-,-,Kiminini - Kitale,110.00/Kg,125.00/Kg,90,Trans-Nzoia,2022-09-18
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,3500,Kwale,2022-09-16
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-09-16
+Wheat,-,-,-,Kerugoya,100.00/Kg,125.00/Kg,1500,Kirinyaga,2022-09-16
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-09-16
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2022-09-16
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,92.00/Kg,300,Kisii,2022-09-16
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,630,Meru,2022-09-15
+Wheat,-,-,-,Nyeri open air,74.44/Kg,90.00/Kg,,Nyeri,2022-09-15
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,52.00/Kg,250,Baringo,2022-09-15
+Wheat,-,-,-,Kangemi Market, - ,100.00/Kg,,Nairobi,2022-09-15
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,5000,Uasin-Gishu,2022-09-15
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,2500,Kwale,2022-09-14
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-09-14
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,80.00/Kg,200,Kisii,2022-09-14
+Wheat,-,-,-,Kimanjo Food Crops Market,90.00/Kg,120.00/Kg,2000,Laikipia,2022-09-14
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,130,Lamu,2022-09-14
+Wheat,-,-,-,Mukuyu Market,77.78/Kg,100.00/Kg,,Muranga,2022-09-14
+Wheat,-,-,-,Athi River Open air Market,95.00/Kg,200.00/Kg,480,Machakos,2022-09-13
+Wheat,-,-,-,Eldoret Main,85.00/Kg,95.00/Kg,6000,Uasin-Gishu,2022-09-12
+Wheat,-,-,-,Mwangulu,90.00/Kg,90.00/Kg,580,Kwale,2022-09-12
+Wheat,-,-,-,Nakuru Wakulima,6300.00/Kg,80.00/Kg,,Nakuru,2022-09-12
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-09-12
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,56.00/Kg,300,Baringo,2022-09-12
+Wheat,-,-,-,Othaya,68.89/Kg,90.00/Kg,0.3,Nyeri,2022-09-12
+Wheat,-,-,-,Kangemi Market, - ,100.00/Kg,,Nairobi,2022-09-12
+Wheat,-,-,-,Kibuye,66.67/Kg,75.00/Kg,,Kisumu,2022-09-11
+Wheat,-,-,-,Kiminini - Kitale,110.00/Kg,125.00/Kg,200,Trans-Nzoia,2022-09-11
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,4000,Kwale,2022-09-11
+Wheat,-,-,-,Nanyuki Open Air Market,78.89/Kg,90.00/Kg,3500,Laikipia,2022-09-10
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,250,Lamu,2022-09-10
+Wheat,-,-,-,Athi River Open air Market,88.89/Kg,100.00/Kg,90,Machakos,2022-09-10
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,3000,Kwale,2022-09-10
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,630,Machakos,2022-09-09
+Wheat,-,-,-,Keumbu,75.00/Kg,83.33/Kg,45,Kisii,2022-09-09
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-09-09
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2022-09-08
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,4000,Kwale,2022-09-08
+Wheat,-,-,-,Eldoret Main,75.00/Kg,95.00/Kg,6000,Uasin-Gishu,2022-09-08
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,3000,Kwale,2022-09-07
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,250,Lamu,2022-09-07
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-09-07
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-09-07
+Wheat,-,-,-,Engineer,80.00/Kg,110.00/Kg,4500,Nyandarua,2022-09-07
+Wheat,-,-,-,Mukuyu Market,77.78/Kg,100.00/Kg,,Muranga,2022-09-07
+Wheat,-,-,-,Kangemi Market, - ,80.00/Kg,,Nairobi,2022-09-07
+Wheat,-,-,-,Bondo,1.00/Kg,1.00/Kg,1,Siaya,2022-09-06
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,720,Meru,2022-09-06
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,600,Machakos,2022-09-06
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,600,Machakos,2022-09-06
+Wheat,-,-,-,Daraja Mbili,62.32/Kg,100.00/Kg,400,Kisii,2022-09-06
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-09-06
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-09-06
+Wheat,-,-,-,Kangemi Market, - ,80.00/Kg,,Nairobi,2022-09-06
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-09-05
+Wheat,-,-,-,Kibiok,65.00/Kg,150.00/Kg,450,Nandi,2022-09-04
+Wheat,-,-,-,Kiminini - Kitale,110.00/Kg,125.00/Kg,200,Trans-Nzoia,2022-09-04
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,5000,Kwale,2022-09-02
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,550,Machakos,2022-09-02
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-09-02
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-09-02
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,180,Lamu,2022-09-02
+Wheat,-,-,-,Daraja Mbili,60.10/Kg,100.00/Kg,320,Kisii,2022-09-02
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,900,Meru,2022-09-01
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-09-01
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-09-01
+Wheat,-,-,-,Kangemi Market, - ,100.00/Kg,,Nairobi,2022-09-01
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-31
+Wheat,-,-,-,Chaka,77.78/Kg,100.00/Kg,720,Nyeri,2022-08-31
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-08-31
+Wheat,-,-,-,Mukuyu Market,77.78/Kg,100.00/Kg,,Muranga,2022-08-31
+Wheat,-,-,-,Mpeketoni,120.00/Kg,180.00/Kg,150,Lamu,2022-08-31
+Wheat,-,-,-,Engineer,80.00/Kg,110.00/Kg,5000,Nyandarua,2022-08-31
+Wheat,-,-,-,Nyakoe,60.00/Kg,112.00/Kg,200,Kisii,2022-08-31
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,600,Machakos,2022-08-30
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-30
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,90,Machakos,2022-08-30
+Wheat,-,-,-,Kerugoya,100.00/Kg,125.00/Kg,2000,Kirinyaga,2022-08-30
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,8000,Uasin-Gishu,2022-08-30
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,3500,Kisii,2022-08-30
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,3000,Kwale,2022-08-30
+Wheat,-,-,-,Eldama Ravine,70.00/Kg,80.00/Kg,200,Baringo,2022-08-29
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-08-29
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-08-29
+Wheat,-,-,-,Kiminini - Kitale,110.00/Kg,125.00/Kg,200,Trans-Nzoia,2022-08-28
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,250,Lamu,2022-08-28
+Wheat,-,-,-,Kibiok,75.00/Kg,80.00/Kg,1000,Nandi,2022-08-28
+Wheat,-,-,-,Nanyuki Open Air Market,80.00/Kg,90.00/Kg,2500,Laikipia,2022-08-27
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,5000,Kwale,2022-08-26
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2022-08-26
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2022-08-26
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,650,Machakos,2022-08-26
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-26
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-08-26
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-25
+Wheat,-,-,-,Kangemi Market, - ,100.00/Kg,,Nairobi,2022-08-25
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,56.00/Kg,250,Baringo,2022-08-25
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,5000,Kwale,2022-08-25
+Wheat,-,-,-,Nyeri open air,77.78/Kg,100.00/Kg,,Nyeri,2022-08-24
+Wheat,-,-,-,Chaka,77.78/Kg,100.00/Kg,720,Nyeri,2022-08-24
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-24
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,150,Lamu,2022-08-24
+Wheat,-,-,-,Mukuyu Market,77.78/Kg,100.00/Kg,,Muranga,2022-08-24
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,9000,Uasin-Gishu,2022-08-24
+Wheat,-,-,-,Nyakoe,60.00/Kg,80.00/Kg,100,Kisii,2022-08-24
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,600,Machakos,2022-08-23
+Wheat,-,-,-,Kerugoya,100.00/Kg,125.00/Kg,1500,Kirinyaga,2022-08-23
+Wheat,-,-,-,Maua,100.00/Kg,120.00/Kg,450,Meru,2022-08-23
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,90,Machakos,2022-08-23
+Wheat,-,-,-,Nakuru Top Market, - ,150.00/Kg,,Nakuru,2022-08-23
+Wheat,-,-,-,Kangemi Market,64.44/Kg, - ,,Nairobi,2022-08-23
+Wheat,-,-,-,Daraja Mbili,62.22/Kg,100.00/Kg,300,Kisii,2022-08-23
+Wheat,-,-,-,Diani Market,120.00/Kg,140.00/Kg,5000,Kwale,2022-08-22
+Wheat,-,-,-,Kitale Municipality Market,110.00/Kg,125.00/Kg,180,Trans-Nzoia,2022-08-22
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-22
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,70.00/Kg,180,Baringo,2022-08-22
+Wheat,-,-,-,Kiminini - Kitale,110.00/Kg,125.00/Kg,90,Trans-Nzoia,2022-08-21
+Wheat,-,-,-,Kasuku,77.78/Kg,100.00/Kg,90,Nyandarua,2022-08-21
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,4000,Kwale,2022-08-21
+Wheat,-,-,-,Nanyuki Open Air Market,88.89/Kg,110.00/Kg,3000,Laikipia,2022-08-20
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,80,Lamu,2022-08-20
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,5000,Kwale,2022-08-20
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-08-19
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-08-19
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,88.00/Kg,150,Kisii,2022-08-19
+Wheat,-,-,-,Kibuye,66.67/Kg,75.00/Kg,,Kisumu,2022-08-19
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-19
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-18
+Wheat,-,-,-,Nyeri open air,77.78/Kg,100.00/Kg,,Nyeri,2022-08-17
+Wheat,-,-,-,Chaka,77.78/Kg,100.00/Kg,840,Nyeri,2022-08-17
+Wheat,-,-,-,Kangemi Market, - ,120.00/Kg,,Nairobi,2022-08-17
+Wheat,-,-,-,Kajiado Market,99.00/Kg,168.75/Kg,3000,Kajiado,2022-08-17
+Wheat,-,-,-,Eldoret Main,85.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-08-17
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2022-08-17
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,480,Machakos,2022-08-16
+Wheat,-,-,-,Eldoret Main,90.00/Kg,110.00/Kg,6000,Uasin-Gishu,2022-08-16
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-16
+Wheat,-,-,-,Kitale Municipality Market,170.00/Kg,200.00/Kg,250,Trans-Nzoia,2022-08-15
+Wheat,-,-,-,Nakuru Wakulima,70.00/Kg,80.00/Kg,,Nakuru,2022-08-15
+Wheat,-,-,-,Kiminini - Kitale,110.00/Kg,125.00/Kg,100,Trans-Nzoia,2022-08-14
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2022-08-13
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-08-12
+Wheat,-,-,-,Nyahururu Municipal Market,72.22/Kg,80.00/Kg,900,Laikipia,2022-08-12
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,580,Machakos,2022-08-12
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-08-12
+Wheat,-,-,-,Kangemi Market, - ,50.00/Kg,,Nairobi,2022-08-12
+Wheat,-,-,-,Daraja Mbili,57.78/Kg,100.00/Kg,200,Kisii,2022-08-12
+Wheat,-,-,-,Diani Market,100.00/Kg,120.00/Kg,6000,Kwale,2022-08-12
+Wheat,-,-,-,Nyeri open air,77.78/Kg,100.00/Kg,,Nyeri,2022-08-11
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2022-08-10
+Wheat,-,-,-,Kibuye,80.00/Kg, - ,,Kisumu,2022-08-09
+Wheat,-,-,-,Kitale Municipality Market,77.78/Kg,100.00/Kg,270,Trans-Nzoia,2022-08-08
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-08-08
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,100.00/Kg,90,Trans-Nzoia,2022-08-07
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,550,Kisii,2022-08-07
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-08-06
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,90,Lamu,2022-08-06
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,650,Machakos,2022-08-05
+Wheat,-,-,-,Nyahururu Municipal Market,66.67/Kg,75.00/Kg,10000,Laikipia,2022-08-05
+Wheat,-,-,-,Kibuye,66.67/Kg,75.00/Kg,,Kisumu,2022-08-05
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,110.00/Kg,150,Trans-Nzoia,2022-08-04
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg,75.00/Kg,,Nakuru,2022-08-04
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2022-08-04
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2022-08-04
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,3000,Kwale,2022-08-04
+Wheat,-,-,-,Taveta Retail Market,100.00/Kg,140.00/Kg,1800,Taita-Taveta,2022-08-03
+Wheat,-,-,-,Nyeri open air,77.78/Kg,100.00/Kg,,Nyeri,2022-08-03
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg,75.00/Kg,,Nakuru,2022-08-03
+Wheat,-,-,-,Chaka,75.56/Kg,100.00/Kg,720,Nyeri,2022-08-03
+Wheat,-,-,-,Mukuyu Market,77.78/Kg,100.00/Kg,,Muranga,2022-08-03
+Wheat,-,-,-,Ololulung'a Market,56.67/Kg,60.00/Kg,500,Narok,2022-08-02
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,600,Machakos,2022-08-02
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,270,Machakos,2022-08-02
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg,75.00/Kg,,Nakuru,2022-08-02
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-08-02
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,110.00/Kg,200,Trans-Nzoia,2022-08-01
+Wheat,-,-,-,Nakuru Wakulima,64.44/Kg,750.00/Kg,,Nakuru,2022-08-01
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-08-01
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,3000,Uasin-Gishu,2022-08-01
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,50,Trans-Nzoia,2022-07-31
+Wheat,-,-,-,Diani Market,80.00/Kg,90.00/Kg,2500,Kwale,2022-07-30
+Wheat,-,-,-,Diani Market,80.00/Kg,90.00/Kg,2500,Kwale,2022-07-30
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-07-29
+Wheat,-,-,-,Nyakoe,53.33/Kg,100.00/Kg,100,Kisii,2022-07-29
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-07-29
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,650,Machakos,2022-07-29
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,350,Kisii,2022-07-29
+Wheat,-,-,-,Nakuru Wakulima,72.22/Kg,75.00/Kg,,Nakuru,2022-07-28
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-07-28
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,56.00/Kg,350,Baringo,2022-07-28
+Wheat,-,-,-,Eldoret Main,85.00/Kg,95.00/Kg,6300,Uasin-Gishu,2022-07-28
+Wheat,-,-,-,Diani Market,90.00/Kg,100.00/Kg,4000,Kwale,2022-07-28
+Wheat,-,-,-,Nyeri open air,77.78/Kg,100.00/Kg,,Nyeri,2022-07-27
+Wheat,-,-,-,Chepterit Market - Nandi,90.00/Kg,100.00/Kg,300,Nandi,2022-07-27
+Wheat,-,-,-,Nakuru Wakulima,72.22/Kg,75.00/Kg,,Nakuru,2022-07-27
+Wheat,-,-,-,Chaka,77.78/Kg,100.00/Kg,1880,Nyeri,2022-07-27
+Wheat,-,-,-,Nakuru Top Market, - ,100.00/Kg,,Nakuru,2022-07-27
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2022-07-27
+Wheat,-,-,-,Mukuyu Market,77.78/Kg,200.00/Kg,,Muranga,2022-07-27
+Wheat,-,-,-,Nyakoe,53.33/Kg,92.00/Kg,100,Kisii,2022-07-27
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,600,Machakos,2022-07-26
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-07-26
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2700,Uasin-Gishu,2022-07-26
+Wheat,-,-,-,Nakuru Wakulima,72.22/Kg,750.00/Kg,,Nakuru,2022-07-26
+Wheat,-,-,-,Maua,77.78/Kg,100.00/Kg,900,Meru,2022-07-26
+Wheat,-,-,-,Nakuru Top Market, - ,80.00/Kg,,Nakuru,2022-07-26
+Wheat,-,-,-,Athi River Open air Market,66.67/Kg,85.00/Kg,180,Machakos,2022-07-26
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,2500,Kwale,2022-07-25
+Wheat,-,-,-,Kitale Municipality Market,170.00/Kg,220.00/Kg,100,Trans-Nzoia,2022-07-25
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,250,Kisii,2022-07-25
+Wheat,-,-,-,Nakuru Wakulima,72.22/Kg,70.00/Kg,,Nakuru,2022-07-25
+Wheat,-,-,-,Kagio,0.01/Kg,120.00/Kg,,Kirinyaga,2022-07-25
+Wheat,-,-,-,Kangemi Market, - ,110.00/Kg,,Nairobi,2022-07-25
+Wheat,-,-,-,Suneka, - ,150.00/Kg,,Kisii,2022-07-24
+Wheat,-,-,-,Kibuye, - ,85.00/Kg,,Kisumu,2022-07-24
+Wheat,-,-,-,Athi River Open air Market,66.67/Kg,85.00/Kg,135,Machakos,2022-07-23
+Wheat,-,-,-,Diani Market,120.00/Kg,130.00/Kg,4000,Kwale,2022-07-23
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,650,Machakos,2022-07-22
+Wheat,-,-,-,Nakuru Wakulima,66.67/Kg,75.00/Kg,,Nakuru,2022-07-22
+Wheat,-,-,-,Nakuru Top Market, - ,90.00/Kg,,Nakuru,2022-07-22
+Wheat,-,-,-,Isiolo Fresh Produce,0.75/Kg,1.11/Kg,1000000,Isiolo,2022-07-22
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,104.00/Kg,300,Kisii,2022-07-22
+Wheat,-,-,-,Nakuru Wakulima,72.22/Kg,75.00/Kg,,Nakuru,2022-07-21
+Wheat,-,-,-,Nakuru Top Market, - ,90.00/Kg,,Nakuru,2022-07-21
+Wheat,-,-,-,Garissa Soko Mugdi,80.00/Kg,120.00/Kg,6000,Garissa,2022-07-21
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-07-21
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,4000,Kwale,2022-07-21
+Wheat,-,-,-,Mulot,57.78/Kg,54.17/Kg,360,Bomet,2022-07-20
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg,70.00/Kg,,Nakuru,2022-07-20
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,2800,Uasin-Gishu,2022-07-20
+Wheat,-,-,-,Chaka,77.78/Kg,100.00/Kg,1190,Nyeri,2022-07-20
+Wheat,-,-,-,Nakuru Top Market, - ,90.00/Kg,,Nakuru,2022-07-20
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,2000,Uasin-Gishu,2022-07-20
+Wheat,-,-,-,Mukuyu Market,88.89/Kg,100.00/Kg,,Muranga,2022-07-20
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,700,Machakos,2022-07-19
+Wheat,-,-,-,Engineer,75.56/Kg,120.00/Kg,900,Nyandarua,2022-07-19
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-07-19
+Wheat,-,-,-,Nyahururu Municipal Market,70.00/Kg,75.00/Kg,10000,Laikipia,2022-07-19
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,100.00/Kg,200,Trans-Nzoia,2022-07-19
+Wheat,-,-,-,Stadium - Kitale,75.56/Kg,110.00/Kg,,Trans-Nzoia,2022-07-19
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-07-19
+Wheat,-,-,-,Eldoret Main,65.00/Kg,75.00/Kg,2700,Uasin-Gishu,2022-07-18
+Wheat,-,-,-,Kangemi Market, - ,80.00/Kg,,Nairobi,2022-07-18
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-07-17
+Wheat,-,-,-,Kibuye,66.67/Kg,75.00/Kg,,Kisumu,2022-07-17
+Wheat,-,-,-,Kibiok,75.00/Kg,200.00/Kg,1000,Nandi,2022-07-17
+Wheat,-,-,-,Nanyuki Open Air Market,110.00/Kg,110.00/Kg,3000,Laikipia,2022-07-16
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,80,Machakos,2022-07-16
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,650,Machakos,2022-07-15
+Wheat,-,-,-,Eldoret Main,95.00/Kg,200.00/Kg,1200,Uasin-Gishu,2022-07-15
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-07-14
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,8000,Turkana,2022-07-14
+Wheat,-,-,-,Kangemi Market, - ,120.00/Kg,,Nairobi,2022-07-14
+Wheat,-,-,-,Diani Market,130.00/Kg,150.00/Kg,3000,Kwale,2022-07-14
+Wheat,-,-,-,Diani Market,140.00/Kg,160.00/Kg,3500,Kwale,2022-07-14
+Wheat,-,-,-,Cheptiret - Uasin Gishu,60.00/Kg,92.00/Kg,2000,Uasin-Gishu,2022-07-13
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,115.00/Kg,200,Trans-Nzoia,2022-07-13
+Wheat,-,-,-,Chaka,80.00/Kg,120.00/Kg,560,Nyeri,2022-07-13
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,5000,Turkana,2022-07-13
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,560,Machakos,2022-07-12
+Wheat,-,-,-,Nyahururu Municipal Market,64.44/Kg,70.00/Kg,30000,Laikipia,2022-07-12
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,5000,Turkana,2022-07-12
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-07-12
+Wheat,-,-,-,Daraja Mbili,57.78/Kg,180.00/Kg,300,Kisii,2022-07-12
+Wheat,-,-,-,Eldoret Main,95.00/Kg,100.00/Kg,5000,Uasin-Gishu,2022-07-11
+Wheat,-,-,-,Kibuye,75.56/Kg,85.00/Kg,,Kisumu,2022-07-11
+Wheat,-,-,-,Eldama Ravine,56.00/Kg,64.00/Kg,200,Baringo,2022-07-11
+Wheat,-,-,-,Mpeketoni,150.00/Kg,200.00/Kg,160,Lamu,2022-07-10
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,3500,Turkana,2022-07-10
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-07-10
+Wheat,-,-,-,Nanyuki Open Air Market,110.00/Kg,110.00/Kg,3500,Laikipia,2022-07-09
+Wheat,-,-,-,Kakuma Modern Market,100.00/Kg,120.00/Kg,8000,Turkana,2022-07-09
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-07-09
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,3000,Kwale,2022-07-09
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-07-08
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,600,Machakos,2022-07-08
+Wheat,-,-,-,Eldoret Main,90.00/Kg,95.00/Kg,270,Uasin-Gishu,2022-07-08
+Wheat,-,-,-,Daraja Mbili,60.00/Kg,100.00/Kg,400,Kisii,2022-07-08
+Wheat,-,-,-,Diani Market,150.00/Kg,160.00/Kg,4000,Kwale,2022-07-08
+Wheat,-,-,-,Diani Market,150.00/Kg,160.00/Kg,4000,Kwale,2022-07-08
+Wheat,-,-,-,Kangemi Market, - ,120.00/Kg,,Nairobi,2022-07-07
+Wheat,-,-,-,Mpeketoni,1.67/Kg,200.00/Kg,150,Lamu,2022-07-07
+Wheat,-,-,-,Diani Market,90.00/Kg,1000.00/Kg,4000,Kwale,2022-07-07
+Wheat,-,-,-,Cheptiret - Uasin Gishu,75.00/Kg,90.00/Kg,1000,Uasin-Gishu,2022-07-06
+Wheat,-,-,-,Chaka,80.00/Kg,120.00/Kg,650,Nyeri,2022-07-06
+Wheat,-,-,-,Kakuma Modern Market,50.00/Kg,80.00/Kg,5000,Turkana,2022-07-06
+Wheat,-,-,-,Eldoret Main,95.00/Kg,105.00/Kg,5600,Uasin-Gishu,2022-07-06
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,14000,Uasin-Gishu,2022-07-05
+Wheat,-,-,-,Nyahururu Municipal Market,72.22/Kg,80.00/Kg,20000,Laikipia,2022-07-05
+Wheat,-,-,-,Stadium - Kitale,70.00/Kg,100.00/Kg,,Trans-Nzoia,2022-07-05
+Wheat,-,-,-,Athi River Open air Market,66.67/Kg,85.00/Kg,135,Machakos,2022-07-05
+Wheat,-,-,-,Athi River Open air Market,66.67/Kg,85.00/Kg,135,Machakos,2022-07-05
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,540,Machakos,2022-07-05
+Wheat,-,-,-,Maua,77.78/Kg,90.00/Kg,900,Meru,2022-07-05
+Wheat,-,-,-,Daraja Mbili,108.00/Kg,100.00/Kg,400,Kisii,2022-07-05
+Wheat,-,-,-,Kakuma Modern Market,100.00/Kg,120.00/Kg,5000,Turkana,2022-07-05
+Wheat,-,-,-,Diani Market,90.00/Kg,110.00/Kg,6000,Kwale,2022-07-05
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,110.00/Kg,300,Trans-Nzoia,2022-07-04
+Wheat,-,-,-,Marikiti, - ,70.00/Kg,,Mombasa,2022-07-04
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-07-04
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-07-04
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,5000,Turkana,2022-07-04
+Wheat,-,-,-,Garissa Soko Mugdi,90.00/Kg,110.00/Kg,5000,Garissa,2022-07-04
+Wheat,-,-,-,Kibuye,75.56/Kg,75.00/Kg,,Kisumu,2022-07-03
+Wheat,-,-,-,Kambu,50.00/Kg,55.56/Kg,1000,Makueni,2022-07-03
+Wheat,-,-,-,Kiminini - Kitale,90.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-07-03
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,10000,Turkana,2022-07-03
+Wheat,-,-,-,Mpeketoni,1.67/Kg,200.00/Kg,150,Lamu,2022-07-02
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,21000,Uasin-Gishu,2022-07-01
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,80.00/Kg,200,Baringo,2022-06-30
+Wheat,-,-,-,Kagio,100.00/Kg,120.00/Kg,,Kirinyaga,2022-06-30
+Wheat,-,-,-,Chepterit Market - Nandi,56.25/Kg,62.50/Kg,140,Nandi,2022-06-30
+Wheat,-,-,-,Mpeketoni,1.67/Kg,200.00/Kg,110,Lamu,2022-06-29
+Wheat,-,-,-,Eldoret Main,87.50/Kg,100.00/Kg,5600,Uasin-Gishu,2022-06-29
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,2500,Kwale,2022-06-29
+Wheat,-,-,-,Nanyuki Open Air Market,100.00/Kg,100.00/Kg,2500,Laikipia,2022-06-29
+Wheat,-,-,-,Suneka,111.11/Kg,155.56/Kg,180,Kisii,2022-06-29
+Wheat,-,-,-,Daraja Mbili,61.11/Kg,112.00/Kg,300,Kisii,2022-06-29
+Wheat,-,-,-,Maua,77.78/Kg,90.00/Kg,540,Meru,2022-06-28
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-06-28
+Wheat,-,-,-,Kitale Municipality Market,85.00/Kg,100.00/Kg,300,Trans-Nzoia,2022-06-28
+Wheat,-,-,-,Kakuma Modern Market,100.00/Kg,130.00/Kg,5000,Turkana,2022-06-28
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,90,Machakos,2022-06-28
+Wheat,-,-,-,Diani Market,160.00/Kg,180.00/Kg,3500,Kwale,2022-06-27
+Wheat,-,-,-,Cheptiret - Uasin Gishu,60.00/Kg,80.00/Kg,3000,Uasin-Gishu,2022-06-27
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-06-27
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,56.00/Kg,250,Baringo,2022-06-27
+Wheat,-,-,-,Marikiti, - ,100.00/Kg,,Mombasa,2022-06-27
+Wheat,-,-,-,Kibuye, - ,90.00/Kg,,Kisumu,2022-06-26
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-06-26
+Wheat,-,-,-,Mpeketoni,1.67/Kg,200.00/Kg,180,Lamu,2022-06-25
+Wheat,-,-,-,Athi River Open air Market,66.67/Kg,85.00/Kg,90,Machakos,2022-06-25
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,490,Machakos,2022-06-24
+Wheat,-,-,-,Kasikeu,68.00/Kg,75.00/Kg,1200,Makueni,2022-06-24
+Wheat,-,-,-,Daraja Mbili,61.11/Kg,112.00/Kg,250,Kisii,2022-06-24
+Wheat,-,-,-,Cheptiret - Uasin Gishu,32.00/Kg,68.00/Kg,3000,Uasin-Gishu,2022-06-23
+Wheat,-,-,-,Kagio,70.00/Kg,90.00/Kg,450,Kirinyaga,2022-06-23
+Wheat,-,-,-,Nanyuki Open Air Market,90.00/Kg,90.00/Kg,3500,Laikipia,2022-06-22
+Wheat,-,-,-,Maralal livestock market,95.83/Kg,110.00/Kg,24,Samburu,2022-06-21
+Wheat,-,-,-,Karatina,64.44/Kg,90.00/Kg,450,Nyeri,2022-06-21
+Wheat,-,-,-,Karatina,64.44/Kg,90.00/Kg,450,Nyeri,2022-06-21
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-06-21
+Wheat,-,-,-,Diani Market,160.00/Kg,180.00/Kg,2500,Kwale,2022-06-21
+Wheat,-,-,-,Diani Market,160.00/Kg,180.00/Kg,2500,Kwale,2022-06-21
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-06-20
+Wheat,-,-,-,Kiminini - Kitale,90.00/Kg,100.00/Kg,50,Trans-Nzoia,2022-06-19
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,2000,Kwale,2022-06-19
+Wheat,-,-,-,Nanyuki Open Air Market,90.00/Kg,90.00/Kg,4000,Laikipia,2022-06-18
+Wheat,-,-,-,Athi River Open air Market,66.67/Kg,80.00/Kg,180,Machakos,2022-06-18
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,70,Lamu,2022-06-18
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-06-17
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,450,Machakos,2022-06-17
+Wheat,-,-,-,Kakuma Modern Market,120.00/Kg,130.00/Kg,25000,Turkana,2022-06-17
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5400,Uasin-Gishu,2022-06-17
+Wheat,-,-,-,Daraja Mbili,0.30/Kg, - ,300,Kisii,2022-06-17
+Wheat,-,-,-,Kagio,70.00/Kg,90.00/Kg,400,Kirinyaga,2022-06-16
+Wheat,-,-,-,Cheptiret - Uasin Gishu,36.00/Kg,60.00/Kg,2000,Uasin-Gishu,2022-06-16
+Wheat,-,-,-,Chepterit Market - Nandi,56.25/Kg,62.50/Kg,90,Nandi,2022-06-15
+Wheat,-,-,-,Kitale Municipality Market,80.00/Kg,100.00/Kg,400,Trans-Nzoia,2022-06-15
+Wheat,-,-,-,Serem - Vihiga, - ,90.00/Kg,200,Vihiga,2022-06-15
+Wheat,-,-,-,Serem - Vihiga, - ,90.00/Kg,200,Vihiga,2022-06-15
+Wheat,-,-,-,Kangemi Market, - ,150.00/Kg,,Nairobi,2022-06-15
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,180,Lamu,2022-06-15
+Wheat,-,-,-,Marikiti, - ,70.00/Kg,,Mombasa,2022-06-15
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,350,Machakos,2022-06-14
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,80.00/Kg,135,Machakos,2022-06-14
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,6000,Kwale,2022-06-14
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,56.00/Kg,400,Baringo,2022-06-13
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-06-13
+Wheat,-,-,-,Kibiok,60.00/Kg,75.00/Kg,1500,Nandi,2022-06-12
+Wheat,-,-,-,Kiminini - Kitale,90.00/Kg,100.00/Kg,50,Trans-Nzoia,2022-06-12
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-06-11
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,130,Lamu,2022-06-11
+Wheat,-,-,-,Nanyuki Open Air Market,57.78/Kg,60.00/Kg,3000,Laikipia,2022-06-11
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,3500,Kwale,2022-06-11
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,3500,Kwale,2022-06-11
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,3500,Kwale,2022-06-11
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,500,Machakos,2022-06-10
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-06-10
+Wheat,-,-,-,Cheptiret - Uasin Gishu,48.00/Kg,60.00/Kg,2000,Uasin-Gishu,2022-06-10
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,2500,Kwale,2022-06-09
+Wheat,-,-,-,Chaka,61.11/Kg,90.00/Kg,1300,Nyeri,2022-06-08
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,160,Lamu,2022-06-07
+Wheat,-,-,-,Tala Centre Market,80.00/Kg,100.00/Kg,450,Machakos,2022-06-07
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-06-07
+Wheat,-,-,-,Diani Market,140.00/Kg,150.00/Kg,4000,Kwale,2022-06-07
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,120.00/Kg,350,Baringo,2022-06-06
+Wheat,-,-,-,Kangemi Market,50.00/Kg,90.00/Kg,,Nairobi,2022-06-06
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5400,Uasin-Gishu,2022-06-06
+Wheat,-,-,-,Kibuye, - ,75.00/Kg,,Kisumu,2022-06-06
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-06-05
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-06-04
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-06-04
+Wheat,-,-,-,Nanyuki Open Air Market,50.00/Kg,60.00/Kg,3500,Laikipia,2022-06-04
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,6300,Uasin-Gishu,2022-06-03
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,100.00/Kg,540,Machakos,2022-06-03
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-06-03
+Wheat,-,-,-,Cheptiret - Uasin Gishu,32.00/Kg,60.00/Kg,2000,Uasin-Gishu,2022-06-02
+Wheat,-,-,-,Eldoret Main,90.00/Kg,100.00/Kg,5600,Uasin-Gishu,2022-06-02
+Wheat,-,-,-,Nakuru Wakulima, - ,60.00/Kg,,Nakuru,2022-06-02
+Wheat,-,-,-,Mbita,120.00/Kg,150.00/Kg,4000,Homa-bay,2022-06-02
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-06-02
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,10000,Turkana,2022-06-01
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,180,Lamu,2022-06-01
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,225,Machakos,2022-05-31
+Wheat,-,-,-,Diani Market,130.00/Kg,140.00/Kg,4000,Kwale,2022-05-31
+Wheat,-,-,-,Nakuru Wakulima, - ,60.00/Kg,,Nakuru,2022-05-30
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,56.00/Kg,200,Baringo,2022-05-30
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,5000,Turkana,2022-05-30
+Wheat,-,-,-,Marikiti, - ,80.00/Kg,,Mombasa,2022-05-30
+Wheat,-,-,-,Kibuye,80.00/Kg,75.00/Kg,,Kisumu,2022-05-29
+Wheat,-,-,-,Kiminini - Kitale,80.00/Kg,100.00/Kg,90,Trans-Nzoia,2022-05-29
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,20000,Turkana,2022-05-29
+Wheat,-,-,-,Athi River Open air Market,61.11/Kg,85.00/Kg,180,Machakos,2022-05-28
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,60000,Turkana,2022-05-28
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,180,Lamu,2022-05-28
+Wheat,-,-,-,Nakuru Wakulima, - ,60.00/Kg,,Nakuru,2022-05-27
+Wheat,-,-,-,Eldoret Main,125.00/Kg,150.00/Kg,6000,Uasin-Gishu,2022-05-27
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,100.00/Kg,480,Machakos,2022-05-27
+Wheat,-,-,-,Kakuma Modern Market,60.00/Kg,80.00/Kg,50000,Turkana,2022-05-27
+Wheat,-,-,-,Nakuru Wakulima, - ,60.00/Kg,,Nakuru,2022-05-26
+Wheat,-,-,-,Kakuma Modern Market,80.00/Kg,100.00/Kg,4500,Turkana,2022-05-26
+Wheat,-,-,-,Nakuru Wakulima, - ,60.00/Kg,,Nakuru,2022-05-25
+Wheat,-,-,-,Chaka,53.33/Kg,65.00/Kg,1600,Nyeri,2022-05-25
+Wheat,-,-,-,Nanyuki Open Air Market,50.00/Kg,50.00/Kg,3500,Laikipia,2022-05-25
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,140,Lamu,2022-05-25
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,80.00/Kg,520,Machakos,2022-05-24
+Wheat,-,-,-,Kakuma Modern Market,100.00/Kg,110.00/Kg,25000,Turkana,2022-05-24
+Wheat,-,-,-,Athi River Open air Market,55.56/Kg,80.00/Kg,180,Machakos,2022-05-24
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,200,Lamu,2022-05-23
+Wheat,-,-,-,Kagio,70.00/Kg,90.00/Kg,540,Kirinyaga,2022-05-23
+Wheat,-,-,-,Nakuru Wakulima, - ,60.00/Kg,,Nakuru,2022-05-23
+Wheat,-,-,-,Cheptiret - Uasin Gishu,40.00/Kg,52.00/Kg,2000,Uasin-Gishu,2022-05-23
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,56.00/Kg,150,Baringo,2022-05-23
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,70,Trans-Nzoia,2022-05-22
+Wheat,-,-,-,Nanyuki Open Air Market,0.02/Kg,60.00/Kg,4500,Laikipia,2022-05-21
+Wheat,-,-,-,Athi River Open air Market,55.56/Kg,70.00/Kg,180,Machakos,2022-05-21
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-05-20
+Wheat,-,-,-,Nakuru Wakulima, - ,50.00/Kg,,Nakuru,2022-05-20
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,80,Lamu,2022-05-20
+Wheat,-,-,-,Nakuru Wakulima, - ,60.00/Kg,,Nakuru,2022-05-19
+Wheat,-,-,-,Diani Market,80.00/Kg,90.00/Kg,1500,Kwale,2022-05-19
+Wheat,-,-,-,Chaka,53.33/Kg,65.00/Kg,850,Nyeri,2022-05-18
+Wheat,-,-,-,Maralal livestock market,66.67/Kg,100.00/Kg,90,Samburu,2022-05-17
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,0,Nakuru,2022-05-17
+Wheat,-,-,-,Nyahururu Municipal Market,62.22/Kg,70.00/Kg,5000,Laikipia,2022-05-17
+Wheat,-,-,-,Kangemi Market, - ,100.00/Kg,,Nairobi,2022-05-17
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,80.00/Kg,400,Machakos,2022-05-17
+Wheat,-,-,-,Athi River Open air Market,55.56/Kg,70.00/Kg,180,Machakos,2022-05-17
+Wheat,-,-,-,Nakuru Wakulima,60.00/Kg,65.00/Kg,0,Nakuru,2022-05-16
+Wheat,-,-,-,Kangemi Market,50.00/Kg,90.00/Kg,,Nairobi,2022-05-16
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,70.00/Kg,250,Baringo,2022-05-16
+Wheat,-,-,-,Kiminini - Kitale,80.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-05-15
+Wheat,-,-,-,Kibuye,75.56/Kg,75.00/Kg,,Kisumu,2022-05-15
+Wheat,-,-,-,Nanyuki Open Air Market,0.02/Kg,50.00/Kg,3000,Laikipia,2022-05-14
+Wheat,-,-,-,Athi River Open air Market,55.56/Kg,90.00/Kg,180,Machakos,2022-05-14
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-05-13
+Wheat,-,-,-,Kangemi Market,70.00/Kg,110.00/Kg,,Nairobi,2022-05-13
+Wheat,-,-,-,Emali Market,81.11/Kg,85.00/Kg,26000,Makueni,2022-05-13
+Wheat,-,-,-,Daraja Mbili,50.00/Kg,88.00/Kg,200,Kisii,2022-05-13
+Wheat,-,-,-,Kangemi Market,60.00/Kg,85.00/Kg,,Nairobi,2022-05-12
+Wheat,-,-,-,Chaka,53.33/Kg,65.00/Kg,1490,Nyeri,2022-05-11
+Wheat,-,-,-,Diani Market,60.00/Kg,80.00/Kg,1500,Kwale,2022-05-11
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,80.00/Kg,180,Machakos,2022-05-10
+Wheat,-,-,-,Kangemi Market,50.00/Kg,90.00/Kg,,Nairobi,2022-05-10
+Wheat,-,-,-,Cheptiret - Uasin Gishu,40.00/Kg,52.00/Kg,2000,Uasin-Gishu,2022-05-10
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,320,Machakos,2022-05-10
+Wheat,-,-,-,Eldama Ravine,40.00/Kg,56.00/Kg,150,Baringo,2022-05-09
+Wheat,-,-,-,Kibuye,106.67/Kg,75.00/Kg,,Kisumu,2022-05-08
+Wheat,-,-,-,Kiminini - Kitale,80.00/Kg,90.00/Kg,100,Trans-Nzoia,2022-05-08
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,250,Lamu,2022-05-07
+Wheat,-,-,-,Diani Market,70.00/Kg,90.00/Kg,1500,Kwale,2022-05-07
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,360,Machakos,2022-05-06
+Wheat,-,-,-,Emali Market,77.78/Kg,80.00/Kg,102000,Makueni,2022-05-06
+Wheat,-,-,-,Daraja Mbili,50.00/Kg,100.00/Kg,200,Kisii,2022-05-06
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,120,Lamu,2022-05-05
+Wheat,-,-,-,Kangemi Market, - ,100.00/Kg,,Nairobi,2022-05-04
+Wheat,-,-,-,Chaka,53.33/Kg,65.00/Kg,880,Nyeri,2022-05-04
+Wheat,-,-,-,Serem - Vihiga, - ,90.00/Kg,200,Vihiga,2022-05-04
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,80.00/Kg,135,Machakos,2022-05-03
+Wheat,-,-,-,Kibuye,80.00/Kg,75.00/Kg,,Kisumu,2022-05-02
+Wheat,-,-,-,Kibiok,60.00/Kg,75.00/Kg,500,Nandi,2022-05-01
+Wheat,-,-,-,Athi River Open air Market,55.56/Kg,80.00/Kg,180,Machakos,2022-04-30
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-04-30
+Wheat,-,-,-,Eldoret Main,65.00/Kg,140.00/Kg,5400,Uasin-Gishu,2022-04-29
+Wheat,-,-,-,Daraja Mbili,50.00/Kg,100.00/Kg,300,Kisii,2022-04-29
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-04-29
+Wheat,-,-,-,Eldoret Main,65.00/Kg,70.00/Kg,5600,Uasin-Gishu,2022-04-28
+Wheat,-,-,-,Eldoret Main,60.00/Kg,70.00/Kg,6300,Uasin-Gishu,2022-04-27
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-04-26
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,80.00/Kg,90,Machakos,2022-04-26
+Wheat,-,-,-,Eldoret Main,65.00/Kg,150.00/Kg,6300,Uasin-Gishu,2022-04-25
+Wheat,-,-,-,Kibiok,65.00/Kg,75.00/Kg,900,Nandi,2022-04-24
+Wheat,-,-,-,Kibuye,71.11/Kg,75.00/Kg,,Kisumu,2022-04-24
+Wheat,-,-,-,Kasuku,66.67/Kg,80.00/Kg,45,Nyandarua,2022-04-24
+Wheat,-,-,-,Kiminini - Kitale,80.00/Kg,90.00/Kg,50,Trans-Nzoia,2022-04-24
+Wheat,-,-,-,Serem - Vihiga, - ,90.00/Kg,150,Vihiga,2022-04-23
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-04-23
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-04-22
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,360,Machakos,2022-04-22
+Wheat,-,-,-,Eldoret Main,65.00/Kg,75.00/Kg,6300,Uasin-Gishu,2022-04-22
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,0,Nakuru,2022-04-22
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,1800,Nakuru,2022-04-21
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,400,Kirinyaga,2022-04-21
+Wheat,-,-,-,Eldoret Main,65.00/Kg,75.00/Kg,5600,Uasin-Gishu,2022-04-21
+Wheat,-,-,-,Diani Market,55.00/Kg,60.00/Kg,1500,Kwale,2022-04-21
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,0,Nakuru,2022-04-20
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,1290,Nyeri,2022-04-20
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,80,Lamu,2022-04-20
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-04-19
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,80.00/Kg,180,Machakos,2022-04-19
+Wheat,-,-,-,Kangemi Market,60.00/Kg,90.00/Kg,,Nairobi,2022-04-19
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,60.00/Kg,600,Baringo,2022-04-18
+Wheat,-,-,-,Kibuye,66.67/Kg,85.00/Kg,,Kisumu,2022-04-17
+Wheat,-,-,-,Kasuku,57.78/Kg,70.00/Kg,45,Nyandarua,2022-04-17
+Wheat,-,-,-,Bura market,50.00/Kg,65.00/Kg,180,Tana-River,2022-04-16
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,130,Lamu,2022-04-16
+Wheat,-,-,-,Kangemi Market,51.00/Kg,95.00/Kg,,Nairobi,2022-04-15
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,450,Kirinyaga,2022-04-14
+Wheat,-,-,-,Nyeri open air,53.33/Kg,65.00/Kg,360,Nyeri,2022-04-14
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,5400,Nakuru,2022-04-14
+Wheat,-,-,-,Kutus,61.11/Kg,78.26/Kg,450,Kirinyaga,2022-04-14
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,180,Lamu,2022-04-14
+Wheat,-,-,-,Eldoret Main,60.00/Kg,140.00/Kg,6300,Uasin-Gishu,2022-04-13
+Wheat,-,-,-,Serem - Vihiga, - ,90.00/Kg,200,Vihiga,2022-04-13
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,900,Nakuru,2022-04-13
+Wheat,-,-,-,Cheptiret - Uasin Gishu,40.00/Kg,60.00/Kg,2000,Uasin-Gishu,2022-04-13
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,2150,Nyeri,2022-04-13
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-04-13
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,560,Machakos,2022-04-12
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,0,Nakuru,2022-04-12
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-04-12
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,80.00/Kg,270,Machakos,2022-04-12
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-04-12
+Wheat,-,-,-,Eldoret Main,65.00/Kg,70.00/Kg,6300,Uasin-Gishu,2022-04-11
+Wheat,-,-,-,Nakuru Wakulima,55.56/Kg,60.00/Kg,720,Nakuru,2022-04-11
+Wheat,-,-,-,Machakos Main Market, - ,80.00/Kg,,Machakos,2022-04-11
+Wheat,-,-,-,Kangemi Market,50.00/Kg,90.00/Kg,,Nairobi,2022-04-11
+Wheat,-,-,-,Kutus,61.11/Kg,78.35/Kg,450,Kirinyaga,2022-04-11
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,60.00/Kg,250,Baringo,2022-04-11
+Wheat,-,-,-,Kibuye,72.22/Kg,80.00/Kg,,Kisumu,2022-04-11
+Wheat,-,-,-,Kiminini - Kitale,75.00/Kg,90.00/Kg,90,Trans-Nzoia,2022-04-10
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,80.00/Kg,180,Machakos,2022-04-09
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,100,Lamu,2022-04-09
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-04-08
+Wheat,-,-,-,Kangemi Market,60.00/Kg,100.00/Kg,,Nairobi,2022-04-08
+Wheat,-,-,-,Emali Market,64.44/Kg,80.00/Kg,123000,Makueni,2022-04-08
+Wheat,-,-,-,Eldoret Main,60.00/Kg,70.00/Kg,5600,Uasin-Gishu,2022-04-07
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,540,Kirinyaga,2022-04-07
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,0,Nakuru,2022-04-07
+Wheat,-,-,-,Kangemi Market,60.00/Kg,100.00/Kg,,Nairobi,2022-04-07
+Wheat,-,-,-,Nyeri open air,53.33/Kg,65.00/Kg,450,Nyeri,2022-04-06
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-04-06
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,450,Nakuru,2022-04-06
+Wheat,-,-,-,Serem - Vihiga, - ,100.00/Kg,200,Vihiga,2022-04-06
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,1620,Nyeri,2022-04-06
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-04-06
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,180,Nakuru,2022-04-05
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,360,Machakos,2022-04-05
+Wheat,-,-,-,Cheptiret - Uasin Gishu,60.00/Kg,72.00/Kg,1000,Uasin-Gishu,2022-04-05
+Wheat,-,-,-,Athi River Open air Market,55.56/Kg,80.00/Kg,180,Machakos,2022-04-05
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-04-04
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,450,Kirinyaga,2022-04-04
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,450,Kirinyaga,2022-04-04
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-04-04
+Wheat,-,-,-,Kasuku,51.11/Kg,70.00/Kg,45,Nyandarua,2022-04-03
+Wheat,-,-,-,Kiminini - Kitale,80.00/Kg,100.00/Kg,80,Trans-Nzoia,2022-04-03
+Wheat,-,-,-,Diani Market,70.00/Kg,80.00/Kg,1300,Kwale,2022-04-01
+Wheat,-,-,-,Emali Market,63.33/Kg,75.00/Kg,6500,Makueni,2022-04-01
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,320,Kirinyaga,2022-03-31
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,0,Nakuru,2022-03-30
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,2700,Nyeri,2022-03-30
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-30
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-30
+Wheat,-,-,-,Cheptiret - Uasin Gishu,60.00/Kg,68.00/Kg,2000,Uasin-Gishu,2022-03-30
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,180,Lamu,2022-03-30
+Wheat,-,-,-,Eldoret Main,65.00/Kg,75.00/Kg,500,Uasin-Gishu,2022-03-29
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,400,Machakos,2022-03-29
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,0,Nakuru,2022-03-29
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,80.00/Kg,270,Machakos,2022-03-29
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,3600,Nakuru,2022-03-28
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-03-28
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,450,Kirinyaga,2022-03-28
+Wheat,-,-,-,test market,70.00/Kg,80.00/Kg,1500,,2022-03-28
+Wheat,-,-,-,Kibuye,80.00/Kg,75.00/Kg,,Kisumu,2022-03-27
+Wheat,-,-,-,Kibiok,50.00/Kg,65.00/Kg,900,Nandi,2022-03-27
+Wheat,-,-,-,Kasuku,55.56/Kg,60.00/Kg,45,Nyandarua,2022-03-27
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,200,Lamu,2022-03-26
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,70.00/Kg,270,Machakos,2022-03-26
+Wheat,-,-,-,Serem - Vihiga, - ,90.00/Kg,200,Vihiga,2022-03-26
+Wheat,-,-,-,Bura market,50.00/Kg,70.00/Kg,450,Tana-River,2022-03-26
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-25
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,500,Machakos,2022-03-25
+Wheat,-,-,-,Machakos Main Market, - ,160.00/Kg,,Machakos,2022-03-25
+Wheat,-,-,-,Emali Market,63.33/Kg,80.00/Kg,20000,Makueni,2022-03-25
+Wheat,-,-,-,Kangemi Market,60.00/Kg,100.00/Kg,,Nairobi,2022-03-25
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,450,Kirinyaga,2022-03-24
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,720,Nakuru,2022-03-24
+Wheat,-,-,-,Eldama Ravine,80.00/Kg,140.00/Kg,300,Baringo,2022-03-24
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,2480,Nyeri,2022-03-23
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,3960,Nakuru,2022-03-23
+Wheat,-,-,-,Kangemi Market,60.00/Kg,100.00/Kg,,Nairobi,2022-03-23
+Wheat,-,-,-,Cheptiret - Uasin Gishu,52.00/Kg,60.00/Kg,1000,Uasin-Gishu,2022-03-23
+Wheat,-,-,-,Molo,42.22/Kg,52.00/Kg,,Nakuru,2022-03-23
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-03-23
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,4050,Nakuru,2022-03-22
+Wheat,-,-,-,Naivasha Market,40.00/Kg,50.00/Kg,,Nakuru,2022-03-22
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-03-22
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,70.00/Kg,180,Machakos,2022-03-22
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,0,Nakuru,2022-03-21
+Wheat,-,-,-,Kangemi Market,55.00/Kg,100.00/Kg,,Nairobi,2022-03-21
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,720,Kirinyaga,2022-03-21
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-21
+Wheat,-,-,-,Kibuye,61.11/Kg,75.00/Kg,,Kisumu,2022-03-20
+Wheat,-,-,-,Kasuku,55.56/Kg,60.00/Kg,45,Nyandarua,2022-03-20
+Wheat,-,-,-,Athi River Open air Market,50.00/Kg,70.00/Kg,270,Machakos,2022-03-19
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-03-18
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,6300,Nakuru,2022-03-18
+Wheat,-,-,-,Kangemi Market,60.00/Kg,100.00/Kg,,Nairobi,2022-03-18
+Wheat,-,-,-,Emali Market,63.33/Kg,70.00/Kg,10600,Makueni,2022-03-18
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,4860,Nakuru,2022-03-17
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,500,Kirinyaga,2022-03-17
+Wheat,-,-,-,Kangemi Market,60.00/Kg,100.00/Kg,,Nairobi,2022-03-17
+Wheat,-,-,-,Nyeri open air,53.33/Kg,130.00/Kg,180,Nyeri,2022-03-16
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,0,Nakuru,2022-03-16
+Wheat,-,-,-,Cheptiret - Uasin Gishu,52.00/Kg,60.00/Kg,2000,Uasin-Gishu,2022-03-16
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,180,Machakos,2022-03-15
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,180,Machakos,2022-03-15
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,0,Nakuru,2022-03-15
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-14
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-14
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,720,Nakuru,2022-03-14
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,500,Kirinyaga,2022-03-14
+Wheat,-,-,-,Kibuye,61.11/Kg,75.00/Kg,,Kisumu,2022-03-14
+Wheat,-,-,-,Kibiok,50.00/Kg,60.00/Kg,1200,Nandi,2022-03-13
+Wheat,-,-,-,Kiminini - Kitale,70.00/Kg,85.00/Kg,90,Trans-Nzoia,2022-03-13
+Wheat,-,-,-,Kasuku,55.56/Kg,60.00/Kg,45,Nyandarua,2022-03-13
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,180,Machakos,2022-03-12
+Wheat,-,-,-,Bura market,50.00/Kg,60.00/Kg,900,Tana-River,2022-03-12
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-11
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,3600,Nakuru,2022-03-11
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,500,Machakos,2022-03-11
+Wheat,-,-,-,Daraja Mbili,46.67/Kg,88.00/Kg,400,Kisii,2022-03-10
+Wheat,-,-,-,Nyeri open air,53.33/Kg,130.00/Kg,270,Nyeri,2022-03-10
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,0,Nakuru,2022-03-10
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-03-10
+Wheat,-,-,-,Cheptiret - Uasin Gishu,52.00/Kg,60.00/Kg,2000,Uasin-Gishu,2022-03-10
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-10
+Wheat,-,-,-,Nakuru Wakulima,50.00/Kg,60.00/Kg,3960,Nakuru,2022-03-09
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,1840,Nyeri,2022-03-09
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-03-09
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,0,Nakuru,2022-03-08
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,135,Machakos,2022-03-08
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-03-08
+Wheat,-,-,-,Eldoret Main,50.00/Kg,65.00/Kg,6300,Uasin-Gishu,2022-03-07
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,56.00/Kg,400,Baringo,2022-03-07
+Wheat,-,-,-,Machakos Main Market, - ,140.00/Kg,,Machakos,2022-03-07
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-03-07
+Wheat,-,-,-,Kibuye,62.22/Kg,75.00/Kg,,Kisumu,2022-03-07
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,40,Trans-Nzoia,2022-03-06
+Wheat,-,-,-,Kasuku,55.56/Kg,60.00/Kg,45,Nyandarua,2022-03-06
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-06
+Wheat,-,-,-,Bura market,50.00/Kg,60.00/Kg,180,Tana-River,2022-03-05
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,90,Lamu,2022-03-05
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,180,Machakos,2022-03-05
+Wheat,-,-,-,Eldoret Main,65.00/Kg,75.00/Kg,5600,Uasin-Gishu,2022-03-04
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,2880,Nakuru,2022-03-04
+Wheat,-,-,-,Daraja Mbili,50.00/Kg,88.00/Kg,400,Kisii,2022-03-04
+Wheat,-,-,-,Eldoret Main,60.00/Kg,70.00/Kg,6300,Uasin-Gishu,2022-03-03
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,0,Nakuru,2022-03-03
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,400,Kirinyaga,2022-03-03
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-03-03
+Wheat,-,-,-,Nyeri open air,53.33/Kg,130.00/Kg,450,Nyeri,2022-03-02
+Wheat,-,-,-,Kibuye,60.00/Kg,75.00/Kg,,Kisumu,2022-03-02
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,0,Nakuru,2022-03-02
+Wheat,-,-,-,Kangemi Market,55.00/Kg,100.00/Kg,,Nairobi,2022-03-02
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,100,Lamu,2022-03-02
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,2600,Nyeri,2022-03-02
+Wheat,-,-,-,Cheptiret - Uasin Gishu,52.00/Kg,56.00/Kg,2000,Uasin-Gishu,2022-03-02
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,2340,Nakuru,2022-03-01
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,0,Nakuru,2022-02-28
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,400,Kirinyaga,2022-02-28
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-02-28
+Wheat,-,-,-,Kangemi Market,55.00/Kg,100.00/Kg,,Nairobi,2022-02-28
+Wheat,-,-,-,Machakos Main Market, - ,140.00/Kg,,Machakos,2022-02-28
+Wheat,-,-,-,Kibuye,60.00/Kg,75.00/Kg,,Kisumu,2022-02-28
+Wheat,-,-,-,Kasuku,50.00/Kg,60.00/Kg,45,Nyandarua,2022-02-27
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,180,Machakos,2022-02-26
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-02-26
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,150,Lamu,2022-02-26
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-02-26
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,450,Nakuru,2022-02-25
+Wheat,-,-,-,Machakos Main Market, - ,140.00/Kg,,Machakos,2022-02-25
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,540,Machakos,2022-02-25
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,0,Nakuru,2022-02-24
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,500,Kirinyaga,2022-02-24
+Wheat,-,-,-,Mpeketoni,100.00/Kg,150.00/Kg,250,Lamu,2022-02-23
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,360,Nakuru,2022-02-23
+Wheat,-,-,-,Cheptiret - Uasin Gishu,48.00/Kg,52.00/Kg,2000,Uasin-Gishu,2022-02-23
+Wheat,-,-,-,Chaka,50.00/Kg,65.00/Kg,1680,Nyeri,2022-02-23
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,450,Machakos,2022-02-22
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,540,Nakuru,2022-02-22
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,180,Machakos,2022-02-22
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-02-22
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,270,Nakuru,2022-02-21
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,600,Kirinyaga,2022-02-21
+Wheat,-,-,-,Kangemi Market,60.00/Kg,100.00/Kg,,Nairobi,2022-02-21
+Wheat,-,-,-,Machakos Main Market, - ,140.00/Kg,,Machakos,2022-02-21
+Wheat,-,-,-,Eldama Ravine,48.00/Kg,56.00/Kg,250,Baringo,2022-02-21
+Wheat,-,-,-,Kibuye,57.78/Kg,75.00/Kg,,Kisumu,2022-02-20
+Wheat,-,-,-,Kiminini - Kitale,85.00/Kg,100.00/Kg,100,Trans-Nzoia,2022-02-20
+Wheat,-,-,-,Kibiok,60.00/Kg,75.00/Kg,1000,Nandi,2022-02-20
+Wheat,-,-,-,Kasuku,50.00/Kg,60.00/Kg,45,Nyandarua,2022-02-20
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-02-20
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,135,Machakos,2022-02-19
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,450,Nakuru,2022-02-18
+Wheat,-,-,-,Machakos Main Market, - ,140.00/Kg,,Machakos,2022-02-18
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,540,Machakos,2022-02-18
+Wheat,-,-,-,Daraja Mbili,50.00/Kg,80.00/Kg,400,Kisii,2022-02-18
+Wheat,-,-,-,Kagio,60.00/Kg,80.00/Kg,360,Kirinyaga,2022-02-17
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,450,Nakuru,2022-02-17
+Wheat,-,-,-,Kangemi Market,50.00/Kg,100.00/Kg,,Nairobi,2022-02-17
+Wheat,-,-,-,Diani Market,55.00/Kg,65.00/Kg,1500,Kwale,2022-02-16
+Wheat,-,-,-,Eldoret Main,45.00/Kg,60.00/Kg,6300,Uasin-Gishu,2022-02-16
+Wheat,-,-,-,Nakuru Wakulima,47.78/Kg,50.00/Kg,450,Nakuru,2022-02-16
+Wheat,-,-,-,Chaka,50.00/Kg,60.00/Kg,1400,Nyeri,2022-02-16
+Wheat,-,-,-,Engineer,42.22/Kg,60.00/Kg,3600,Nyandarua,2022-02-16
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,400,Machakos,2022-02-15
+Wheat,-,-,-,Tala Centre Market,70.00/Kg,90.00/Kg,400,Machakos,2022-02-15
+Wheat,-,-,-,Athi River Open air Market,46.67/Kg,70.00/Kg,180,Machakos,2022-02-15
+Wheat,-,-,-,Diani Market,70.00/Kg,75.00/Kg,6000,Kwale,2022-02-14
