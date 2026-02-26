@@ -1,10 +1,8 @@
-from flask import Blueprint, jsonify
+from flask import Blueprint, jsonify, request
 from predict.data import get_commodities, get_markets, get_counties
 from predict.saved_models import get_model_availability
 
 commodities_bp = Blueprint('commodities', __name__)
-
-
 
 data = None
 models = None
@@ -16,7 +14,6 @@ def init(app_data, app_models):
     models = app_models
 
 
-
 @commodities_bp.route('/api/commodities', methods=['GET'])
 def list_commodities():
     commodities = get_commodities(data)
@@ -26,10 +23,16 @@ def list_commodities():
     })
 
 
-
 @commodities_bp.route('/api/markets', methods=['GET'])
 def list_markets():
-    markets = get_markets(data)
+    county = request.args.get('county', None)
+
+    if county:
+        filtered = data[data['County'] == county]
+        markets = sorted(filtered['Market'].unique().tolist())
+    else:
+        markets = get_markets(data)
+
     return jsonify({
         "status": "success",
         "data": markets
@@ -43,7 +46,6 @@ def list_counties():
         "status": "success",
         "data": counties
     })
-
 
 
 @commodities_bp.route('/api/availability', methods=['GET'])
