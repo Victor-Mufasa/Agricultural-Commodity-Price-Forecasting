@@ -8,13 +8,12 @@ import Selector from '../components/Selector';
 
 export default function Home() {
 
-  // ── Dropdown data ──
+  
   const [commodities, setCommodities] = useState([]);
   const [counties, setCounties] = useState([]);
   const [markets, setMarkets] = useState([]);
   const [availability, setAvailability] = useState({});
 
-  // ── User selections ──
   const [selectedCommodity, setSelectedCommodity] = useState('');
   const [selectedPriceType, setSelectedPriceType] = useState('Retail');
   const [selectedModel, setSelectedModel] = useState('xgb');
@@ -22,16 +21,15 @@ export default function Home() {
   const [selectedMarket, setSelectedMarket] = useState('');
   const [selectedSteps, setSelectedSteps] = useState(6);
 
-  // ── Data ──
   const [historical, setHistorical] = useState([]);
   const [forecast, setForecast] = useState([]);
 
-  // ── UI state ──
+ 
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [hasSearched, setHasSearched] = useState(false);
 
-  // ── Load dropdowns on mount ──
+ 
   useEffect(() => {
     const loadDropdowns = async () => {
       try {
@@ -53,7 +51,7 @@ export default function Home() {
     loadDropdowns();
   }, []);
 
-  // ── When county changes, filter markets ──
+  
   const handleCountyChange = async (county) => {
     setSelectedCounty(county);
     setSelectedMarket('');
@@ -65,7 +63,7 @@ export default function Home() {
     }
   };
 
-  // ── Check which models are available for selected commodity ──
+
   const availableModels = availability[selectedCommodity] || {};
   const modelOptions = [
     { value: 'xgb', label: 'XGBoost', key: `xgb_${selectedPriceType.toLowerCase()}` },
@@ -73,7 +71,7 @@ export default function Home() {
     { value: 'sarima', label: 'SARIMA', key: `sarima_${selectedPriceType.toLowerCase()}` },
   ].filter(m => availableModels[m.key]);
 
-  // ── Fetch data ──
+  
   const handleFetch = async () => {
     if (!selectedCommodity) return;
     setLoading(true);
@@ -105,7 +103,7 @@ export default function Home() {
     }
   };
 
-  // ── Combined chart data ──
+  
   const chartData = [
     ...historical.map(d => ({ date: d.date, historical: d.price })),
     ...forecast.map(d => ({ date: d.date, forecast: d.price })),
@@ -113,14 +111,14 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-gray-50">
-      {/* ── Header ── */}
+     
       <div className="bg-green-700 text-white py-8 px-6 shadow-md">
         <h1 className="text-3xl font-bold">🌾 Kenya Agricultural Price Forecasting</h1>
         <p className="text-green-200 mt-1">Historical prices and AI-powered forecasts for agricultural commodities</p>
       </div>
 
       <div className="max-w-7xl mx-auto px-4 py-8">
-        {/* ── Filters ── */}
+       
         <div className="bg-white rounded-2xl shadow p-6 mb-8">
           <h2 className="text-lg font-semibold text-gray-700 mb-4">Select Options</h2>
 
@@ -189,10 +187,10 @@ export default function Home() {
           )}
         </div>
 
-        {/* ── Results ── */}
+      
         {hasSearched && !loading && (
           <>
-            {/* Summary */}
+           
             <div className="mb-6">
               <h2 className="text-xl font-bold text-gray-800">
                 {selectedCommodity} — {selectedPriceType} Price
@@ -204,13 +202,13 @@ export default function Home() {
               </p>
             </div>
 
-            {/* Chart */}
+         
             <div className="bg-white rounded-2xl shadow p-6 mb-6">
               <h3 className="text-md font-semibold text-gray-600 mb-4">Price Trend & Forecast</h3>
               <PriceChart data={chartData} />
             </div>
 
-            {/* Forecast Table */}
+            
             <div className="bg-white rounded-2xl shadow p-6">
               <h3 className="text-md font-semibold text-gray-600 mb-4">Forecasted Prices (KES)</h3>
               <ForecastTable data={forecast} priceType={selectedPriceType} />
@@ -218,7 +216,7 @@ export default function Home() {
           </>
         )}
 
-        {/* ── Empty state ── */}
+       
         {!hasSearched && (
           <div className="text-center py-20 text-gray-400">
             <p className="text-5xl mb-4">🌽</p>
