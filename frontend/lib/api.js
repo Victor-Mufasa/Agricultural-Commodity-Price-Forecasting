@@ -14,8 +14,9 @@ export const getCommodities = async () => {
     return res.data.data;
 };
 
-export const getMarkets = async () => {
-    const res = await api.get('/api/markets');
+export const getMarkets = async (county = null) => {
+    const params = county ? { county } : {};
+    const res = await api.get('/api/markets', { params });
     return res.data.data;
 };
 

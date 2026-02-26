@@ -7,13 +7,14 @@ import ForecastTable from '../components/ForecastTable';
 import Selector from '../components/Selector';
 
 export default function Home() {
-  
+
+  // ── Dropdown data ──
   const [commodities, setCommodities] = useState([]);
   const [counties, setCounties] = useState([]);
   const [markets, setMarkets] = useState([]);
   const [availability, setAvailability] = useState({});
 
-  
+  // ── User selections ──
   const [selectedCommodity, setSelectedCommodity] = useState('');
   const [selectedPriceType, setSelectedPriceType] = useState('Retail');
   const [selectedModel, setSelectedModel] = useState('xgb');
@@ -21,16 +22,16 @@ export default function Home() {
   const [selectedMarket, setSelectedMarket] = useState('');
   const [selectedSteps, setSelectedSteps] = useState(6);
 
-  
+  // ── Data ──
   const [historical, setHistorical] = useState([]);
   const [forecast, setForecast] = useState([]);
 
-  
+  // ── UI state ──
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [hasSearched, setHasSearched] = useState(false);
 
-  
+  // ── Load dropdowns on mount ──
   useEffect(() => {
     const loadDropdowns = async () => {
       try {
@@ -52,7 +53,19 @@ export default function Home() {
     loadDropdowns();
   }, []);
 
-  
+  // ── When county changes, filter markets ──
+  const handleCountyChange = async (county) => {
+    setSelectedCounty(county);
+    setSelectedMarket('');
+    try {
+      const filtered = await getMarkets(county || null);
+      setMarkets(filtered);
+    } catch (err) {
+      console.error('Failed to load markets for county:', err);
+    }
+  };
+
+  // ── Check which models are available for selected commodity ──
   const availableModels = availability[selectedCommodity] || {};
   const modelOptions = [
     { value: 'xgb', label: 'XGBoost', key: `xgb_${selectedPriceType.toLowerCase()}` },
@@ -60,7 +73,7 @@ export default function Home() {
     { value: 'sarima', label: 'SARIMA', key: `sarima_${selectedPriceType.toLowerCase()}` },
   ].filter(m => availableModels[m.key]);
 
-  
+  // ── Fetch data ──
   const handleFetch = async () => {
     if (!selectedCommodity) return;
     setLoading(true);
@@ -92,7 +105,7 @@ export default function Home() {
     }
   };
 
-  
+  // ── Combined chart data ──
   const chartData = [
     ...historical.map(d => ({ date: d.date, historical: d.price })),
     ...forecast.map(d => ({ date: d.date, forecast: d.price })),
@@ -139,7 +152,7 @@ export default function Home() {
             <Selector
               label="County (optional)"
               value={selectedCounty}
-              onChange={setSelectedCounty}
+              onChange={handleCountyChange}
               options={[{ value: '', label: 'All Counties' }, ...counties.map(c => ({ value: c, label: c }))]}
             />
 
@@ -186,6 +199,8 @@ export default function Home() {
               </h2>
               <p className="text-gray-500 text-sm mt-1">
                 Showing historical data and {selectedSteps}-month forecast using {selectedModel.toUpperCase()}
+                {selectedCounty && ` in ${selectedCounty}`}
+                {selectedMarket && ` — ${selectedMarket}`}
               </p>
             </div>
 
