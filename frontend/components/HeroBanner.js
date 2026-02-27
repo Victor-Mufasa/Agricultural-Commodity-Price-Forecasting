@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 export default function HeroBanner() {
   return (
-    <div className="relative w-full h-[600px] overflow-hidden">
+    <div className="relative w-full h-screen overflow-hidden -mt-[60px]">
      
       <img
         src="https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=1600&auto=format&fit=crop"
