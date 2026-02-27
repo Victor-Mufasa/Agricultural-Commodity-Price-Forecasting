@@ -9,11 +9,18 @@ export default function ForecastTable({ data, priceType }) {
     );
   }
 
-  // ── Trend indicator ──
+  
   const getTrend = (current, previous) => {
     if (!previous) return null;
-    if (current > previous) return { label: '↑ Up', color: 'text-red-500' };
-    if (current < previous) return { label: '↓ Down', color: 'text-green-600' };
+    const change = ((current - previous) / previous) * 100;
+    if (current > previous) return {
+      label: `↑ ${change.toFixed(1)}%`,
+      color: 'text-red-500'
+    };
+    if (current < previous) return {
+      label: `↓ ${Math.abs(change).toFixed(1)}%`,
+      color: 'text-green-600'
+    };
     return { label: '→ Stable', color: 'text-gray-400' };
   };
 
@@ -25,7 +32,7 @@ export default function ForecastTable({ data, priceType }) {
             <th className="py-3 px-4 text-gray-500 font-medium">#</th>
             <th className="py-3 px-4 text-gray-500 font-medium">Month</th>
             <th className="py-3 px-4 text-gray-500 font-medium">{priceType} Price (KES)</th>
-            <th className="py-3 px-4 text-gray-500 font-medium">Trend</th>
+            <th className="py-3 px-4 text-gray-500 font-medium">Change</th>
           </tr>
         </thead>
         <tbody>

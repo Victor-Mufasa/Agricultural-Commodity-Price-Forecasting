@@ -11,7 +11,7 @@ import {
   Legend,
 } from 'recharts';
 
-// ── Custom Tooltip ──
+
 const CustomTooltip = ({ active, payload, label }) => {
   if (active && payload && payload.length) {
     return (
