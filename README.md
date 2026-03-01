@@ -1,23 +1,11 @@
 🌾 Agricultural Commodity Price Forecasting
+
 Utabiri Agro — AI-powered market intelligence and price forecasting for Kenya's agricultural commodities. Built to empower farmers, traders, policymakers, and the everyday mwananchi with data-driven decisions.
-🔗 Live Demo: agricultural-commodity-price-foreca.vercel.app
-📁 Original Repo: Victor-Mufasa/Agricultural-Commodity-Price-Forecasting
 
-📌 Table of Contents
+🔗 Live Demo: https://agricultural-commodity-price-foreca.vercel.app/
 
 Overview
-Problem Statement
-Goals & Target Users
-Project Structure
-Dataset
-Methodology
-Models Used
-Frontend Application
-Getting Started
-Contributors
 
-
-Overview
 Agricultural commodity prices in Kenya are highly volatile, influenced by seasonal cycles, rainfall patterns, supply chain disruptions, and market forces. Without reliable price information, farmers sell at a loss, traders take on unnecessary risk, and policymakers struggle to make timely interventions.
 Utabiri Agro addresses this gap by building a full-stack machine learning forecasting system that:
 
@@ -27,6 +15,7 @@ Serves forecasts through a clean, interactive web dashboard accessible to any us
 
 
 Problem Statement
+
 Kenya's agricultural sector suffers from significant information asymmetry. Price data is often unavailable, delayed, or inaccessible to those who need it most — smallholder farmers. This leads to poor timing of sales, exploitation by middlemen, and food insecurity. There is a critical need for tools that can translate raw historical price data into accurate, accessible forward-looking price forecasts.
 
 Goals & Target Users
@@ -62,6 +51,7 @@ Agricultural-Commodity-Price-Forecasting/
 └── .gitignore
 
 📊 Dataset
+
 The dataset contains historical retail prices collected across Kenyan markets and compiled from sources tracking commodity prices at the county and market level.
 Coverage:
 
@@ -81,7 +71,9 @@ Data is structured as time series with price observations over multiple years
 Individual commodity files live under data/Products/, while combined.csv provides a single merged dataset used for modelling.
 
 🔬 Methodology
+
 1. Exploratory Data Analysis (EDA)
+   
 Before modelling, thorough EDA was performed in index.ipynb and the notebook/ folder:
 
 Visualisation of price trends over time per commodity and market
@@ -97,6 +89,7 @@ For SARIMA: series were differenced to achieve stationarity
 For XGBoost/LSTM: time series were transformed into supervised learning format using sliding window techniques
 
 3. Model Training & Evaluation
+   
 All three models were trained and validated on historical data splits, with evaluation using standard regression metrics:
 
 RMSE (Root Mean Squared Error)
@@ -106,6 +99,7 @@ MAPE (Mean Absolute Percentage Error)
 Pre-trained models are saved in saved_models/ for rapid inference without retraining.
 
 🤖 Models Used
+
 1. SARIMA — Seasonal AutoRegressive Integrated Moving Average
 SARIMA is a classical statistical time series model that extends ARIMA by explicitly modelling seasonality. It is defined by parameters (p, d, q)(P, D, Q, s) where:
 
@@ -117,21 +111,25 @@ Why SARIMA? Agricultural prices exhibit strong seasonal patterns tied to harvest
 Limitations: Assumes linearity, so it can struggle with abrupt, non-linear price shocks.
 
 2. LSTM — Long Short-Term Memory Network
+   
 LSTM is a type of Recurrent Neural Network (RNN) specifically designed to learn long-range temporal dependencies. It uses a gating mechanism (input gate, forget gate, output gate) to selectively remember or discard historical information across time steps.
 Why LSTM? Price time series contain complex, non-linear patterns that SARIMA cannot fully capture. LSTM can model these relationships over long sequences without suffering from the vanishing gradient problem common in standard RNNs.
 Architecture used: Sequential LSTM layers with dropout regularisation, trained using the Adam optimiser and MSE loss.
 Limitations: Requires more data, longer training time, and careful tuning of hyperparameters (window size, units, learning rate).
 
-3. XGBoost — Extreme Gradient Boosting
+4. XGBoost — Extreme Gradient Boosting
+   
 XGBoost is an ensemble model that builds decision trees sequentially, with each tree correcting the errors of the previous one. It includes built-in regularisation (L1/L2) to prevent overfitting and handles missing values natively.
 Why XGBoost? Once the time series is converted into a supervised format using lag features and rolling statistics, XGBoost treats it as a standard tabular regression problem. It is fast, interpretable via feature importance, and highly competitive in accuracy.
 Features engineered: Lag prices (t-1 to t-n), rolling means, rolling standard deviations, month, season, and market-level encodings.
 Limitations: Does not inherently understand temporal ordering — relies entirely on engineered features to capture time structure.
 
 Model Comparison Summary
+
 ModelTypeCaptures SeasonalityHandles Non-linearityTraining SpeedInterpretabilitySARIMAStatistical✅ Explicitly❌ Limited⚡ Fast✅ HighLSTMDeep Learning✅ Implicitly✅ Strong🐢 Slow❌ LowXGBoostGradient Boosting✅ Via features✅ Strong⚡ Fast✅ Medium
 
 🌐 Frontend Application — Utabiri Agro
+
 The frontend is a JavaScript/React application deployed on Vercel and serves as the user-facing forecasting dashboard.
 Pages
 
@@ -179,8 +177,9 @@ Using Pre-trained Models
 Pre-trained models are saved in saved_models/. To run inference without retraining, load the appropriate model file from within the production/ scripts.
 
 👥 Contributors
+
 This project was developed as a collaborative data science project by:
-NameRoleVictor KipkemboiProject lead, modellingBeauttah AkelloData analysis & EDAMaureen KitonyiFeature engineering & preprocessingJose BarasaModel development & evaluationCharity KanyuaFrontend developmentSharon GichiraDocumentation & presentation
+Victor kipkemboi, Beauttah Akello, Maureen Kitonyi, Jose Barasa , Charity Kanyua, Sharon Gichira.
 
 📄 License
 This project is open source. You are welcome to fork, adapt, and build on it — especially for agricultural or food security applications across East Africa.
