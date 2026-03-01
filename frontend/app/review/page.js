@@ -6,31 +6,31 @@ const TEAM = [
   {
     name: 'Victor Kipkemboi',
     role: 'Project Lead ',
-    image: '',
+    image: '/Victor.jpg',
   },
   {
     name: 'Jose` Barasa',
     role: 'Fullstack Developer',
-    image: '',
+    image: '/Yours_truly.jpg',
   },
   {
     name: 'Sharon Gichira',
     role: 'Data Analyst',
-    image: '',
+    image: 'Sharon.jpg',
   },
   {
     name: 'Graham Akello',
     role: 'ML Engineer',
-    image: '',
+    image: '/Graham.jpg',
   },
   {
     name: 'Maureen Kitonyi',
     role: 'ML Engineer',
-    image: '',
+    image: '/Maureen.jpg',
   },{
     name: 'Charity Kanyua',
     role: 'ML Engineer',
-    image: '',
+    image: '/Charity.jpg',
   },
 ];
 
