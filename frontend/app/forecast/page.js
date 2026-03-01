@@ -172,7 +172,7 @@ export default function ForecastPage() {
                 { value: 'Wholesale', label: lang === 'en' ? 'Wholesale' : 'Jumla' },
               ]}
             />
-            <Selector
+            {/* <Selector
               label={lang === 'en' ? 'County (optional)' : 'Kaunti (hiari)'}
               value={selectedCounty}
               onChange={handleCountyChange}
@@ -189,7 +189,7 @@ export default function ForecastPage() {
                 { value: '', label: lang === 'en' ? 'All Markets' : 'Masoko Yote' },
                 ...markets.map(m => ({ value: m, label: m }))
               ]}
-            />
+            /> */}
             <Selector
               label={lang === 'en' ? 'Forecast Horizon' : 'Muda wa Utabiri'}
               value={selectedSteps}
