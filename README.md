@@ -1,8 +1,9 @@
-🌾 Agricultural Commodity Price Forecasting
+# 🌾 Agricultural Commodity Price Forecasting
 
 Utabiri Agro — AI-powered market intelligence and price forecasting for Kenya's agricultural commodities. Built to empower farmers, traders, policymakers, and the everyday mwananchi with data-driven decisions.
 
 🔗 Live Demo: https://agricultural-commodity-price-foreca.vercel.app/
+
 
 Overview
 
@@ -118,16 +119,20 @@ Why LSTM? Price time series contain complex, non-linear patterns that SARIMA can
 Architecture used: Sequential LSTM layers with dropout regularisation, trained using the Adam optimiser and MSE loss.
 Limitations: Requires more data, longer training time, and careful tuning of hyperparameters (window size, units, learning rate).
 
-4. XGBoost — Extreme Gradient Boosting
+3. XGBoost — Extreme Gradient Boosting
    
 XGBoost is an ensemble model that builds decision trees sequentially, with each tree correcting the errors of the previous one. It includes built-in regularisation (L1/L2) to prevent overfitting and handles missing values natively.
 Why XGBoost? Once the time series is converted into a supervised format using lag features and rolling statistics, XGBoost treats it as a standard tabular regression problem. It is fast, interpretable via feature importance, and highly competitive in accuracy.
 Features engineered: Lag prices (t-1 to t-n), rolling means, rolling standard deviations, month, season, and market-level encodings.
 Limitations: Does not inherently understand temporal ordering — relies entirely on engineered features to capture time structure.
 
-Model Comparison Summary
+## Model Comparison Summary
 
-ModelTypeCaptures SeasonalityHandles Non-linearityTraining SpeedInterpretabilitySARIMAStatistical✅ Explicitly❌ Limited⚡ Fast✅ HighLSTMDeep Learning✅ Implicitly✅ Strong🐢 Slow❌ LowXGBoostGradient Boosting✅ Via features✅ Strong⚡ Fast✅ Medium
+| Model | Type | Captures Seasonality | Handles Non-linearity | Training Speed | Interpretability |
+|-------|------|---------------------|----------------------|----------------|-----------------|
+| SARIMA | Statistical | ✅ Explicitly | ❌ Limited | ⚡ Fast | ✅ High |
+| LSTM | Deep Learning | ✅ Implicitly | ✅ Strong | 🐢 Slow | ❌ Low |
+| XGBoost | Gradient Boosting | ✅ Via features | ✅ Strong | ⚡ Fast | ✅ Medium |
 
 🌐 Frontend Application — Utabiri Agro
 
@@ -152,17 +157,20 @@ Prerequisites
 
 Python 3.x (see runtime.txt for the exact version)
 Jupyter Notebook or JupyterLab
-Node.js and npm (for the frontend)
+Next.js and npm (for the frontend)
 
 Backend / Notebooks
-bash# 1. Clone the repository
+#
+1. Clone the repository
 git clone https://github.com/Graham-49/Agricultural-Commodity-Price-Forecasting.git
 cd Agricultural-Commodity-Price-Forecasting
 
-# 2. Install Python dependencies
+#
+2. Install Python dependencies
 pip install -r requirements.txt
 
-# 3. Open the main notebook
+#
+3. Open the main notebook
 jupyter notebook index.ipynb
 Frontend
 bash# Navigate to the frontend directory
