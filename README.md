@@ -4,7 +4,7 @@ Utabiri Agro — AI-powered market intelligence and price forecasting for Kenya'
 
 🔗 Live Demo: https://agricultural-commodity-price-foreca.vercel.app/
 
-![Model Performance Chart](capstonescreenshot.png)
+![Chart](https://raw.githubusercontent.com/Victor-Mufasa/Agricultural-Commodity-Price-Forecasting/main/capstonescreenshot.png)
 
 
 Overview
