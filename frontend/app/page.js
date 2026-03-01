@@ -2,8 +2,9 @@
 
 import Link from 'next/link';
 import HeroBanner from '../components/HeroBanner';
+import { useLang } from '../components/Language';
 
-const COMMODITIES = [
+const COMMODITIES_EN = [
   { name: 'Dry Maize', image: 'https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg' },
   { name: 'Rice', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz038ws4PTCrJgZF8DrkaDZMystXvPm7CEEw&s' },
   { name: 'Wheat', image: 'https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400&auto=format&fit=crop' },
@@ -18,7 +19,38 @@ const COMMODITIES = [
   { name: 'Banana (Cooking)', image: 'https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&auto=format&fit=crop' },
 ];
 
+const COMMODITIES_SW = [
+  { name: 'Mahindi Makavu', image: 'https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg' },
+  { name: 'Mchele', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz038ws4PTCrJgZF8DrkaDZMystXvPm7CEEw&s' },
+  { name: 'Ngano', image: 'https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400&auto=format&fit=crop' },
+  { name: 'Kabichi', image: 'https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?w=400&auto=format&fit=crop' },
+  { name: 'Vitunguu Makavu', image: 'https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?w=400&auto=format&fit=crop' },
+  { name: 'Sukuma Wiki', image: 'https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&auto=format&fit=crop' },
+  { name: 'Mchicha', image: 'https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&auto=format&fit=crop' },
+  { name: 'Nyama ya Ng\'ombe', image: 'https://images.unsplash.com/photo-1603048297172-c92544798d5a?w=400&auto=format&fit=crop' },
+  { name: 'Unga wa Mahindi', image: 'https://kenyanwallstreet.com/_next/image?url=https%3A%2F%2Fassets.kenyanwallstreet.com%2Fassets%2F1ca57723-562a-4125-9f9b-7c15f59749dc%2F1ca57723-562a-4125-9f9b-7c15f59749dc.jpg%3Fkey%3Dlarge-avif&w=3840&q=75' },
+  { name: 'Maharagwe (Njano-Kijani)', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5alW-R8SqmKF1Mfvm417stVWk-hNgZMSQQ&s' },
+  { name: 'Kunde', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKaZO048MOYXcFNoFariRYfaqAB3engTIWw&s' },
+  { name: 'Ndizi (ya Kupika)', image: 'https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&auto=format&fit=crop' },
+];
+
+const HOW_IT_WORKS_EN = [
+  { icon: '🤖', title: 'LSTM Neural Network', desc: 'Analyzes historical price patterns over time to detect seasonal trends and long-term price movements.' },
+  { icon: '🌦️', title: 'Weather & Climate AI', desc: 'Integrates real-time weather data and climate forecasts to factor in crop yield impacts on pricing.' },
+  { icon: '📊', title: 'Market Ensemble Model', desc: 'Combines multiple AI models and live market data from 100+ Kenyan markets for accurate price predictions.' },
+];
+
+const HOW_IT_WORKS_SW = [
+  { icon: '🤖', title: 'Mtandao wa Neva wa LSTM', desc: 'Inachambua mwenendo wa bei wa kihistoria kugundua mwenendo wa msimu na mabadiliko ya bei ya muda mrefu.' },
+  { icon: '🌦️', title: 'AI ya Hali ya Hewa', desc: 'Inaunganisha data ya hali ya hewa ya wakati halisi na utabiri wa hali ya hewa kuzingatia athari za mavuno kwenye bei.' },
+  { icon: '📊', title: 'Mfano wa Pamoja wa Soko', desc: 'Inaunganisha mifano mingi ya AI na data ya soko ya moja kwa moja kutoka masoko 100+ ya Kenya.' },
+];
+
 export default function Home() {
+  const { t, lang } = useLang();
+  const COMMODITIES = lang === 'en' ? COMMODITIES_EN : COMMODITIES_SW;
+  const HOW_IT_WORKS = lang === 'en' ? HOW_IT_WORKS_EN : HOW_IT_WORKS_SW;
+
   return (
     <main className="min-h-screen" style={{ backgroundColor: '#FAF6EE' }}>
 
@@ -27,15 +59,15 @@ export default function Home() {
       {/* Commodities Section */}
       <section className="max-w-7xl mx-auto px-4 py-16">
         <div className="text-center mb-10">
-          <h2 className="text-3xl font-bold" style={{ color: '#1A1F1B' }}>Tracked Commodities</h2>
-          <p className="mt-2" style={{ color: '#7A8C7E' }}>Click on a commodity to view its price forecast</p>
+          <h2 className="text-3xl font-bold" style={{ color: '#1A1F1B' }}>{t.tracked}</h2>
+          <p className="mt-2" style={{ color: '#7A8C7E' }}>{t.tracked_sub}</p>
         </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
           {COMMODITIES.map((commodity) => (
             <Link
               key={commodity.name}
-              href={`/forecast?commodity=${encodeURIComponent(commodity.name)}`}
+              href={`/forecast?commodity=${encodeURIComponent(COMMODITIES_EN[COMMODITIES.indexOf(commodity)].name)}`}
               className="group rounded-2xl overflow-hidden transition-all duration-200"
               style={{ backgroundColor: '#EEF5F0', boxShadow: '0 2px 8px rgba(27,58,45,0.08)' }}
               onMouseEnter={e => e.currentTarget.style.boxShadow = '0 6px 20px rgba(27,58,45,0.18)'}
@@ -51,7 +83,7 @@ export default function Home() {
               </div>
               <div className="p-4">
                 <h3 className="font-semibold text-sm" style={{ color: '#1A1F1B' }}>{commodity.name}</h3>
-                <p className="text-xs mt-1 font-medium" style={{ color: '#E8900A' }}>View Forecast →</p>
+                <p className="text-xs mt-1 font-medium" style={{ color: '#E8900A' }}>{t.view_forecast}</p>
               </div>
             </Link>
           ))}
@@ -65,7 +97,7 @@ export default function Home() {
             onMouseEnter={e => e.currentTarget.style.backgroundColor = '#2d6e3e'}
             onMouseLeave={e => e.currentTarget.style.backgroundColor = '#1B3A2D'}
           >
-            View All Commodities →
+            {t.view_all}
           </Link>
         </div>
       </section>
@@ -74,12 +106,12 @@ export default function Home() {
       <section className="py-16" style={{ backgroundColor: '#EEF5F0' }}>
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-10">
-            <h2 className="text-3xl font-bold" style={{ color: '#1A1F1B' }}>How It Works</h2>
-            <p className="mt-2" style={{ color: '#7A8C7E' }}>Powered by Powerful AI models working together</p>
+            <h2 className="text-3xl font-bold" style={{ color: '#1A1F1B' }}>{t.how_it_works}</h2>
+            <p className="mt-2" style={{ color: '#7A8C7E' }}>{t.how_sub}</p>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-8">
-            {[].map((model) => (
+            {HOW_IT_WORKS.map((model) => (
               <div key={model.title} className="text-center p-6 rounded-2xl" style={{ backgroundColor: '#FAF6EE' }}>
                 <p className="text-5xl mb-4">{model.icon}</p>
                 <h3 className="text-lg font-bold mb-2" style={{ color: '#1A1F1B' }}>{model.title}</h3>
@@ -92,10 +124,8 @@ export default function Home() {
 
       {/* CTA Section */}
       <section className="py-16 text-center" style={{ backgroundColor: '#1B3A2D' }}>
-        <h2 className="text-3xl font-bold text-white mb-4">Make Smarter Decisions?</h2>
-        <p className="mb-8 max-w-xl mx-auto" style={{ color: '#4CAF6E' }}>
-          Get AI-powered price forecasts for any commodity across Kenya's markets.
-        </p>
+        <h2 className="text-3xl font-bold text-white mb-4">{t.cta_title}</h2>
+        <p className="mb-8 max-w-xl mx-auto" style={{ color: '#4CAF6E' }}>{t.cta_sub}</p>
         <Link
           href="/forecast"
           className="font-semibold px-8 py-3.5 rounded-xl transition-colors duration-200"
@@ -103,7 +133,7 @@ export default function Home() {
           onMouseEnter={e => e.currentTarget.style.backgroundColor = '#c97808'}
           onMouseLeave={e => e.currentTarget.style.backgroundColor = '#E8900A'}
         >
-          Get Started →
+          {t.get_started}
         </Link>
       </section>
 

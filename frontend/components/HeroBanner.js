@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
+import { useLang } from './Language';
 
 function CountUp({ target, duration = 2000 }) {
   const [count, setCount] = useState(0);
@@ -40,6 +41,8 @@ function CountUp({ target, duration = 2000 }) {
 }
 
 export default function HeroBanner() {
+  const { t } = useLang();
+
   return (
     <div className="relative w-full h-screen overflow-hidden -mt-[60px]">
       <img
@@ -52,15 +55,16 @@ export default function HeroBanner() {
 
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
 
+        
         <div className="flex flex-wrap justify-center gap-8 mb-10">
           {[
-            { value: '19', label: 'Commodities' },
-            { value: '100+', label: 'Markets' },
-            { value: '30', label: 'Counties' },
-            { value: '3', label: 'AI Models' },
+            { value: '19', label: t.commodities_label },
+            { value: '100+', label: t.markets_label },
+            { value: '30', label: t.counties_label },
+            { value: '3', label: t.ai_models_label },
           ].map((stat) => (
             <div key={stat.label} className="text-center">
-              <p className="text-4xl font-bold text-green-400">
+              <p className="text-4xl font-bold" style={{ color: '#E8900A' }}>
                 <CountUp target={stat.value} />
               </p>
               <p className="text-gray-300 text-sm mt-1 uppercase tracking-widest">{stat.label}</p>
@@ -68,31 +72,40 @@ export default function HeroBanner() {
           ))}
         </div>
 
-        <span className="bg-green-600 text-white text-xs font-semibold px-4 py-1.5 rounded-full uppercase tracking-widest mb-6">
-          AI-Powered Agricultural Forecasting
+        
+        <span
+          className="text-white text-xs font-semibold px-4 py-1.5 rounded-full uppercase tracking-widest mb-6"
+          style={{ backgroundColor: '#1B3A2D' }}
+        >
+          {t.hero_badge}
         </span>
 
+        
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight max-w-4xl mb-6">
-          Know Tomorrow's <span className="text-green-400">Crop Prices</span> Today
+          {t.hero_title_1}{' '}
+          <span style={{ color: '#4CAF6E' }}>{t.hero_title_2}</span>{' '}
+          {t.hero_title_3}
         </h1>
 
-        <p className="text-gray-300 text-lg max-w-2xl mb-10">
-          Real-time market intelligence and AI-powered price forecasts for Kenya's agricultural commodities.
-          Empowering farmers, traders, and consumers with data-driven decisions.
-        </p>
+       
+        <p className="text-gray-300 text-lg max-w-2xl mb-10">{t.hero_sub}</p>
 
+        
         <div className="flex flex-col sm:flex-row gap-4">
           <Link
             href="/forecast"
-            className="bg-green-600 hover:bg-green-700 text-white font-semibold px-8 py-3.5 rounded-xl transition-colors duration-200 text-base"
+            className="text-white font-semibold px-8 py-3.5 rounded-xl transition-colors duration-200 text-base"
+            style={{ backgroundColor: '#1B3A2D' }}
+            onMouseEnter={e => e.currentTarget.style.backgroundColor = '#2d6e3e'}
+            onMouseLeave={e => e.currentTarget.style.backgroundColor = '#1B3A2D'}
           >
-            Get Price Forecast →
+            {t.get_forecast_btn}
           </Link>
           <Link
             href="/review"
             className="bg-white/10 hover:bg-white/20 text-white font-semibold px-8 py-3.5 rounded-xl transition-colors duration-200 text-base border border-white/30"
           >
-            Learn More
+            {t.learn_more}
           </Link>
         </div>
       </div>
