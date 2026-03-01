@@ -1,5 +1,4 @@
 import os
-import re
 import joblib
 from tensorflow.keras.models import load_model
 from config import MODEL_PATHS, MODEL_SUFFIXES
@@ -7,8 +6,7 @@ from config import MODEL_PATHS, MODEL_SUFFIXES
 
 
 def safe_name(com):
-    return re.sub(r'[^\w\-]', '_', com)
-
+    return com.replace(" ", "_").replace("/", "_")
 
 
 def load_all_models(commodities):
