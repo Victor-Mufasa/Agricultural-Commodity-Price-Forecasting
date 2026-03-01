@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Utabiri Agro",
   description: "Predict Future Crop Prices",
+  icons: {
+    icon: "/favicon.svg",
+    
+  },
 };
 
 export default function RootLayout({ children }) {
