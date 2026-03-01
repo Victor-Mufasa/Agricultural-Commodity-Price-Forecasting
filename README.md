@@ -29,6 +29,7 @@ Target Users:
 UserBenefitFarmersKnow the best time to sell their produceTraders & AggregatorsAnticipate price movements and plan procurementPolicymakersDetect emerging price shocks and plan interventionsCommon MwananchiUnderstand expected food costs and budget accordingly
 
 📁 Project Structure
+```text
 Agricultural-Commodity-Price-Forecasting/
 │
 ├── data/
@@ -49,7 +50,7 @@ Agricultural-Commodity-Price-Forecasting/
 ├── presentation.pdf        # Project slide deck and results presentation
 ├── runtime.txt             # Python runtime version specification
 └── .gitignore
-
+```
 📊 Dataset
 
 The dataset contains historical retail prices collected across Kenyan markets and compiled from sources tracking commodity prices at the county and market level.
