@@ -53,6 +53,20 @@ export default function ForecastPage() {
     loadDropdowns();
   }, []);
 
+  const availableModels = availability[selectedCommodity] || {};
+  const modelOptions = [
+    { value: 'xgb', label: 'XGBoost', key: `xgb_${selectedPriceType.toLowerCase()}` },
+    { value: 'lstm', label: 'LSTM', key: `lstm_${selectedPriceType.toLowerCase()}` },
+    { value: 'sarima', label: 'SARIMA', key: `sarima_${selectedPriceType.toLowerCase()}` },
+  ].filter(m => availableModels[m.key]);
+
+  // Auto-select first available model when commodity or price type changes
+  useEffect(() => {
+    if (modelOptions.length > 0 && !modelOptions.find(m => m.value === selectedModel)) {
+      setSelectedModel(modelOptions[0].value);
+    }
+  }, [selectedCommodity, selectedPriceType, availability]);
+
   const handleCountyChange = async (county) => {
     setSelectedCounty(county);
     setSelectedMarket('');
@@ -64,15 +78,17 @@ export default function ForecastPage() {
     }
   };
 
-  const availableModels = availability[selectedCommodity] || {};
-  const modelOptions = [
-    { value: 'xgb', label: 'XGBoost', key: `xgb_${selectedPriceType.toLowerCase()}` },
-    { value: 'lstm', label: 'LSTM', key: `lstm_${selectedPriceType.toLowerCase()}` },
-    { value: 'sarima', label: 'SARIMA', key: `sarima_${selectedPriceType.toLowerCase()}` },
-  ].filter(m => availableModels[m.key]);
-
   const handleFetch = async () => {
     if (!selectedCommodity) return;
+
+    // Check if any model is available for this combination
+    if (modelOptions.length === 0) {
+      setError(lang === 'en'
+        ? `No forecast model available for '${selectedCommodity}' ${selectedPriceType} prices. Try switching to Retail.`
+        : `Hakuna mfano wa utabiri kwa '${selectedCommodity}' bei za ${selectedPriceType === 'Retail' ? 'rejareja' : 'jumla'}. Jaribu kubadilisha bei ya rejareja.`);
+      return;
+    }
+
     setLoading(true);
     setError('');
     setHasSearched(true);
@@ -235,10 +251,11 @@ export default function ForecastPage() {
 
         {!hasSearched && (
           <div className="text-center py-20" style={{ color: '#7A8C7E' }}>
-           <p className="text-lg">
+            <p className="text-5xl mb-4">🌽</p>
+            <p className="text-lg">
               {lang === 'en'
-                ? <>Select a commodity and click <strong>Get Forecast</strong> to begin</>
-                : <>Chagua bidhaa na ubonyeze <strong>Pata Utabiri</strong> kuanza</>}
+                ? <><span>Select a commodity and click </span><strong>Get Forecast</strong><span> to begin</span></>
+                : <><span>Chagua bidhaa na ubonyeze </span><strong>Pata Utabiri</strong><span> kuanza</span></>}
             </p>
           </div>
         )}
