@@ -187,7 +187,7 @@ export default function ForecastPage() {
               onChange={setSelectedMarket}
               options={[
                 { value: '', label: lang === 'en' ? 'All Markets' : 'Masoko Yote' },
-                ...markets.map(m => ({ value: m, label: m }))
+                ...markets.map(m => ({ value: m, label: m })))))))))))
               ]}
             /> */}
             <Selector
