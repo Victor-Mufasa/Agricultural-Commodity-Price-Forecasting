@@ -60,7 +60,7 @@ export default function ForecastPage() {
     { value: 'sarima', label: 'SARIMA', key: `sarima_${selectedPriceType.toLowerCase()}` },
   ].filter(m => availableModels[m.key]);
 
-  // Auto-select first available model when commodity or price type changes
+ 
   useEffect(() => {
     if (modelOptions.length > 0 && !modelOptions.find(m => m.value === selectedModel)) {
       setSelectedModel(modelOptions[0].value);
@@ -81,7 +81,7 @@ export default function ForecastPage() {
   const handleFetch = async () => {
     if (!selectedCommodity) return;
 
-    // Check if any model is available for this combination
+    
     if (modelOptions.length === 0) {
       setError(lang === 'en'
         ? `No forecast model available for '${selectedCommodity}' ${selectedPriceType} prices. Try switching to Retail.`
@@ -172,24 +172,7 @@ export default function ForecastPage() {
                 { value: 'Wholesale', label: lang === 'en' ? 'Wholesale' : 'Jumla' },
               ]}
             />
-            {/* <Selector
-              label={lang === 'en' ? 'County (optional)' : 'Kaunti (hiari)'}
-              value={selectedCounty}
-              onChange={handleCountyChange}
-              options={[
-                { value: '', label: lang === 'en' ? 'All Counties' : 'Kaunti Zote' },
-                ...counties.map(c => ({ value: c, label: c }))
-              ]}
-            />
-            <Selector
-              label={lang === 'en' ? 'Market (optional)' : 'Soko (hiari)'}
-              value={selectedMarket}
-              onChange={setSelectedMarket}
-              options={[
-                { value: '', label: lang === 'en' ? 'All Markets' : 'Masoko Yote' },
-                ...markets.map(m => ({ value: m, label: m })))))))))))
-              ]}
-            /> */}
+            
             <Selector
               label={lang === 'en' ? 'Forecast Horizon' : 'Muda wa Utabiri'}
               value={selectedSteps}

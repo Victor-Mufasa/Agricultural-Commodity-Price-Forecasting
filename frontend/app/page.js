@@ -35,15 +35,15 @@ const COMMODITIES_SW = [
 ];
 
 const HOW_IT_WORKS_EN = [
-  { icon: '🤖', title: 'LSTM Neural Network', desc: 'Analyzes historical price patterns over time to detect seasonal trends and long-term price movements.' },
-  { icon: '🌦️', title: 'Weather & Climate AI', desc: 'Integrates real-time weather data and climate forecasts to factor in crop yield impacts on pricing.' },
-  { icon: '📊', title: 'Market Ensemble Model', desc: 'Combines multiple AI models and live market data from 100+ Kenyan markets for accurate price predictions.' },
+  { icon: '', title: 'LSTM Neural Network', desc: 'Analyzes historical price patterns over time to detect seasonal trends and long-term price movements.' },
+  { icon: '', title: 'Weather & Climate AI', desc: 'Integrates real-time weather data and climate forecasts to factor in crop yield impacts on pricing.' },
+  { icon: '', title: 'Market Ensemble Model', desc: 'Combines multiple AI models and live market data from 100+ Kenyan markets for accurate price predictions.' },
 ];
 
 const HOW_IT_WORKS_SW = [
-  { icon: '🤖', title: 'Mtandao wa Neva wa LSTM', desc: 'Inachambua mwenendo wa bei wa kihistoria kugundua mwenendo wa msimu na mabadiliko ya bei ya muda mrefu.' },
-  { icon: '🌦️', title: 'AI ya Hali ya Hewa', desc: 'Inaunganisha data ya hali ya hewa ya wakati halisi na utabiri wa hali ya hewa kuzingatia athari za mavuno kwenye bei.' },
-  { icon: '📊', title: 'Mfano wa Pamoja wa Soko', desc: 'Inaunganisha mifano mingi ya AI na data ya soko ya moja kwa moja kutoka masoko 100+ ya Kenya.' },
+  { icon: '', title: 'Mtandao wa Neva wa LSTM', desc: 'Inachambua mwenendo wa bei wa kihistoria kugundua mwenendo wa msimu na mabadiliko ya bei ya muda mrefu.' },
+  { icon: '', title: 'AI ya Hali ya Hewa', desc: 'Inaunganisha data ya hali ya hewa ya wakati halisi na utabiri wa hali ya hewa kuzingatia athari za mavuno kwenye bei.' },
+  { icon: '', title: 'Mfano wa Pamoja wa Soko', desc: 'Inaunganisha mifano mingi ya AI na data ya soko ya moja kwa moja kutoka masoko 100+ ya Kenya.' },
 ];
 
 export default function Home() {
@@ -56,7 +56,7 @@ export default function Home() {
 
       <HeroBanner />
 
-      {/* Commodities Section */}
+     
       <section className="max-w-7xl mx-auto px-4 py-16">
         <div className="text-center mb-10">
           <h2 className="text-3xl font-bold" style={{ color: '#1A1F1B' }}>{t.tracked}</h2>
@@ -102,7 +102,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* How It Works Section */}
+      
       <section className="py-16" style={{ backgroundColor: '#EEF5F0' }}>
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-10">
@@ -122,7 +122,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CTA Section */}
+      
       <section className="py-16 text-center" style={{ backgroundColor: '#1B3A2D' }}>
         <h2 className="text-3xl font-bold text-white mb-4">{t.cta_title}</h2>
         <p className="mb-8 max-w-xl mx-auto" style={{ color: '#4CAF6E' }}>{t.cta_sub}</p>
