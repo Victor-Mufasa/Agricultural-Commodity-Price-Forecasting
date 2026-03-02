@@ -34,11 +34,10 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
 
-        <Link href="/" className="flex items-center gap-2">
-          <span className="text-2xl">🌾</span>
-          <span className="font-bold text-white text-xl">Utabiri Agro</span>
-        </Link>
-
+            <Link href="/" className="flex items-center gap-2">
+            <img src="/favicon.svg" alt="Utabiri Agro Logo" className="w-8 h-8" />
+            <span className="font-bold text-white text-xl">Utabiri Agro</span>
+            </Link>
         <div className="hidden md:flex items-center gap-10 absolute left-1/2 -translate-x-1/2">
           {links.map((link) => (
             <Link
@@ -64,7 +63,7 @@ export default function Navbar() {
             onMouseEnter={e => { e.currentTarget.style.backgroundColor = '#E8900A'; e.currentTarget.style.color = '#fff'; }}
             onMouseLeave={e => { e.currentTarget.style.backgroundColor = 'transparent'; e.currentTarget.style.color = '#E8900A'; }}
           >
-            {lang === 'en' ? '🇰🇪 SW' : '🇬🇧 EN'}
+            {lang === 'en' ? ' SW' : ' EN'}
           </button>
 
           <Link
