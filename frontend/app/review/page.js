@@ -5,7 +5,7 @@ import { useLang } from '../../components/Language';
 
 const TEAM = [
   { name: 'Victor Kipkemboi', role: { en: 'Project Lead', sw: 'Kiongozi wa Mradi' }, image: '/Victor.jpg' },
-  { name: 'Jose` Barasa', role: { en: 'Fullstack Developer', sw: 'Mtengenezaji wa Fullstack' }, image: '/Yours_truly.jpg' },
+  { name: 'Jose` Barasa', role: { en: 'Fullstack Developer', sw: 'Mtengenezaji wa Fullstack' }, image: '/Jose.jpg' },
   { name: 'Sharon Gichira', role: { en: 'Data Analyst', sw: 'Mchambuzi wa Data' }, image: 'Sharon.jpg' },
   { name: 'Graham Akello', role: { en: 'ML Engineer', sw: 'Mhandisi wa ML' }, image: '/Graham.jpg' },
   { name: 'Maureen Kitonyi', role: { en: 'ML Engineer', sw: 'Mhandisi wa ML' }, image: '/Maureen.jpg' },
